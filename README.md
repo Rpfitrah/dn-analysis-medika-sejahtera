@@ -34,3 +34,8 @@ After analyzing approximately 680 DN transactions at PT Medika Sejahtera through
 West Jakarta and Bekasi emerged as the two most problematic regions, accounting for 75 cases combined. Late DNs took an average of 30 days to be returned — 5 times longer than the normal 6-day window. At the institution level, private hospitals dominated the top 10, with 8 out of 10 problematic institutions being private hospitals, and Klinik Safitri recorded the highest number of problematic DNs throughout the year.
 
 Interestingly, in West Jakarta, the issue cannot be attributed to any specific delivery method, as both internal and third-party couriers contributed almost equally. In Bekasi, however, third-party couriers accounted for up to 80% of cases — indicating a need to evaluate external courier performance in that region.
+
+## Insight and Recomendation
+### Key Insight
+Throughout 2024, nearly 1 in 3 DNs were problematic — either returned late or not returned at all. West Jakarta and Bekasi emerged as the two most problematic regions, accounting for 75 cases combined, where delayed DNs took an average of 30 days to be returned — 5 times longer than the normal 6-day window. At the institution level, private hospitals dominated the top 10 with 8 out of 10 problematic institutions, and Klinik Safitri recorded the highest number of problematic DNs throughout the year.
+Interestingly, in West Jakarta, the issue cannot be attributed to any specific delivery method, as both internal and third-party couriers contributed almost equally. In Bekasi, however, third-party couriers accounted for up to 80% of cases.
