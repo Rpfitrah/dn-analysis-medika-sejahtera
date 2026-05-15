@@ -1,7 +1,12 @@
 # Analysis of Delivery Note Return Delays at PT Medika Sejahtera
 
+This project was born from firsthand experience. I previously worked in the document processing team at a medical equipment distributor, responsible for verifying the completeness of billing documents — including Delivery Notes, invoices, receipts, and purchase orders. A missing DN meant the entire downstream process came to a halt: the tax team couldn't proceed, and the billing team couldn't exchange invoices with the customer. This project is my attempt to quantify that problem using data and provide recommendations that could actually make a difference.
+
 ## Project Overview
 PT Medika Sejahtera, a medical equipment distributor operating across the Greater Jakarta area, is experiencing cash flow constraints caused by delays in Delivery Note (DN) returns from healthcare institutions after goods are delivered. This project analyzes delay patterns across institutions and regions, examines the average return timeframe, and evaluates shipping methods that contribute to the issue — with the goal of providing actionable recommendations.
+> **Note:** The dataset used in this project is synthetic 
+> and was created to simulate real-world business scenarios 
+> based on the author's prior experience in the industry.
 
 ## Business Question
 1. Which healthcare institutions have the highest number of delayed DN returns?
