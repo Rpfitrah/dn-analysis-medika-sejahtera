@@ -27,7 +27,7 @@ nama-repository/
 ├── Notebook/  
 │   ├── Data_Understanding.ipynb  
 │   ├── Data_Cleaning.ipynb  
-│   └── EDA.ipynb  
+│   └── EDA.ipynb             
 ├── dataset_setup.sql  
 ├── ERD.dbdiagram  
 ├── df_clean.csv  
