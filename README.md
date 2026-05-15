@@ -13,3 +13,17 @@ PT Medika Sejahtera, a medical equipment distributor operating across the Greate
 - **Python** — Pandas, Matplotlib, Seaborn, SQLAlchemy, ipython-sql
 - **PostgreSQL** — Database & querying
 - **Jupyter Notebook** — Analysis documentation
+
+## Folder Structure
+nama-repository/  
+│  
+├── Dataset/  
+│   └── (raw CSV files)  
+├── Notebook/  
+│   ├── Data_Understanding.ipynb  
+│   ├── Data_Cleaning.ipynb  
+│   └── EDA.ipynb  
+├── dataset_setup.sql  
+├── ERD.dbdiagram  
+├── df_clean.csv  
+└── [README.md](http://readme.md/)
