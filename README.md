@@ -10,3 +10,6 @@ PT Medika Sejahtera, a medical equipment distributor operating across the Greate
 4. What delivery methods are commonly used in high-delay regions?
 
 ## Tools & Technologies
+- **Python** — Pandas, Matplotlib, Seaborn, SQLAlchemy, ipython-sql
+- **PostgreSQL** — Database & querying
+- **Jupyter Notebook** — Analysis documentation
