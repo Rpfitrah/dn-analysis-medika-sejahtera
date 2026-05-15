@@ -46,9 +46,22 @@ Interestingly, in West Jakarta, the issue cannot be attributed to any specific d
 First, the company should establish a maximum DN return deadline — for example, 14 days after goods are received — as a standard operational policy applicable to all institutions. Second, a dedicated monitoring team should be prioritized in West Jakarta and Bekasi, responsible for tracking DNs that are approaching or have exceeded this deadline, while collaborating with sales representatives to conduct direct follow-ups at least once a week. Third, a comprehensive evaluation of delivery methods should be conducted in high-delay regions — specifically focusing on third-party courier performance in Bekasi, Tangerang, and Depok. For West Jakarta, however, the evaluation needs to go beyond delivery methods, given that both internal and third-party couriers contribute almost equally in that region.
 
 ## How to Run
-1. Clone this repository
-2. Set up the database by running `dataset_setup.sql` in PostgreSQL
-3. Run the notebooks in order:
-   - Data_Understanding.ipynb
-   - Data_Cleaning.ipynb
-   - EDA.ipynb
+1. Clone this repository  
+    git git clone https://github.com/Rpfitrah/dn-analysis-medika-sejahtera
+
+2. Set up the database by running `dataset_setup.sql` in PostgreSQL  
+    pip install pandas matplotlib seaborn sqlalchemy ipython-sql
+3. Set up the database in PostgreSQL:
+   - Create a database named `medika_sejahtera` in pgAdmin
+   - Open **PSQL Tool** by right-clicking the `medika_sejahtera` 
+     database in pgAdmin and selecting **PSQL Tool**
+   - Copy and run the contents of `dataset_setup.sql` 
+     in the PSQL Tool
+   > **Note:** The `\copy` commands will import CSV files 
+   > from the `Dataset/` folder. Make sure the file path 
+   > matches your local directory.
+
+4. Run the notebooks in order:
+   - `Data_Understanding.ipynb`
+   - `Data_Cleaning.ipynb`
+   - `EDA.ipynb`
