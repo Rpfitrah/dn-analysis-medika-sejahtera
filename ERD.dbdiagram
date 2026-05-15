@@ -1,0 +1,126 @@
+{
+  "version": "1.0.0",
+  "darkMode": true,
+  "gridEnabling": false,
+  "detailLevel": "All",
+  "tablePositions": [
+    {
+      "name": "master_customer",
+      "schemaName": "public",
+      "x": 590.8563433087832,
+      "y": -57.917122510751824
+    },
+    {
+      "name": "master_sku",
+      "schemaName": "public",
+      "x": 57.97960812074234,
+      "y": 751.9237580834491
+    },
+    {
+      "name": "master_sales_rep",
+      "schemaName": "public",
+      "x": -374.54701447579527,
+      "y": 498.7863379765121
+    },
+    {
+      "name": "so_data",
+      "schemaName": "public",
+      "x": 93.06418765088688,
+      "y": 385.1820854314825
+    },
+    {
+      "name": "so_detail",
+      "schemaName": "public",
+      "x": -385.14216483754586,
+      "y": 157.62112100160385
+    },
+    {
+      "name": "inoice_data",
+      "schemaName": "public",
+      "x": 479.25544305971675,
+      "y": 377.5485404209691
+    },
+    {
+      "name": "invoice_detail",
+      "schemaName": "public",
+      "x": 1115.3721870681127,
+      "y": 296.3828634221025
+    },
+    {
+      "name": "dn_data",
+      "schemaName": "public",
+      "x": 1048.709873389105,
+      "y": 691.564547879788
+    },
+    {
+      "name": "return_data",
+      "schemaName": "public",
+      "x": 593.9871741640318,
+      "y": 989.7441681129528
+    }
+  ],
+  "tableGroupCollapseStates": [],
+  "stickyNoteLayouts": [],
+  "referencePaths": [
+    {
+      "firstFieldNames": [
+        "customer_id"
+      ],
+      "firstTableName": "so_data",
+      "firstSchemaName": "public",
+      "firstRelation": "*",
+      "secondFieldNames": [
+        "customer_id"
+      ],
+      "secondTableName": "master_customer",
+      "secondSchemaName": "public",
+      "secondRelation": "1",
+      "checkPoints": []
+    },
+    {
+      "firstFieldNames": [
+        "sales_rep_id"
+      ],
+      "firstTableName": "so_data",
+      "firstSchemaName": "public",
+      "firstRelation": "*",
+      "secondFieldNames": [
+        "sales_rep_id"
+      ],
+      "secondTableName": "master_sales_rep",
+      "secondSchemaName": "public",
+      "secondRelation": "1",
+      "checkPoints": []
+    },
+    {
+      "firstFieldNames": [
+        "so_id"
+      ],
+      "firstTableName": "so_detail",
+      "firstSchemaName": "public",
+      "firstRelation": "*",
+      "secondFieldNames": [
+        "so_id"
+      ],
+      "secondTableName": "so_data",
+      "secondSchemaName": "public",
+      "secondRelation": "1",
+      "checkPoints": []
+    },
+    {
+      "firstFieldNames": [
+        "sku_id"
+      ],
+      "firstTableName": "so_detail",
+      "firstSchemaName": "public",
+      "firstRelation": "*",
+      "secondFieldNames": [
+        "sku_id"
+      ],
+      "secondTableName": "master_sku",
+      "secondSchemaName": "public",
+      "secondRelation": "1",
+      "checkPoints": []
+    }
+  ]
+}

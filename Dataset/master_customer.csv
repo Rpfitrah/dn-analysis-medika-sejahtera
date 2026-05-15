@@ -1,0 +1,221 @@
+﻿customer_id,customer_name,customer_type,region,alamat,payment_terms,customer_status
+RSP001,RSUD Zulaika,RS Pemerintah,Jakarta Barat,"Jl. KH Amin Jasuta No. 173, Cirebon, JA 74749",NET 45,Active
+RSS001,RS Suryono,RS Swasta,Tangerang,"Gang Dipatiukur No. 1, Tebingtinggi, Kepulauan Riau 46986",NET 30,Active
+KLN001,Klinik Laksita,Klinik,Jakarta Timur,"Gang Surapati No. 0, Payakumbuh, Bali 83302",NET 30,Active
+RSS002,RS Wasita,RS Swasta,Jakarta Utara,"Gg. Surapati No. 10, Surakarta, Maluku Utara 15272",NET 30,Active
+KLN002,Klinik Sihombing,Klinik,Jakarta Selatan,"Jalan Rajawali Timur No. 088, Palangkaraya, BA 39649",NET 30,Active
+RSS003,RS Dongoran,RS Swasta,Bekasi,"Jl. Jend. Sudirman No. 6, Dumai, Sumatera Barat 48478",NET 30,Active
+RSP002,RSUD Maheswara,RS Pemerintah,Depok,"Jl. Pelajar Pejuang No. 48, Bandung, DKI Jakarta 56117",NET 45,Active
+KLN003,Klinik Wasita,Klinik,Bekasi,"Jalan Abdul Muis No. 1, Sawahlunto, NB 33992",NET 30,Active
+KLN004,Klinik Wibisono,Klinik,Jakarta Pusat,"Jalan PHH. Mustofa No. 7, Tomohon, GO 67022",NET 30,Active
+KLN005,Klinik Kuswandari,Klinik,Bogor,"Jl. Jend. Sudirman No. 49, Tanjungpinang, KR 36878",NET 30,Active
+RSS004,RS Waskita,RS Swasta,Jakarta Barat,"Gg. Sentot Alibasa No. 540, Tebingtinggi, RI 20974",NET 30,Active
+KLN006,Klinik Hutagalung,Klinik,Bogor,"Jl. Pasteur No. 97, Langsa, Gorontalo 40266",NET 30,Active
+KLN007,Klinik Permadi,Klinik,Depok,"Jl. Pasteur No. 1, Bandar Lampung, NT 00784",NET 30,Active
+RSS005,RS Salahudin,RS Swasta,Jakarta Utara,"Jl. Abdul Muis No. 399, Pontianak, BB 80123",NET 30,Active
+RSP003,RSUD Marbun,RS Pemerintah,Bekasi,"Jl. Pasir Koja No. 7, Kota Administrasi Jakarta Selatan, Sulawesi Utara 97492",NET 45,Active
+RSS006,RS Manullang,RS Swasta,Depok,"Jl. Tubagus Ismail No. 8, Tangerang, BA 25275",NET 30,Active
+RSS007,RS Hardiansyah,RS Swasta,Jakarta Barat,"Jalan Medokan Ayu No. 5, Bukittinggi, Kalimantan Utara 85097",NET 30,Active
+RSS008,RS Dabukke,RS Swasta,Jakarta Selatan,"Gg. Dr. Djunjunan No. 5, Kediri, LA 93848",NET 30,Active
+KLN008,Klinik Permadi,Klinik,Jakarta Timur,"Gg. Sentot Alibasa No. 00, Ambon, KU 23366",NET 30,Active
+RSP004,RSUD Handayani,RS Pemerintah,Depok,"Gg. W.R. Supratman No. 24, Singkawang, JK 70185",NET 45,Active
+RSP005,RSUD Pertiwi,RS Pemerintah,Depok,"Jl. Jend. Sudirman No. 40, Cimahi, KB 37680",NET 45,Active
+KLN009,Klinik Situmorang,Klinik,Bekasi,"Gang Peta No. 05, Kota Administrasi Jakarta Selatan, SN 17214",NET 30,Active
+KLN010,Klinik Hakim,Klinik,Jakarta Pusat,"Jalan Kapten Muslihat No. 958, Madiun, Aceh 17506",NET 30,Active
+KLN011,Klinik Agustina,Klinik,Bekasi,"Jl. Joyoboyo No. 1, Padangpanjang, Sumatera Selatan 43471",NET 30,Active
+KLN012,Klinik Prabowo,Klinik,Bogor,"Jl. Cikutra Barat No. 311, Jambi, JI 00095",NET 30,Active
+RSS009,RS Utama,RS Swasta,Jakarta Timur,"Jalan Rawamangun No. 6, Pekalongan, GO 10533",NET 30,Active
+RSP006,RSUD Puspita,RS Pemerintah,Jakarta Utara,"Gg. Jayawijaya No. 073, Padang Sidempuan, Gorontalo 93803",NET 45,Active
+KLN013,Klinik Sihotang,Klinik,Bekasi,"Gang Kapten Muslihat No. 87, Ambon, SR 74346",NET 30,Active
+KLN014,Klinik Sitompul,Klinik,Jakarta Utara,"Gang H.J Maemunah No. 03, Kotamobagu, KS 13013",NET 30,Active
+RSS010,RS Ardianto,RS Swasta,Jakarta Barat,"Gang M.H Thamrin No. 5, Sukabumi, SR 33778",NET 30,Active
+RSS011,RS Halim,RS Swasta,Jakarta Timur,"Jalan S. Parman No. 40, Binjai, DI Yogyakarta 18640",NET 30,Active
+KLN015,Klinik Adriansyah,Klinik,Bekasi,"Gg. Cempaka No. 2, Banda Aceh, PB 47514",NET 30,Active
+RSS012,RS Haryanto,RS Swasta,Tangerang,"Gg. Raya Ujungberung No. 7, Bontang, Gorontalo 21353",NET 30,Active
+RSP007,RSUD Wulandari,RS Pemerintah,BOGOR,"Jl. Raya Ujungberung No. 6, Magelang, Sulawesi Barat 84513",NET 45,Active
+RSP008,RSUD Hakim,RS Pemerintah,Jakarta Barat,"Gang K.H. Wahid Hasyim No. 8, Banda Aceh, Jawa Timur 33834",NET 45,Active
+KLN016,Klinik Wasita,Klinik,Jakarta Selatan,"Gang Sukajadi No. 69, Palopo, Nusa Tenggara Barat 36878",NET 30,Active
+KLN017,Klinik Astuti,Klinik,Bekasi,"Gang Tubagus Ismail No. 7, Mataram, Maluku Utara 58420",NET 30,Active
+RSP009,RSUD Hutagalung,RS Pemerintah,Tangerang,"Gg. Sukajadi No. 47, Padang, Kepulauan Riau 64722",NET 45,Active
+RSP010,RSUD Wijaya,RS Pemerintah,Bekasi,"Jl. Ronggowarsito No. 19, Sawahlunto, DKI Jakarta 47606",NET 45,Active
+RSS013,RS Sinaga,RS Swasta,Jakarta Barat,"Jalan Cihampelas No. 82, Singkawang, KS 95594",NET 30,Active
+KLN018,Klinik Farida,Klinik,Jakarta Barat,"Jalan Ciumbuleuit No. 865, Samarinda, Jawa Barat 35513",NET 30,Active
+RSS014,RS Dabukke,RS Swasta,BOGOR,"Jl. Lembong No. 7, Pematangsiantar, Kalimantan Selatan 71602",NET 30,Active
+KLN019,Klinik Padmasari,Klinik,Tangerang,"Gg. Astana Anyar No. 33, Bontang, Kalimantan Barat 07263",NET 30,Active
+RSP011,RSUD Simanjuntak,RS Pemerintah,Jakarta Selatan,"Jl. Jend. Sudirman No. 34, Dumai, SN 45373",NET 45,Active
+RSP012,RSUD Pertiwi,RS Pemerintah,Bekasi,"Jalan Cikutra Timur No. 50, Tanjungpinang, Sulawesi Tengah 09457",NET 45,Active
+RSS015,RS Nababan,RS Swasta,Jakarta Pusat,"Jalan Jakarta No. 6, Surabaya, JT 50243",NET 30,Active
+KLN020,Klinik Widiastuti,Klinik,JKT PUSAT,"Jl. Wonoayu No. 1, Kota Administrasi Jakarta Pusat, Papua 29498",NET 30,Active
+RSP013,RSUD Pradipta,RS Pemerintah,Jakarta Pusat,"Gg. Asia Afrika No. 6, Bitung, Sulawesi Tengah 38473",NET 45,Active
+RSP014,RSUD Pradana,RS Pemerintah,Jakarta Barat,"Gg. Laswi No. 502, Kota Administrasi Jakarta Selatan, KI 82623",NET 45,Active
+KLN021,Klinik Sinaga,Klinik,Jakarta Barat,"Gang Peta No. 7, Surakarta, Sumatera Utara 88637",NET 30,Active
+RSP015,RSUD Prakasa,RS Pemerintah,Tangerang,"Jl. Ciumbuleuit No. 82, Tomohon, SU 79733",NET 45,Active
+KLN022,Klinik Pratama,Klinik,Depok,"Gang Jend. Sudirman No. 9, Bau-Bau, SB 13344",NET 30,Active
+RSP016,RSUD Novitasari,RS Pemerintah,Depok,"Jl. Setiabudhi No. 25, Kota Administrasi Jakarta Utara, Jawa Timur 39639",NET 45,Active
+RSS016,RS Natsir,RS Swasta,Tangerang,"Gg. W.R. Supratman No. 2, Surabaya, RI 30777",NET 30,Active
+KLN023,Klinik Wijayanti,Klinik,Jakarta Selatan,"Jalan Ronggowarsito No. 7, Sawahlunto, SN 92602",NET 30,Active
+RSS017,RS Yolanda,RS Swasta,Bogor,"Gg. Medokan Ayu No. 656, Yogyakarta, Lampung 08134",NET 30,Active
+RSP017,RSUD Prasetya,RS Pemerintah,Jakarta Barat,"Jalan Bangka Raya No. 3, Sawahlunto, NB 00153",NET 45,Active
+RSS018,RS Ardianto,RS Swasta,Depok,"Gg. Jakarta No. 7, Kota Administrasi Jakarta Pusat, SB 99970",NET 30,Active
+RSS019,RS Hidayat,RS Swasta,Jakarta Barat,"Jl. Rungkut Industri No. 2, Tegal, KU 22051",NET 30,Active
+RSS020,RS Mardhiyah,RS Swasta,Bekasi,"Jalan Astana Anyar No. 6, Bandung, BE 93629",NET 30,Active
+RSP018,RSUD Latupono,RS Pemerintah,Bekasi,"Gang Pasteur No. 04, Magelang, JI 35556",NET 45,Active
+KLN024,Klinik Hasanah,Klinik,Jakarta barat,"Gang Gardujati No. 183, Samarinda, Maluku 76533",NET 30,Active
+RSS021,RS Wijaya,RS Swasta,Tangerang,"Gang PHH. Mustofa No. 96, Sukabumi, Jawa Timur 86586",NET 30,Active
+KLN025,Klinik Wibisono,Klinik,Jakarta Pusat,"Jalan M.H Thamrin No. 84, Payakumbuh, MA 81856",NET 30,Active
+RSS022,RS Kusumo,RS Swasta,Depok,"Gang Suniaraja No. 77, Tangerang, Kepulauan Bangka Belitung 47058",NET 30,Active
+KLN026,Klinik Hardiansyah,Klinik,Tangerang,"Gg. Jend. A. Yani No. 3, Surakarta, KB 61820",NET 30,Active
+RSS023,RS Samosir,RS Swasta,Bekasi,"Jalan Rajiman No. 364, Tangerang, BB 97362",NET 30,Active
+KLN027,Klinik Saragih,Klinik,Jakarta Timur,"Jalan K.H. Wahid Hasyim No. 1, Lhokseumawe, Nusa Tenggara Barat 63992",NET 30,Active
+RSS024,RS Tampubolon,RS Swasta,Jakarta Pusat,"Jl. Monginsidi No. 04, Bekasi, Sulawesi Barat 05515",NET 30,Active
+KLN028,Klinik Hutagalung,Klinik,JKT PUSAT,"Jalan Cihampelas No. 73, Prabumulih, SN 12252",NET 30,Active
+RSP019,RSUD Mulyani,RS Pemerintah,Tangerang,"Gg. R.E Martadinata No. 45, Payakumbuh, PB 01126",NET 45,Active
+KLN029,Klinik Wastuti,Klinik,Bekasi,"Gg. Rajawali Barat No. 83, Pagaralam, BT 67918",NET 30,Active
+RSP020,RSUD Mardhiyah,RS Pemerintah,Bekasi,"Jl. Cempaka No. 6, Depok, Sulawesi Barat 80597",NET 45,Active
+KLN030,Klinik Laksita,Klinik,Jakarta Selatan,"Gang Suryakencana No. 17, Prabumulih, JT 35347",NET 30,Active
+RSP021,RSUD Purwanti,RS Pemerintah,Jakarta Barat,"Gg. Ahmad Dahlan No. 6, Tebingtinggi, BB 04736",NET 45,Active
+RSP022,RSUD Kurniawan,RS Pemerintah,Jakarta Barat,"Gang Waringin No. 94, Sorong, Jawa Barat 68901",NET 45,Active
+RSS025,RS Mansur,RS Swasta,Jakarta Selatan,"Gang M.T Haryono No. 32, Pekalongan, KB 55959",NET 30,Active
+KLN031,Klinik Wahyuni,Klinik,Bks,"Gg. Ir. H. Djuanda No. 273, Tasikmalaya, Nusa Tenggara Barat 06907",NET 30,Active
+KLN032,Klinik Prasetya,Klinik,Jakarta Barat,"Gang Tubagus Ismail No. 90, Jayapura, ST 36727",NET 30,Active
+KLN033,Klinik Hutapea,Klinik,Jakarta Barat,"Gg. Tebet Barat Dalam No. 86, Pekalongan, AC 89184",NET 30,Active
+RSS026,RS Winarno,RS Swasta,Jakarta Utara,"Jl. Sukajadi No. 509, Sungai Penuh, Gorontalo 65520",NET 30,Active
+RSS027,RS Maryati,RS Swasta,Jakarta Selatan,"Gg. Cempaka No. 9, Kupang, NB 37061",NET 30,Active
+RSS028,RS Firgantoro,RS Swasta,Jakarta Selatan,"Jl. Cihampelas No. 4, Sungai Penuh, SU 58347",NET 30,Active
+RSS029,RS Utama,RS Swasta,Bekasi,"Gg. Ciumbuleuit No. 52, Kendari, DKI Jakarta 34569",NET 30,Active
+RSP023,RSUD Uyainah,RS Pemerintah,Bogor,"Jalan Bangka Raya No. 70, Bau-Bau, JI 74778",NET 45,Active
+KLN034,Klinik Wibowo,Klinik,Bogor,"Jl. Merdeka No. 005, Banjar, YO 83711",NET 30,Active
+RSP024,RSUD Yuniar,RS Pemerintah,Bekasi,"Jl. Wonoayu No. 5, Kota Administrasi Jakarta Selatan, Nusa Tenggara Barat 20154",NET 45,Active
+RSS030,RS Yulianti,RS Swasta,Bekasi,"Gang Merdeka No. 737, Parepare, Bengkulu 13524",NET 30,Active
+KLN035,Klinik Nasyidah,Klinik,Bekasi,"Jalan Dipenogoro No. 40, Kotamobagu, JI 13321",NET 30,Active
+KLN036,Klinik Mulyani,Klinik,Jakarta Selatan,"Jalan Rungkut Industri No. 18, Lubuklinggau, KR 15845",NET 30,Active
+RSS031,RS Pranowo,RS Swasta,Jakarta Selatan,"Jalan Moch. Ramdan No. 214, Tanjungbalai, KU 44727",NET 30,Active
+RSP025,RSUD Yuliarti,RS Pemerintah,Jakarta Utara,"Gg. Peta No. 4, Yogyakarta, Kalimantan Barat 13864",NET 45,Active
+RSP026,RSUD Purwanti,RS Pemerintah,Bogor,"Jl. Rawamangun No. 87, Kota Administrasi Jakarta Pusat, Papua Barat 40960",NET 45,Active
+KLN037,Klinik Ramadan,Klinik,Jakarta Utara,"Jalan Cikutra Barat No. 69, Batu, BT 78774",NET 30,Active
+RSS032,RS Firgantoro,RS Swasta,Jakarta Pusat,"Gg. Siliwangi No. 8, Balikpapan, SS 27162",NET 30,Active
+RSS033,RS Wijayanti,RS Swasta,Jakarta Utara,"Jalan Jend. Sudirman No. 16, Kotamobagu, Papua Barat 11606",NET 30,Active
+RSP027,RSUD Pangestu,RS Pemerintah,Jakarta Timur,"Gang Jayawijaya No. 28, Tebingtinggi, Maluku 87793",NET 45,Active
+KLN038,Klinik Hutasoit,Klinik,Jakarta Timur,"Gang Sukabumi No. 25, Bau-Bau, BA 94114",NET 30,Active
+RSS034,RS Namaga,RS Swasta,Depok,"Gg. Suniaraja No. 5, Bima, ST 29799",NET 30,Active
+RSP028,RSUD Napitupulu,RS Pemerintah,Jakarta Selatan,"Jl. M.H Thamrin No. 137, Metro, Riau 21060",NET 45,Active
+KLN039,Klinik Halimah,Klinik,Bekasi,"Gang Cikapayang No. 85, Tangerang Selatan, Maluku 00119",NET 30,Active
+KLN040,Klinik Habibi,Klinik,Bekasi,"Jl. M.T Haryono No. 441, Sibolga, KT 66652",NET 30,Active
+RSS035,RS Rahmawati,RS Swasta,Jakarta Pusat,"Jalan Ciumbuleuit No. 39, Surakarta, Sulawesi Tengah 27349",NET 30,Active
+RSS036,RS Lestari,RS Swasta,Jakarta Pusat,"Jalan Rajawali Barat No. 8, Pekalongan, Jawa Timur 97170",NET 30,Active
+RSP029,RSUD Habibi,RS Pemerintah,Jakarta Barat,"Jalan M.H Thamrin No. 631, Jayapura, Kepulauan Riau 70362",NET 45,Active
+RSP030,RSUD Wijayanti,RS Pemerintah,Bekasi,"Gg. Jamika No. 4, Manado, Nusa Tenggara Timur 29464",NET 45,Active
+KLN041,Klinik Suryatmi,Klinik,Jakarta Timur,"Gang Tubagus Ismail No. 80, Pariaman, MU 03775",NET 30,Active
+KLN042,Klinik Puspita,Klinik,Jakarta Timur,"Gang K.H. Wahid Hasyim No. 8, Bukittinggi, Bengkulu 40693",NET 30,Active
+RSP031,RSUD Pradana,RS Pemerintah,Bogor,"Jalan Kutai No. 899, Magelang, Lampung 47109",NET 45,Active
+KLN043,Klinik Suwarno,Klinik,Jakarta Barat,"Jl. Stasiun Wonokromo No. 6, Banda Aceh, KS 32906",NET 30,Active
+RSP032,RSUD Firmansyah,RS Pemerintah,Jakarta Selatan,"Jalan Jend. Sudirman No. 99, Pematangsiantar, JI 55144",NET 45,Active
+KLN044,Klinik Thamrin,Klinik,Tangerang,"Gang Astana Anyar No. 56, Tidore Kepulauan, BB 25416",NET 30,Active
+RSP033,RSUD Mandala,RS Pemerintah,Tangerang,"Gg. Gardujati No. 23, Kota Administrasi Jakarta Selatan, Sulawesi Barat 72803",NET 45,Active
+RSS037,RS Lailasari,RS Swasta,Jakarta Barat,"Gg. Kebonjati No. 5, Tasikmalaya, Kalimantan Selatan 99877",NET 30,Active
+RSP034,RSUD Tarihoran,RS Pemerintah,Jakarta Barat,"Jl. Rumah Sakit No. 895, Probolinggo, Nusa Tenggara Timur 61113",NET 45,Active
+RSS038,RS Pudjiastuti,RS SWASTA,Jakarta Selatan,"Gg. Jakarta No. 9, Parepare, Jawa Timur 34535",NET 30,Active
+RSS039,RS Uyainah,RS Swasta,Bekasi,"Jalan Wonoayu No. 5, Probolinggo, Sulawesi Selatan 53015",NET 30,Active
+KLN045,Klinik Saputra,Klinik,Bekasi,"Jl. Cempaka No. 62, Purwokerto, Nusa Tenggara Barat 23349",NET 30,Active
+KLN046,Klinik Hariyah,Klinik,Jakarta Selatan,"Gg. Lembong No. 152, Kupang, Sumatera Utara 85684",NET 30,Active
+RSP035,RSUD Budiman,RS Pemerintah,Jakarta Utara,"Gang Suryakencana No. 9, Bontang, Sulawesi Tenggara 67456",NET 45,Active
+RSP036,RSUD Wulandari,RS Pemerintah,Depok,"Jl. S. Parman No. 3, Tanjungpinang, KR 86766",NET 45,Active
+KLN047,Klinik Mandasari,Klinik,bogor,"Jl. Pasirkoja No. 8, Tarakan, KB 14125",NET 30,Active
+RSS040,RS Permata,RS Swasta,bekasi,"Jl. Dipatiukur No. 549, Kota Administrasi Jakarta Selatan, NB 24286",NET 30,Active
+RSS041,RS Wibisono,RS Swasta,Jakarta Barat,"Jl. Jakarta No. 062, Surakarta, Bengkulu 58958",NET 30,Active
+RSP037,RSUD Pradana,RS Pemerintah,Depok,"Jalan Joyoboyo No. 4, Sukabumi, JT 49296",NET 45,Active
+RSS042,RS Melani,rs swasta,Bekasi,"Jalan Rawamangun No. 63, Kota Administrasi Jakarta Pusat, Maluku 89452",NET 30,Active
+KLN048,Klinik Yulianti,Klinik,Jakarta Barat,"Jl. Sentot Alibasa No. 30, Bitung, KS 23572",NET 30,Active
+RSS043,RS Wacana,RS Swasta,Bogor,"Gang Rajawali Barat No. 1, Pekalongan, NB 17459",NET 30,Active
+RSS044,RS Permata,RS Swasta,Jkt Selatan,"Jalan Peta No. 772, Kota Administrasi Jakarta Pusat, AC 05451",NET 30,Active
+RSS045,RS Waluyo,RS Swasta,Depok,"Jl. Moch. Toha No. 4, Sorong, YO 08961",NET 30,Active
+RSS046,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+RSP038,RSUD Riyanti,RS Pemerintah,Depok,"Gg. Otto Iskandardinata No. 74, Singkawang, NT 82483",NET 45,Active
+KLN049,Klinik Palastri,Klinik Pratama,Jakarta Timur,"Gg. Merdeka No. 623, Bandar Lampung, KR 13741",NET 30,Active
+RSS047,RS Yolanda,RS Swasta,Depok,"Jl. Setiabudhi No. 85, Surakarta, Maluku Utara 60761",NET 30,Active
+KLN050,Klinik Firgantoro,Klinik,Jakarta Utara,"Jalan Ahmad Yani No. 92, Subulussalam, ST 49431",NET 30,Active
+RSP039,RSUD Mandasari,RS Pemerintah,Bogor,"Gang Jend. A. Yani No. 20, Serang, Aceh 89847",NET 45,Active
+RSS048,RS Sitorus,RS Swasta,Jakarta Barat,"Jalan Pasirkoja No. 42, Kendari, Banten 21343",NET 30,Active
+RSS049,RS Januar,RS Swasta,Jakarta Timur,"Gg. Dr. Djunjunan No. 992, Dumai, YO 12053",NET 30,Active
+RSP040,RSUD Tarihoran,RS Pemerintah,Bekasi,"Gang Peta No. 055, Palangkaraya, Riau 65418",NET 45,Active
+RSS050,RS Kusmawati,RS Swasta,Bogor,"Jalan Ahmad Yani No. 8, Sukabumi, Sulawesi Selatan 16774",NET 30,Active
+KLN051,Klinik Wijaya,Klinik,Jakarta Barat,"Jl. Pasteur No. 60, Pasuruan, BT 17866",NET 30,Active
+RSS051,RS Yuliarti,RS Swasta,Jakarta Barat,"Gg. Sadang Serang No. 53, Banjarmasin, DI Yogyakarta 54419",NET 30,Active
+RSP041,RSUD Prakasa,RS Pemerintah,Jakarta Barat,"Jalan Gardujati No. 06, Cimahi, AC 32340",NET 45,Active
+RSS052,RS Mansur,RS Swasta,Jakarta Selatan,"Jalan Jamika No. 8, Salatiga, KR 58806",NET 30,Active
+RSS053,RS Mahendra,RS Swasta,Jakarta Barat,"Gg. Peta No. 6, Kota Administrasi Jakarta Selatan, Kalimantan Barat 09600",NET 30,Active
+RSS054,RS Maryadi,RS Swasta,Depok,"Jl. Ahmad Yani No. 313, Bengkulu, KB 01055",NET 30,Active
+RSP042,RSUD Tamba,RS Pemerintah,Jakarta Pusat,"Gg. Tubagus Ismail No. 010, Sawahlunto, JK 65311",NET 45,Active
+KLN052,Klinik Sihotang,Klinik,Jakarta Barat,"Gang Kapten Muslihat No. 199, Ternate, ST 41261",NET 30,Active
+KLN053,Klinik Halim,Klinik,Bekasi,"Jalan Cikutra Barat No. 2, Makassar, DI Yogyakarta 34440",NET 30,Active
+RSP043,RSUD Siregar,RS Pemerintah,Jakarta barat,"Gg. Tubagus Ismail No. 63, Makassar, RI 79457",NET 45,Active
+RSS055,RS Simanjuntak,RS Swasta,tangerang,"Jl. Monginsidi No. 566, Palopo, Maluku 87312",NET 30,Active
+RSS056,RS Manullang,RS Swasta,Bekasi,"Gg. Otto Iskandardinata No. 548, Ambon, Kalimantan Timur 55480",NET 30,Active
+RSS057,RS Wijaya,RS Swasta,Tangerang,"Jl. Ir. H. Djuanda No. 5, Kota Administrasi Jakarta Barat, JB 57378",NET 30,Active
+KLN054,Klinik Yulianti,Klinik,Bekasi,"Gang Cihampelas No. 7, Banjar, KR 41340",NET 30,Active
+KLN055,Klinik Fujiati,Klinik,Bekasi,"Gg. KH Amin Jasuta No. 19, Palembang, NB 00845",NET 30,Active
+KLN056,Klinik Budiyanto,Klinik,Tangerang,"Jl. BKR No. 33, Bima, JB 75322",NET 30,Active
+RSS058,RS Astuti,RS Swasta,Jakarta Barat,"Gang PHH. Mustofa No. 40, Palembang, Sumatera Selatan 46313",NET 30,Active
+RSS059,RS Wijayanti,RS Swasta,Bekasi,"Gg. M.H Thamrin No. 811, Salatiga, Aceh 22048",NET 30,Active
+RSS060,RS Simbolon,RSS,Jakarta Utara,"Gang Dipenogoro No. 01, Solok, NT 59454",NET 30,Active
+RSP044,RSUD Maulana,RS Pemerintah,Jakarta Utara,"Gg. Gedebage Selatan No. 855, Kota Administrasi Jakarta Barat, Bali 37493",NET 45,Active
+RSS061,RS Ardianto,RS Swasta,Bogor,"Jl. Ir. H. Djuanda No. 466, Bandung, SG 80941",NET 30,Active
+RSP045,RSUD Waluyo,RS Pemerintah,Jakarta Timur,"Jl. M.T Haryono No. 62, Blitar, JA 27798",NET 45,Active
+RSS062,RS Namaga,RS Swasta,Jakarta Timur,"Gg. Jamika No. 85, Pasuruan, SN 55691",NET 30,Active
+RSP046,RSUD Kusmawati,RSP,Depok,"Jl. Jakarta No. 898, Prabumulih, GO 95803",NET 45,Active
+RSS063,RS Nasyidah,RS Swasta,Dpk,"Jl. Ir. H. Djuanda No. 23, Surabaya, SR 97365",NET 30,Active
+RSP047,RSUD Yolanda,RS Pemerintah,Depok,"Jl. Astana Anyar No. 4, Batu, Papua Barat 60290",NET 45,Active
+KLN057,Klinik Prakasa,Klinik,Jkt Pusat,"Gg. Moch. Ramdan No. 30, Malang, MU 91208",NET 30,Active
+RSS064,RS Widiastuti,RS Swasta,Jakarta Pusat,"Gg. Monginsidi No. 55, Medan, LA 63426",NET 30,Active
+RSS065,RS Wibowo,RS Swasta,Depok,"Jalan Sukabumi No. 45, Purwokerto, SU 53187",NET 30,Active
+RSS066,RS Prasasta,RS Swasta,Bekasi,"Gg. Setiabudhi No. 8, Solok, DI Yogyakarta 75320",NET 30,Active
+KLN058,Klinik Safitri,Klinik,Tangerang,"Jl. Lembong No. 2, Pariaman, NT 25067",NET 30,Active
+RSS067,RS Simbolon,RS Swasta,Tangerang,"Gg. Siliwangi No. 920, Lubuklinggau, Nusa Tenggara Timur 55686",NET 30,Active
+RSS068,RS Natsir,RS Swasta,Depok,"Jalan Raya Ujungberung No. 545, Singkawang, NT 12169",NET 30,Active
+KLN059,Klinik Wahyudin,Klinik,Jakarta Timur,"Gang Siliwangi No. 97, Pekalongan, DKI Jakarta 67319",NET 30,Active
+RSS069,RS Samosir,RS Swasta,Depok,"Gg. Abdul Muis No. 4, Parepare, Jawa Timur 95654",NET 30,Active
+RSS070,RS Budiman,RS Swasta,Jakarta Pusat,"Gang Yos Sudarso No. 1, Denpasar, JA 18990",NET 30,Active
+RSS071,RS Rahayu,RS Swasta,Jakarta Timur,"Gang Pasteur No. 4, Manado, Kalimantan Selatan 23096",NET 30,Active
+RSP048,RSUD Marbun,RS Pemerintah,Jakarta Utara,"Jalan Bangka Raya No. 6, Jambi, MU 54410",NET 45,Active
+RSS072,RS Rahimah,RS Swasta,Tangerang,"Gg. Rajawali Timur No. 72, Tomohon, KT 70880",NET 30,Active
+RSS073,RS Suartini,RS Swasta,Depok,"Jl. Siliwangi No. 000, Bandar Lampung, MA 06915",NET 30,Active
+KLN060,Klinik Yuliarti,Klinik,Depok,"Gg. HOS. Cokroaminoto No. 918, Medan, Sulawesi Tenggara 55061",NET 30,Active
+KLN061,Klinik Purwanti,Klinik,TANGERANG,"Jl. Cihampelas No. 089, Kota Administrasi Jakarta Pusat, RI 44982",NET 30,Active
+KLN062,Klinik Napitupulu,Klinik,Jakarta Pusat,"Jalan Jend. Sudirman No. 67, Kota Administrasi Jakarta Utara, BB 33751",NET 30,Active
+RSP049,RSUD Gunarto,RS Pemerintah,Jakarta Selatan,"Gg. M.T Haryono No. 2, Bogor, Kalimantan Timur 11787",NET 45,Active
+RSP050,RSUD Mulyani,RS Pemerintah,JKT PUSAT,"Jalan Pacuan Kuda No. 8, Padang Sidempuan, KS 08991",NET 45,Active
+RSP051,RSUD Haryanti,RS Pemerintah,Jakarta Pusat,"Gang Ciumbuleuit No. 75, Palangkaraya, BT 97035",NET 45,Active
+RSP052,RSUD Wahyuni,RS Pemerintah,Jakarta Timur,"Gg. Gedebage Selatan No. 12, Malang, KU 48302",NET 45,Active
+KLN063,Klinik Zulaika,Klinik,Jakarta Barat,"Gg. Kebonjati No. 3, Jayapura, DI Yogyakarta 42815",NET 30,Active
+KLN064,Klinik Irawan,Klinik,Bogor,"Jalan Wonoayu No. 69, Jayapura, KS 53736",NET 30,Active
+RSS074,RS Prastuti,RS Swasta,Jakarta Selatan,"Gang Kiaracondong No. 5, Blitar, Bengkulu 86563",NET 30,Active
+KLN065,Klinik Safitri,Klinik,Jakarta Selatan,"Jl. Yos Sudarso No. 2, Pekanbaru, KR 36958",NET 30,Active
+RSP053,RSUD Simbolon,RS Pemerintah,Jakarta Utara,"Jalan Indragiri No. 826, Kupang, BA 42657",NET 45,Active
+KLN066,Klinik Wijayanti,Klinik,DEPOK,"Jalan Siliwangi No. 279, Purwokerto, KT 53579",NET 30,Active
+KLN067,Klinik Damanik,Klinik,Jakarta Barat,"Jl. Sentot Alibasa No. 1, Banda Aceh, Bengkulu 51703",NET 30,Active
+RSS075,RS Nashiruddin,RS Swasta,Jakarta Barat,"Gg. Cempaka No. 127, Madiun, Jawa Tengah 36354",NET 30,Active
+KLN068,Klinik Safitri,Klinik,Jakarta Utara,"Gg. Pasteur No. 77, Denpasar, Sumatera Selatan 83826",NET 30,Active
+RSS076,RS Susanti,RS Swasta,Jakarta Selatan,"Jl. Raya Ujungberung No. 0, Subulussalam, RI 15471",NET 30,Active
+KLN069,Klinik Zulaika,Klinik,Bogor,"Gang Setiabudhi No. 55, Bukittinggi, BE 22959",NET 30,Active
+RSS077,RS Melani,RS Swasta,Bogor,"Jl. Tebet Barat Dalam No. 20, Balikpapan, Sumatera Utara 44212",NET 30,Active
+RSS078,RS Permata,RS Swasta,bogor,"Jl. HOS. Cokroaminoto No. 235, Sawahlunto, KR 10375",NET 30,Active
+KLN070,Klinik Nugroho,Klinik,Tangerang,"Gang KH Amin Jasuta No. 748, Meulaboh, Nusa Tenggara Barat 70996",NET 30,Active
+RSS079,RS Napitupulu,RS Swasta,Bogor,"Gang Yos Sudarso No. 04, Sungai Penuh, Jawa Barat 22500",NET 30,Active
+KLN071,Klinik Rahimah,Klinik,Tangerang,"Gang Medokan Ayu No. 4, Palu, KU 20673",NET 30,Active
+RSS080,RS Puspita,RS Swasta,Bekasi,"Jl. Kutisari Selatan No. 946, Bukittinggi, SB 78470",NET 30,Active
+RSS081,RS Kuswandari,RS Swasta,Bekasi,"Jalan Ciumbuleuit No. 16, Banjarbaru, JT 91797",NET 30,Active
+RSS082,RS Prasetya,RS Swasta,Jakarta Utara,"Gang Joyoboyo No. 8, Bandar Lampung, Sumatera Barat 39409",NET 30,Active
+KLN072,Klinik Nashiruddin,Klinik,Jakarta Selatan,"Jalan Dipatiukur No. 1, Kota Administrasi Jakarta Timur, Sulawesi Utara 43637",NET 30,Active
+KLN073,Klinik Maryati,klinik,Jakarta Barat,"Jl. M.H Thamrin No. 7, Kota Administrasi Jakarta Barat, ST 47314",NET 30,Active
+RSS083,RS Zulkarnain,RS Swasta,Depok,"Gang Suryakencana No. 42, Kota Administrasi Jakarta Pusat, MU 68123",NET 30,Active
+RSP054,RSUD Salahudin,RS Pemerintah,Bogor,"Gang Setiabudhi No. 7, Bontang, Aceh 93014",NET 45,Active
+RSS084,RS Mahendra,RS Swasta,Bogor,"Jl. Antapani Lama No. 93, Bengkulu, Jawa Barat 40741",NET 30,Inactive
+RSS085,RS Rajasa,Rumah Sakit Swasta,Jakarta Utara,"Gang Soekarno Hatta No. 486, Tanjungpinang, DKI Jakarta 99507",NET 30,Inactive
+RSP055,RSUD Hutagalung,RS Pemerintah,Jak-Bar,"Gang Dr. Djunjunan No. 53, Manado, DKI Jakarta 91993",NET 45,Inactive
+RSP056,RSUD Narpati,rs pemerintah,Depok,"Gang Sadang Serang No. 6, Pasuruan, Kalimantan Timur 07647",NET 45,Inactive
+RSS086,RS Mayasari,RS Swasta,Jakarta Barat,"Jl. Otto Iskandardinata No. 41, Ambon, JI 11938",NET 30,Inactive
+RSS087,RS Januar,RS Swasta,Tangerang,"Jl. Sadang Serang No. 94, Bitung, SU 10073",NET 30,Inactive
+KLN074,Klinik Hariyah,Klinik,Jakarta Selatan,"Jalan Gedebage Selatan No. 29, Surakarta, MU 81732",NET 30,Inactive
+RSP057,RSUD Lestari,RS Pemerintah,Jakarta Barat,"Gg. Moch. Ramdan No. 953, Serang, BT 20666",NET 45,Inactive
+KLN075,Klinik Suartini,Klinik,Bogor,"Gg. Erlangga No. 114, Tebingtinggi, NB 49549",NET 30,Inactive
+RSS088,RS Damanik,Rumah Sakit Swasta,Bogor,"Jl. Waringin No. 310, Pangkalpinang, Sulawesi Barat 36168",NET 30,Inactive

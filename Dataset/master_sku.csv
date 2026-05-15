@@ -1,0 +1,74 @@
+﻿sku_id,sku_name,kategori,satuan,price_min,price_max,sku_status
+C001,Masker Bedah 3-Ply,Consumable,Box,35000,55000,Active
+C002,Sarung Tangan Nitril S,Consumable,Box,120000,180000,Active
+C003,Sarung Tangan Nitril M,Consumable,Box,120000,180000,Active
+C004,Sarung Tangan Nitril L,Consumable,Box,120000,180000,Active
+C005,Infus Set Dewasa,Consumable,Pcs,8000,15000,Active
+C006,Infus Set Anak,Consumable,Pcs,8000,15000,Active
+C007,Syringe 1ml,Consumable,Box,45000,75000,Active
+C008,Syringe 3ml,Consumable,Box,45000,75000,Active
+C009,Syringe 5ml,Consumable,Box,50000,80000,Active
+C010,Syringe 10ml,Consumable,Box,55000,85000,Active
+C011,Syringe 20ml,Consumable,Box,60000,90000,Active
+C012,IV Catheter 18G,Consumable,Box,180000,260000,Active
+C013,IV Catheter 20G,Consumable,Box,180000,260000,Active
+C014,IV Catheter 22G,Consumable,Box,180000,260000,Active
+C015,Plester Luka 5x10cm,Consumable,Box,25000,40000,Active
+C016,Kassa Steril 10x10cm,Consumable,Box,30000,50000,Active
+C017,Urine Bag 2000ml,Consumable,Pcs,12000,20000,Active
+C018,Suction Catheter 12Fr,Consumable,Pcs,15000,25000,Discontinued
+C019,NGT 16Fr,Consumable,Pcs,18000,30000,Active
+C020,Spalk Lengan Anak,Consumable,Pcs,20000,35000,Active
+D001,Tensimeter Digital Lengan,Diagnostik,Unit,350000,600000,Active
+D002,Tensimeter Manual Dewasa,Diagnostik,Unit,150000,280000,Active
+D003,Pulse Oximeter,Diagnostik,Unit,180000,350000,Active
+D004,Termometer Digital Axilla,Diagnostik,Unit,45000,90000,Active
+D005,Termometer Infrared,Diagnostik,Unit,120000,250000,Active
+D006,Rapid Test Antigen,Diagnostik,Box,350000,550000,Active
+D007,Rapid Test HbsAg,Diagnostik,Box,280000,450000,Active
+D008,Rapid Test HIV,Diagnostik,Box,300000,500000,Active
+D009,Glukometer Set,Diagnostik,Unit,250000,450000,Active
+D010,Strip Gula Darah,Diagnostik,Box,120000,200000,Active
+D011,Urine Stick 10 Parameter,Diagnostik,Box,200000,350000,Active
+D012,Stethoscope Dewasa,Diagnostik,Unit,180000,400000,Active
+D013,Stethoscope Anak,Diagnostik,Unit,200000,420000,Active
+D014,Timbangan Bayi Digital,Diagnostik,Unit,350000,650000,Active
+D015,Penlight Diagnostik,Diagnostik,Unit,25000,60000,Active
+B001,Gunting Bedah Lurus 14cm,Bedah & Tindakan,Unit,80000,150000,Active
+B002,Gunting Bedah Bengkok 14cm,Bedah & Tindakan,Unit,80000,150000,Active
+B003,Pinset Anatomis 14cm,Bedah & Tindakan,Unit,40000,80000,Active
+B004,Pinset Bedah 14cm,Bedah & Tindakan,Unit,40000,80000,Active
+B005,Klem Arteri Lurus,Bedah & Tindakan,Unit,120000,220000,Active
+B006,Klem Arteri Bengkok,Bedah & Tindakan,Unit,120000,220000,Active
+B007,Skalpel Handle No.3,Bedah & Tindakan,Unit,60000,120000,Active
+B008,Blade Skalpel No.10,Bedah & Tindakan,Box,90000,160000,Active
+B009,Benang Catgut 2-0,Bedah & Tindakan,Box,250000,420000,Active
+B010,Benang Silk 3-0,Bedah & Tindakan,Box,200000,380000,Active
+B011,Handscoon Steril 6.5,Bedah & Tindakan,Box,280000,450000,Active
+B012,Handscoon Steril 7.0,Bedah & Tindakan,Box,280000,450000,Active
+B013,Handscoon Steril 7.5,Bedah & Tindakan,Box,280000,450000,Active
+B014,Duk Operasi 80x90cm,Bedah & Tindakan,Pcs,35000,65000,Active
+B015,Bisturi Elektrik Disposable,Bedah & Tindakan,Pcs,120000,220000,Active
+R001,Kursi Roda Standar,Perawatan & Rawat Inap,Unit,1200000,2500000,Active
+R002,Kursi Roda Lipat Ringan,Perawatan & Rawat Inap,Unit,1500000,3000000,Active
+R003,Tongkat Ketiak Aluminium,Perawatan & Rawat Inap,Unit,150000,350000,Active
+R004,Walker Lipat Dewasa,Perawatan & Rawat Inap,Unit,350000,700000,Active
+R005,Bantal Angin Anti Decubitus,Perawatan & Rawat Inap,Unit,180000,380000,Active
+R006,Kasur Angin Anti Decubitus,Perawatan & Rawat Inap,Unit,850000,1800000,Active
+R007,Tiang Infus Stainless 5-Roda,Perawatan & Rawat Inap,Unit,450000,900000,Active
+R008,Bedpan Plastik Dewasa,Perawatan & Rawat Inap,Pcs,25000,50000,Active
+R009,Urinal Pria Plastik,Perawatan & Rawat Inap,Pcs,20000,40000,Active
+R010,Baju Pasien Dewasa,Perawatan & Rawat Inap,Pcs,35000,70000,Active
+R011,Selimut Pasien Rumah Sakit,Perawatan & Rawat Inap,Pcs,55000,110000,Active
+R012,Sarung Bantal Pasien,Perawatan & Rawat Inap,Pcs,20000,40000,Active
+R013,Perlak Waterproof 90x180cm,Perawatan & Rawat Inap,Roll,180000,350000,Active
+L001,Tabung Vacutainer EDTA,Laboratorium,Box,150000,280000,Active
+L002,Tabung Vacutainer Plain,Laboratorium,Box,140000,260000,Active
+L003,Tabung Vacutainer Citrate,Laboratorium,Box,160000,300000,Active
+L004,Holder Vacutainer,Laboratorium,Box,80000,140000,Active
+L005,Jarum Vacutainer 21G,Laboratorium,Box,120000,200000,Active
+L006,Slide Kaca 76x26mm,Laboratorium,Box,60000,110000,Active
+L007,Cover Glass 18x18mm,Laboratorium,Box,45000,85000,Active
+L008,Pot Urine 60ml Bertutup,Laboratorium,Box,70000,130000,Active
+L009,Pot Sputum 50ml Bertutup,Laboratorium,Box,75000,135000,Active
+L010,Objek Glass Frosted,Laboratorium,Box,65000,115000,Active

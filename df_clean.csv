@@ -1,0 +1,684 @@
+dn_id,invoice_id,customer_id,delivery_date,delivery_method,dn_return_date,status_dn,customer_name,customer_type,region,alamat,payment_terms,customer_status
+DN240001,009501,RSS011,2024-10-11,Internal,2024-11-06,Late,RS Halim,RS Swasta,Jakarta Timur,"Jalan S. Parman No. 40, Binjai, DI Yogyakarta 18640",NET 30,Active
+DN240002,009502,RSS011,2024-10-12,Internal,,Pending,RS Halim,RS Swasta,Jakarta Timur,"Jalan S. Parman No. 40, Binjai, DI Yogyakarta 18640",NET 30,Active
+DN240003,009503,RSS052,2024-09-10,Internal,2024-09-16,Received,RS Mansur,RS Swasta,Jakarta Selatan,"Jalan Jamika No. 8, Salatiga, KR 58806",NET 30,Active
+DN240004,009504,KLN073,2024-02-15,Third-Party Courier,2024-02-20,Received,Klinik Maryati,Klinik,Jakarta Barat,"Jl. M.H Thamrin No. 7, Kota Administrasi Jakarta Barat, ST 47314",NET 30,Active
+DN240005,009505,KLN073,2024-02-15,Internal,2024-02-24,Received,Klinik Maryati,Klinik,Jakarta Barat,"Jl. M.H Thamrin No. 7, Kota Administrasi Jakarta Barat, ST 47314",NET 30,Active
+DN240006,009506,RSS050,2024-05-31,Internal,2024-06-06,Received,RS Kusmawati,RS Swasta,Bogor,"Jalan Ahmad Yani No. 8, Sukabumi, Sulawesi Selatan 16774",NET 30,Active
+DN240007,009507,RSS050,2024-06-02,Third-Party Courier,2024-06-08,Received,RS Kusmawati,RS Swasta,Bogor,"Jalan Ahmad Yani No. 8, Sukabumi, Sulawesi Selatan 16774",NET 30,Active
+DN240008,009508,RSS068,2024-09-16,Internal,2024-09-18,Received,RS Natsir,RS Swasta,Depok,"Jalan Raya Ujungberung No. 545, Singkawang, NT 12169",NET 30,Active
+DN240009,009509,RSP005,2024-12-12,Third-Party Courier,2024-12-20,Received,RSUD Pertiwi,RS Pemerintah,Depok,"Jl. Jend. Sudirman No. 40, Cimahi, KB 37680",NET 45,Active
+DN240010,009510,RSP030,2024-06-21,Internal,2024-06-29,Received,RSUD Wijayanti,RS Pemerintah,Bekasi,"Gg. Jamika No. 4, Manado, Nusa Tenggara Timur 29464",NET 45,Active
+DN240011,009511,KLN011,2024-04-08,Third-Party Courier,2024-04-11,Received,Klinik Agustina,Klinik,Bekasi,"Jl. Joyoboyo No. 1, Padangpanjang, Sumatera Selatan 43471",NET 30,Active
+DN240012,009512,KLN011,2024-04-09,Third-Party Courier,2024-04-15,Received,Klinik Agustina,Klinik,Bekasi,"Jl. Joyoboyo No. 1, Padangpanjang, Sumatera Selatan 43471",NET 30,Active
+DN240013,009513,RSP024,2024-09-19,Internal,2024-09-25,Received,RSUD Yuniar,RS Pemerintah,Bekasi,"Jl. Wonoayu No. 5, Kota Administrasi Jakarta Selatan, Nusa Tenggara Barat 20154",NET 45,Active
+DN240014,009514,KLN030,2024-01-07,Internal,2024-01-15,Received,Klinik Laksita,Klinik,Jakarta Selatan,"Gang Suryakencana No. 17, Prabumulih, JT 35347",NET 30,Active
+DN240015,009515,KLN014,2024-01-26,Internal,2024-01-30,Received,Klinik Sitompul,Klinik,Jakarta Utara,"Gang H.J Maemunah No. 03, Kotamobagu, KS 13013",NET 30,Active
+DN240016,009516,KLN016,2024-12-22,Internal,2025-01-19,Late,Klinik Wasita,Klinik,Jakarta Selatan,"Gang Sukajadi No. 69, Palopo, Nusa Tenggara Barat 36878",NET 30,Active
+DN240017,009517,RSS064,2024-02-18,Internal,2024-02-23,Received,RS Widiastuti,RS Swasta,Jakarta Pusat,"Gg. Monginsidi No. 55, Medan, LA 63426",NET 30,Active
+DN240018,009518,KLN067,2024-10-01,Internal,2024-10-10,Received,Klinik Damanik,Klinik,Jakarta Barat,"Jl. Sentot Alibasa No. 1, Banda Aceh, Bengkulu 51703",NET 30,Active
+DN240019,009519,RSS010,2024-05-14,Internal,2024-05-21,Received,RS Ardianto,RS Swasta,Jakarta Barat,"Gang M.H Thamrin No. 5, Sukabumi, SR 33778",NET 30,Active
+DN240020,009520,RSS010,2024-05-15,Internal,,Pending,RS Ardianto,RS Swasta,Jakarta Barat,"Gang M.H Thamrin No. 5, Sukabumi, SR 33778",NET 30,Active
+DN240021,009521,RSS048,2024-12-22,Internal,2024-12-31,Received,RS Sitorus,RS Swasta,Jakarta Barat,"Jalan Pasirkoja No. 42, Kendari, Banten 21343",NET 30,Active
+DN240022,009522,RSP038,2024-01-20,Third-Party Courier,2024-01-29,Received,RSUD Riyanti,RS Pemerintah,Depok,"Gg. Otto Iskandardinata No. 74, Singkawang, NT 82483",NET 45,Active
+DN240023,009523,RSP038,2024-01-20,Internal,2024-02-28,Late,RSUD Riyanti,RS Pemerintah,Depok,"Gg. Otto Iskandardinata No. 74, Singkawang, NT 82483",NET 45,Active
+DN240024,009524,RSS023,2024-10-15,Third-Party Courier,2024-11-18,Late,RS Samosir,RS Swasta,Bekasi,"Jalan Rajiman No. 364, Tangerang, BB 97362",NET 30,Active
+DN240025,009525,RSS023,2024-10-17,Internal,2024-10-21,Received,RS Samosir,RS Swasta,Bekasi,"Jalan Rajiman No. 364, Tangerang, BB 97362",NET 30,Active
+DN240026,009526,RSS009,2024-01-28,Internal,2024-02-28,Late,RS Utama,RS Swasta,Jakarta Timur,"Jalan Rawamangun No. 6, Pekalongan, GO 10533",NET 30,Active
+DN240027,009527,RSS009,2024-01-26,Internal,2024-02-05,Received,RS Utama,RS Swasta,Jakarta Timur,"Jalan Rawamangun No. 6, Pekalongan, GO 10533",NET 30,Active
+DN240028,009528,RSS067,2024-11-29,Internal,2024-12-09,Received,RS Simbolon,RS Swasta,Tangerang,"Gg. Siliwangi No. 920, Lubuklinggau, Nusa Tenggara Timur 55686",NET 30,Active
+DN240029,009529,RSS067,2024-11-27,Third-Party Courier,2024-12-03,Received,RS Simbolon,RS Swasta,Tangerang,"Gg. Siliwangi No. 920, Lubuklinggau, Nusa Tenggara Timur 55686",NET 30,Active
+DN240030,009530,RSS059,2024-05-04,Third-Party Courier,2024-05-06,Received,RS Wijayanti,RS Swasta,Bekasi,"Gg. M.H Thamrin No. 811, Salatiga, Aceh 22048",NET 30,Active
+DN240031,009531,RSS059,2024-05-06,Third-Party Courier,,Pending,RS Wijayanti,RS Swasta,Bekasi,"Gg. M.H Thamrin No. 811, Salatiga, Aceh 22048",NET 30,Active
+DN240032,009532,KLN002,2024-09-03,Internal,2024-09-13,Received,Klinik Sihombing,Klinik,Jakarta Selatan,"Jalan Rajawali Timur No. 088, Palangkaraya, BA 39649",NET 30,Active
+DN240033,009533,KLN050,2025-01-02,Internal,2025-01-09,Received,Klinik Firgantoro,Klinik,Jakarta Utara,"Jalan Ahmad Yani No. 92, Subulussalam, ST 49431",NET 30,Active
+DN240034,009534,KLN050,2025-01-03,Third-Party Courier,,Pending,Klinik Firgantoro,Klinik,Jakarta Utara,"Jalan Ahmad Yani No. 92, Subulussalam, ST 49431",NET 30,Active
+DN240035,009535,KLN006,2024-02-17,Internal,2024-02-23,Received,Klinik Hutagalung,Klinik,Bogor,"Jl. Pasteur No. 97, Langsa, Gorontalo 40266",NET 30,Active
+DN240036,009536,RSS036,2024-07-02,Internal,2024-07-12,Received,RS Lestari,RS Swasta,Jakarta Pusat,"Jalan Rajawali Barat No. 8, Pekalongan, Jawa Timur 97170",NET 30,Active
+DN240037,009537,RSP042,2024-11-15,Internal,2024-11-17,Received,RSUD Tamba,RS Pemerintah,Jakarta Pusat,"Gg. Tubagus Ismail No. 010, Sawahlunto, JK 65311",NET 45,Active
+DN240038,009538,RSS064,2024-02-18,Internal,2024-02-27,Received,RS Widiastuti,RS Swasta,Jakarta Pusat,"Gg. Monginsidi No. 55, Medan, LA 63426",NET 30,Active
+DN240039,009539,RSS064,2024-02-18,Internal,2024-02-27,Received,RS Widiastuti,RS Swasta,Jakarta Pusat,"Gg. Monginsidi No. 55, Medan, LA 63426",NET 30,Active
+DN240040,009540,KLN041,2024-09-28,Internal,2024-10-06,Received,Klinik Suryatmi,Klinik,Jakarta Timur,"Gang Tubagus Ismail No. 80, Pariaman, MU 03775",NET 30,Active
+DN240041,009541,KLN041,2024-10-01,Internal,,Pending,Klinik Suryatmi,Klinik,Jakarta Timur,"Gang Tubagus Ismail No. 80, Pariaman, MU 03775",NET 30,Active
+DN240042,009542,RSS030,2024-12-31,Internal,2025-01-05,Received,RS Yulianti,RS Swasta,Bekasi,"Gang Merdeka No. 737, Parepare, Bengkulu 13524",NET 30,Active
+DN240043,009543,RSP012,2024-08-14,Internal,2024-08-21,Received,RSUD Pertiwi,RS Pemerintah,Bekasi,"Jalan Cikutra Timur No. 50, Tanjungpinang, Sulawesi Tengah 09457",NET 45,Active
+DN240044,009544,RSS067,2024-04-03,Internal,2024-05-07,Late,RS Simbolon,RS Swasta,Tangerang,"Gg. Siliwangi No. 920, Lubuklinggau, Nusa Tenggara Timur 55686",NET 30,Active
+DN240045,009545,RSS067,2024-04-01,Internal,2024-04-07,Received,RS Simbolon,RS Swasta,Tangerang,"Gg. Siliwangi No. 920, Lubuklinggau, Nusa Tenggara Timur 55686",NET 30,Active
+DN240046,009546,RSS051,2024-08-28,Internal,2024-09-06,Received,RS Yuliarti,RS Swasta,Jakarta Barat,"Gg. Sadang Serang No. 53, Banjarmasin, DI Yogyakarta 54419",NET 30,Active
+DN240047,009547,RSS051,2024-08-28,Third-Party Courier,,Pending,RS Yuliarti,RS Swasta,Jakarta Barat,"Gg. Sadang Serang No. 53, Banjarmasin, DI Yogyakarta 54419",NET 30,Active
+DN240048,009548,RSS038,2024-11-29,Internal,2024-12-05,Received,RS Pudjiastuti,RS Swasta,Jakarta Selatan,"Gg. Jakarta No. 9, Parepare, Jawa Timur 34535",NET 30,Active
+DN240049,009549,RSS038,2024-11-30,Third-Party Courier,2024-12-08,Received,RS Pudjiastuti,RS Swasta,Jakarta Selatan,"Gg. Jakarta No. 9, Parepare, Jawa Timur 34535",NET 30,Active
+DN240050,009550,KLN011,2024-11-27,Internal,2024-11-30,Received,Klinik Agustina,Klinik,Bekasi,"Jl. Joyoboyo No. 1, Padangpanjang, Sumatera Selatan 43471",NET 30,Active
+DN240051,009551,RSS050,2024-09-19,Internal,2024-09-28,Received,RS Kusmawati,RS Swasta,Bogor,"Jalan Ahmad Yani No. 8, Sukabumi, Sulawesi Selatan 16774",NET 30,Active
+DN240052,009552,RSS021,2024-04-30,Third-Party Courier,2024-05-20,Late,RS Wijaya,RS Swasta,Tangerang,"Gang PHH. Mustofa No. 96, Sukabumi, Jawa Timur 86586",NET 30,Active
+DN240053,009553,RSS021,2024-05-02,Internal,2024-05-25,Late,RS Wijaya,RS Swasta,Tangerang,"Gang PHH. Mustofa No. 96, Sukabumi, Jawa Timur 86586",NET 30,Active
+DN240054,009554,RSS046,2024-01-15,Third-Party Courier,2024-01-17,Received,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240055,009555,RSS046,2024-01-17,Internal,2024-01-23,Received,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240056,009556,RSS058,2024-05-04,Internal,,Pending,RS Astuti,RS Swasta,Jakarta Barat,"Gang PHH. Mustofa No. 40, Palembang, Sumatera Selatan 46313",NET 30,Active
+DN240057,009557,RSS058,2024-05-04,Internal,2024-05-14,Received,RS Astuti,RS Swasta,Jakarta Barat,"Gang PHH. Mustofa No. 40, Palembang, Sumatera Selatan 46313",NET 30,Active
+DN240058,009558,RSP052,2024-09-18,Internal,2024-09-25,Received,RSUD Wahyuni,RS Pemerintah,Jakarta Timur,"Gg. Gedebage Selatan No. 12, Malang, KU 48302",NET 45,Active
+DN240059,009559,RSP052,2024-09-20,Internal,2024-09-23,Received,RSUD Wahyuni,RS Pemerintah,Jakarta Timur,"Gg. Gedebage Selatan No. 12, Malang, KU 48302",NET 45,Active
+DN240060,009560,RSS014,2024-08-27,Internal,2024-08-29,Received,RS Dabukke,RS Swasta,Bogor,"Jl. Lembong No. 7, Pematangsiantar, Kalimantan Selatan 71602",NET 30,Active
+DN240061,009561,RSS014,2024-08-26,Third-Party Courier,2024-10-03,Late,RS Dabukke,RS Swasta,Bogor,"Jl. Lembong No. 7, Pematangsiantar, Kalimantan Selatan 71602",NET 30,Active
+DN240062,009562,KLN055,2024-06-24,Third-Party Courier,2024-07-02,Received,Klinik Fujiati,Klinik,Bekasi,"Gg. KH Amin Jasuta No. 19, Palembang, NB 00845",NET 30,Active
+DN240063,009563,RSP021,2024-03-28,Third-Party Courier,2024-04-06,Received,RSUD Purwanti,RS Pemerintah,Jakarta Barat,"Gg. Ahmad Dahlan No. 6, Tebingtinggi, BB 04736",NET 45,Active
+DN240064,009564,RSS073,2024-01-21,Third-Party Courier,2024-01-26,Received,RS Suartini,RS Swasta,Depok,"Jl. Siliwangi No. 000, Bandar Lampung, MA 06915",NET 30,Active
+DN240065,009565,RSS073,2024-01-21,Internal,2024-01-30,Received,RS Suartini,RS Swasta,Depok,"Jl. Siliwangi No. 000, Bandar Lampung, MA 06915",NET 30,Active
+DN240066,009566,KLN019,2024-04-24,Third-Party Courier,2024-05-18,Late,Klinik Padmasari,Klinik,Tangerang,"Gg. Astana Anyar No. 33, Bontang, Kalimantan Barat 07263",NET 30,Active
+DN240067,009567,KLN019,2024-04-24,Internal,2024-05-16,Late,Klinik Padmasari,Klinik,Tangerang,"Gg. Astana Anyar No. 33, Bontang, Kalimantan Barat 07263",NET 30,Active
+DN240068,009568,KLN054,2024-05-05,Internal,2024-05-15,Received,Klinik Yulianti,Klinik,Bekasi,"Gang Cihampelas No. 7, Banjar, KR 41340",NET 30,Active
+DN240069,009569,KLN054,2024-05-03,Third-Party Courier,,Pending,Klinik Yulianti,Klinik,Bekasi,"Gang Cihampelas No. 7, Banjar, KR 41340",NET 30,Active
+DN240070,009570,RSP009,2024-09-18,Third-Party Courier,,Pending,RSUD Hutagalung,RS Pemerintah,Tangerang,"Gg. Sukajadi No. 47, Padang, Kepulauan Riau 64722",NET 45,Active
+DN240071,009571,KLN024,2024-11-27,Internal,2024-12-05,Received,Klinik Hasanah,Klinik,Jakarta Barat,"Gang Gardujati No. 183, Samarinda, Maluku 76533",NET 30,Active
+DN240072,009572,RSS056,2024-11-15,Third-Party Courier,2024-11-22,Received,RS Manullang,RS Swasta,Bekasi,"Gg. Otto Iskandardinata No. 548, Ambon, Kalimantan Timur 55480",NET 30,Active
+DN240073,009573,RSS056,2024-11-14,Third-Party Courier,2024-11-19,Received,RS Manullang,RS Swasta,Bekasi,"Gg. Otto Iskandardinata No. 548, Ambon, Kalimantan Timur 55480",NET 30,Active
+DN240074,009574,RSS036,2024-03-15,Third-Party Courier,2024-03-20,Received,RS Lestari,RS Swasta,Jakarta Pusat,"Jalan Rajawali Barat No. 8, Pekalongan, Jawa Timur 97170",NET 30,Active
+DN240075,009575,RSS036,2024-03-16,Third-Party Courier,2024-03-25,Received,RS Lestari,RS Swasta,Jakarta Pusat,"Jalan Rajawali Barat No. 8, Pekalongan, Jawa Timur 97170",NET 30,Active
+DN240076,009576,KLN067,2024-05-29,Internal,,Pending,Klinik Damanik,Klinik,Jakarta Barat,"Jl. Sentot Alibasa No. 1, Banda Aceh, Bengkulu 51703",NET 30,Active
+DN240077,009577,KLN067,2024-05-29,Internal,2024-06-05,Received,Klinik Damanik,Klinik,Jakarta Barat,"Jl. Sentot Alibasa No. 1, Banda Aceh, Bengkulu 51703",NET 30,Active
+DN240078,009578,RSS064,2024-10-14,Internal,2024-10-24,Received,RS Widiastuti,RS Swasta,Jakarta Pusat,"Gg. Monginsidi No. 55, Medan, LA 63426",NET 30,Active
+DN240079,009579,RSP036,2024-03-15,Third-Party Courier,2024-03-23,Received,RSUD Wulandari,RS Pemerintah,Depok,"Jl. S. Parman No. 3, Tanjungpinang, KR 86766",NET 45,Active
+DN240080,009580,RSS036,2024-10-30,Internal,2024-11-09,Received,RS Lestari,RS Swasta,Jakarta Pusat,"Jalan Rajawali Barat No. 8, Pekalongan, Jawa Timur 97170",NET 30,Active
+DN240081,009581,RSS030,2024-11-22,Third-Party Courier,2024-12-09,Late,RS Yulianti,RS Swasta,Bekasi,"Gang Merdeka No. 737, Parepare, Bengkulu 13524",NET 30,Active
+DN240082,009582,KLN026,2024-12-30,Third-Party Courier,2025-01-05,Received,Klinik Hardiansyah,Klinik,Tangerang,"Gg. Jend. A. Yani No. 3, Surakarta, KB 61820",NET 30,Active
+DN240083,009583,KLN067,2024-04-30,Internal,2024-05-08,Received,Klinik Damanik,Klinik,Jakarta Barat,"Jl. Sentot Alibasa No. 1, Banda Aceh, Bengkulu 51703",NET 30,Active
+DN240084,009584,RSS004,2024-06-26,Internal,2024-07-01,Received,RS Waskita,RS Swasta,Jakarta Barat,"Gg. Sentot Alibasa No. 540, Tebingtinggi, RI 20974",NET 30,Active
+DN240085,009585,RSS004,2024-06-26,Internal,2024-07-05,Received,RS Waskita,RS Swasta,Jakarta Barat,"Gg. Sentot Alibasa No. 540, Tebingtinggi, RI 20974",NET 30,Active
+DN240086,009586,RSS050,2024-02-24,Internal,2024-02-27,Received,RS Kusmawati,RS Swasta,Bogor,"Jalan Ahmad Yani No. 8, Sukabumi, Sulawesi Selatan 16774",NET 30,Active
+DN240087,009587,RSP034,2024-12-02,Third-Party Courier,2024-12-18,Late,RSUD Tarihoran,RS Pemerintah,Jakarta Barat,"Jl. Rumah Sakit No. 895, Probolinggo, Nusa Tenggara Timur 61113",NET 45,Active
+DN240088,009588,RSP034,2024-12-02,Internal,2024-12-06,Received,RSUD Tarihoran,RS Pemerintah,Jakarta Barat,"Jl. Rumah Sakit No. 895, Probolinggo, Nusa Tenggara Timur 61113",NET 45,Active
+DN240089,009589,KLN008,2024-09-18,Internal,2024-09-26,Received,Klinik Permadi,Klinik,Jakarta Timur,"Gg. Sentot Alibasa No. 00, Ambon, KU 23366",NET 30,Active
+DN240090,009590,KLN008,2024-09-17,Third-Party Courier,2024-09-22,Received,Klinik Permadi,Klinik,Jakarta Timur,"Gg. Sentot Alibasa No. 00, Ambon, KU 23366",NET 30,Active
+DN240091,009591,RSS081,2024-01-07,Third-Party Courier,2024-02-09,Late,RS Kuswandari,RS Swasta,Bekasi,"Jalan Ciumbuleuit No. 16, Banjarbaru, JT 91797",NET 30,Active
+DN240092,009592,RSS081,2024-01-07,Internal,2024-01-11,Received,RS Kuswandari,RS Swasta,Bekasi,"Jalan Ciumbuleuit No. 16, Banjarbaru, JT 91797",NET 30,Active
+DN240093,009593,RSP012,2024-08-23,Internal,2024-08-27,Received,RSUD Pertiwi,RS Pemerintah,Bekasi,"Jalan Cikutra Timur No. 50, Tanjungpinang, Sulawesi Tengah 09457",NET 45,Active
+DN240094,009594,RSP012,2024-08-23,Internal,2024-08-25,Received,RSUD Pertiwi,RS Pemerintah,Bekasi,"Jalan Cikutra Timur No. 50, Tanjungpinang, Sulawesi Tengah 09457",NET 45,Active
+DN240095,009595,KLN006,2024-08-22,Internal,,Pending,Klinik Hutagalung,Klinik,Bogor,"Jl. Pasteur No. 97, Langsa, Gorontalo 40266",NET 30,Active
+DN240096,009596,RSS004,2024-03-13,Internal,2024-03-23,Received,RS Waskita,RS Swasta,Jakarta Barat,"Gg. Sentot Alibasa No. 540, Tebingtinggi, RI 20974",NET 30,Active
+DN240097,009597,RSP034,2024-03-09,Internal,2024-03-14,Received,RSUD Tarihoran,RS Pemerintah,Jakarta Barat,"Jl. Rumah Sakit No. 895, Probolinggo, Nusa Tenggara Timur 61113",NET 45,Active
+DN240098,009598,KLN013,2024-03-01,Third-Party Courier,2024-03-06,Received,Klinik Sihotang,Klinik,Bekasi,"Gang Kapten Muslihat No. 87, Ambon, SR 74346",NET 30,Active
+DN240099,009599,RSS037,2024-02-01,Internal,2024-02-03,Received,RS Lailasari,RS Swasta,Jakarta Barat,"Gg. Kebonjati No. 5, Tasikmalaya, Kalimantan Selatan 99877",NET 30,Active
+DN240100,009600,RSS057,2024-10-15,Third-Party Courier,2024-10-21,Received,RS Wijaya,RS Swasta,Tangerang,"Jl. Ir. H. Djuanda No. 5, Kota Administrasi Jakarta Barat, JB 57378",NET 30,Active
+DN240101,009601,RSS017,2024-07-14,Internal,2024-07-23,Received,RS Yolanda,RS Swasta,Bogor,"Gg. Medokan Ayu No. 656, Yogyakarta, Lampung 08134",NET 30,Active
+DN240102,009602,RSP036,2024-07-11,Internal,2024-07-18,Received,RSUD Wulandari,RS Pemerintah,Depok,"Jl. S. Parman No. 3, Tanjungpinang, KR 86766",NET 45,Active
+DN240103,009603,RSS040,2024-06-08,Third-Party Courier,2024-06-15,Received,RS Permata,RS Swasta,Bekasi,"Jl. Dipatiukur No. 549, Kota Administrasi Jakarta Selatan, NB 24286",NET 30,Active
+DN240104,009604,RSS040,2024-06-08,Third-Party Courier,2024-06-16,Received,RS Permata,RS Swasta,Bekasi,"Jl. Dipatiukur No. 549, Kota Administrasi Jakarta Selatan, NB 24286",NET 30,Active
+DN240105,009605,RSP005,2024-01-27,Third-Party Courier,2024-02-06,Received,RSUD Pertiwi,RS Pemerintah,Depok,"Jl. Jend. Sudirman No. 40, Cimahi, KB 37680",NET 45,Active
+DN240106,009606,RSS070,2024-12-06,Third-Party Courier,2024-12-09,Received,RS Budiman,RS Swasta,Jakarta Pusat,"Gang Yos Sudarso No. 1, Denpasar, JA 18990",NET 30,Active
+DN240107,009607,RSS070,2024-12-06,Internal,2024-12-08,Received,RS Budiman,RS Swasta,Jakarta Pusat,"Gang Yos Sudarso No. 1, Denpasar, JA 18990",NET 30,Active
+DN240108,009608,RSS070,2024-04-26,Internal,,Pending,RS Budiman,RS Swasta,Jakarta Pusat,"Gang Yos Sudarso No. 1, Denpasar, JA 18990",NET 30,Active
+DN240109,009609,KLN056,2024-12-15,Internal,2025-01-27,Late,Klinik Budiyanto,Klinik,Tangerang,"Jl. BKR No. 33, Bima, JB 75322",NET 30,Active
+DN240110,009610,RSP038,2024-10-20,Third-Party Courier,,Pending,RSUD Riyanti,RS Pemerintah,Depok,"Gg. Otto Iskandardinata No. 74, Singkawang, NT 82483",NET 45,Active
+DN240111,009611,KLN038,2024-01-10,Third-Party Courier,2024-01-26,Late,Klinik Hutasoit,Klinik,Jakarta Timur,"Gang Sukabumi No. 25, Bau-Bau, BA 94114",NET 30,Active
+DN240112,009612,KLN038,2024-01-08,Third-Party Courier,2024-02-10,Late,Klinik Hutasoit,Klinik,Jakarta Timur,"Gang Sukabumi No. 25, Bau-Bau, BA 94114",NET 30,Active
+DN240113,009613,RSS011,2024-03-27,Internal,2024-04-04,Received,RS Halim,RS Swasta,Jakarta Timur,"Jalan S. Parman No. 40, Binjai, DI Yogyakarta 18640",NET 30,Active
+DN240114,009614,RSS011,2024-03-27,Internal,2024-03-31,Received,RS Halim,RS Swasta,Jakarta Timur,"Jalan S. Parman No. 40, Binjai, DI Yogyakarta 18640",NET 30,Active
+DN240115,009615,KLN058,2024-12-18,Third-Party Courier,2024-12-26,Received,Klinik Safitri,Klinik,Tangerang,"Jl. Lembong No. 2, Pariaman, NT 25067",NET 30,Active
+DN240116,009616,KLN047,2024-06-14,Third-Party Courier,,Pending,Klinik Mandasari,Klinik,Bogor,"Jl. Pasirkoja No. 8, Tarakan, KB 14125",NET 30,Active
+DN240117,009617,KLN047,2024-06-13,Internal,2024-06-16,Received,Klinik Mandasari,Klinik,Bogor,"Jl. Pasirkoja No. 8, Tarakan, KB 14125",NET 30,Active
+DN240118,009618,KLN037,2024-10-16,Internal,2024-10-19,Received,Klinik Ramadan,Klinik,Jakarta Utara,"Jalan Cikutra Barat No. 69, Batu, BT 78774",NET 30,Active
+DN240119,009619,KLN031,2024-07-06,Third-Party Courier,2024-07-10,Received,Klinik Wahyuni,Klinik,Bekasi,"Gg. Ir. H. Djuanda No. 273, Tasikmalaya, Nusa Tenggara Barat 06907",NET 30,Active
+DN240120,009620,RSP024,2024-06-04,Internal,2024-06-12,Received,RSUD Yuniar,RS Pemerintah,Bekasi,"Jl. Wonoayu No. 5, Kota Administrasi Jakarta Selatan, Nusa Tenggara Barat 20154",NET 45,Active
+DN240121,009621,RSS046,2024-07-06,Internal,2024-07-09,Received,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240122,009622,RSS016,2024-07-30,Third-Party Courier,2024-09-08,Late,RS Natsir,RS Swasta,Tangerang,"Gg. W.R. Supratman No. 2, Surabaya, RI 30777",NET 30,Active
+DN240123,009623,KLN039,2024-10-08,Third-Party Courier,2024-10-16,Received,Klinik Halimah,Klinik,Bekasi,"Gang Cikapayang No. 85, Tangerang Selatan, Maluku 00119",NET 30,Active
+DN240124,009624,RSS027,2024-06-20,Internal,,Pending,RS Maryati,RS Swasta,Jakarta Selatan,"Gg. Cempaka No. 9, Kupang, NB 37061",NET 30,Active
+DN240125,009625,RSS027,2024-06-21,Internal,2024-06-30,Received,RS Maryati,RS Swasta,Jakarta Selatan,"Gg. Cempaka No. 9, Kupang, NB 37061",NET 30,Active
+DN240126,009626,KLN048,2024-04-20,Internal,2024-04-25,Received,Klinik Yulianti,Klinik,Jakarta Barat,"Jl. Sentot Alibasa No. 30, Bitung, KS 23572",NET 30,Active
+DN240127,009627,KLN011,2024-09-26,Third-Party Courier,2024-10-04,Received,Klinik Agustina,Klinik,Bekasi,"Jl. Joyoboyo No. 1, Padangpanjang, Sumatera Selatan 43471",NET 30,Active
+DN240128,009628,KLN043,2024-12-29,Internal,2025-01-02,Received,Klinik Suwarno,Klinik,Jakarta Barat,"Jl. Stasiun Wonokromo No. 6, Banda Aceh, KS 32906",NET 30,Active
+DN240129,009629,RSP053,2024-12-12,Internal,2024-12-16,Received,RSUD Simbolon,RS Pemerintah,Jakarta Utara,"Jalan Indragiri No. 826, Kupang, BA 42657",NET 45,Active
+DN240130,009630,RSP042,2024-10-14,Third-Party Courier,2024-10-23,Received,RSUD Tamba,RS Pemerintah,Jakarta Pusat,"Gg. Tubagus Ismail No. 010, Sawahlunto, JK 65311",NET 45,Active
+DN240131,009631,RSP022,2024-07-31,Internal,2024-08-10,Received,RSUD Kurniawan,RS Pemerintah,Jakarta Barat,"Gang Waringin No. 94, Sorong, Jawa Barat 68901",NET 45,Active
+DN240132,009632,RSS075,2024-09-20,Internal,2024-11-01,Late,RS Nashiruddin,RS Swasta,Jakarta Barat,"Gg. Cempaka No. 127, Madiun, Jawa Tengah 36354",NET 30,Active
+DN240133,009633,KLN006,2024-05-17,Third-Party Courier,2024-05-21,Received,Klinik Hutagalung,Klinik,Bogor,"Jl. Pasteur No. 97, Langsa, Gorontalo 40266",NET 30,Active
+DN240134,009634,RSS043,2024-04-19,Third-Party Courier,,Pending,RS Wacana,RS Swasta,Bogor,"Gang Rajawali Barat No. 1, Pekalongan, NB 17459",NET 30,Active
+DN240135,009635,KLN056,2024-08-02,Third-Party Courier,2024-08-10,Received,Klinik Budiyanto,Klinik,Tangerang,"Jl. BKR No. 33, Bima, JB 75322",NET 30,Active
+DN240136,009636,RSS039,2024-08-23,Internal,,Pending,RS Uyainah,RS Swasta,Bekasi,"Jalan Wonoayu No. 5, Probolinggo, Sulawesi Selatan 53015",NET 30,Active
+DN240137,009637,RSS033,2024-02-20,Third-Party Courier,2024-03-08,Late,RS Wijayanti,RS Swasta,Jakarta Utara,"Jalan Jend. Sudirman No. 16, Kotamobagu, Papua Barat 11606",NET 30,Active
+DN240138,009638,RSS057,2024-01-26,Internal,2024-01-29,Received,RS Wijaya,RS Swasta,Tangerang,"Jl. Ir. H. Djuanda No. 5, Kota Administrasi Jakarta Barat, JB 57378",NET 30,Active
+DN240139,009639,RSP016,2024-07-10,Internal,,Pending,RSUD Novitasari,RS Pemerintah,Depok,"Jl. Setiabudhi No. 25, Kota Administrasi Jakarta Utara, Jawa Timur 39639",NET 45,Active
+DN240140,009640,RSP049,2024-11-01,Third-Party Courier,,Pending,RSUD Gunarto,RS Pemerintah,Jakarta Selatan,"Gg. M.T Haryono No. 2, Bogor, Kalimantan Timur 11787",NET 45,Active
+DN240141,009641,RSS003,2024-03-10,Third-Party Courier,2024-03-19,Received,RS Dongoran,RS Swasta,Bekasi,"Jl. Jend. Sudirman No. 6, Dumai, Sumatera Barat 48478",NET 30,Active
+DN240142,009642,RSS008,2024-04-25,Internal,2024-05-01,Received,RS Dabukke,RS Swasta,Jakarta Selatan,"Gg. Dr. Djunjunan No. 5, Kediri, LA 93848",NET 30,Active
+DN240143,009643,KLN004,2024-12-20,Internal,2024-12-23,Received,Klinik Wibisono,Klinik,Jakarta Pusat,"Jalan PHH. Mustofa No. 7, Tomohon, GO 67022",NET 30,Active
+DN240144,009644,RSS074,2024-09-29,Internal,2024-10-01,Received,RS Prastuti,RS Swasta,Jakarta Selatan,"Gang Kiaracondong No. 5, Blitar, Bengkulu 86563",NET 30,Active
+DN240145,009645,RSP009,2024-08-01,Third-Party Courier,2024-08-08,Received,RSUD Hutagalung,RS Pemerintah,Tangerang,"Gg. Sukajadi No. 47, Padang, Kepulauan Riau 64722",NET 45,Active
+DN240146,009646,RSS034,2024-11-29,Internal,,Pending,RS Namaga,RS Swasta,Depok,"Gg. Suniaraja No. 5, Bima, ST 29799",NET 30,Active
+DN240147,009647,RSS034,2024-11-27,Third-Party Courier,2024-12-18,Late,RS Namaga,RS Swasta,Depok,"Gg. Suniaraja No. 5, Bima, ST 29799",NET 30,Active
+DN240148,009648,KLN022,2024-01-20,Internal,2024-01-23,Received,Klinik Pratama,Klinik,Depok,"Gang Jend. Sudirman No. 9, Bau-Bau, SB 13344",NET 30,Active
+DN240149,009649,RSS057,2024-10-22,Third-Party Courier,2024-10-24,Received,RS Wijaya,RS Swasta,Tangerang,"Jl. Ir. H. Djuanda No. 5, Kota Administrasi Jakarta Barat, JB 57378",NET 30,Active
+DN240150,009650,KLN043,2024-10-13,Third-Party Courier,2024-10-31,Late,Klinik Suwarno,Klinik,Jakarta Barat,"Jl. Stasiun Wonokromo No. 6, Banda Aceh, KS 32906",NET 30,Active
+DN240151,009651,KLN005,2024-08-31,Third-Party Courier,2024-09-26,Late,Klinik Kuswandari,Klinik,Bogor,"Jl. Jend. Sudirman No. 49, Tanjungpinang, KR 36878",NET 30,Active
+DN240152,009652,RSP020,2024-06-21,Internal,2024-07-01,Received,RSUD Mardhiyah,RS Pemerintah,Bekasi,"Jl. Cempaka No. 6, Depok, Sulawesi Barat 80597",NET 45,Active
+DN240153,009653,KLN062,2024-08-01,Third-Party Courier,2024-09-09,Late,Klinik Napitupulu,Klinik,Jakarta Pusat,"Jalan Jend. Sudirman No. 67, Kota Administrasi Jakarta Utara, BB 33751",NET 30,Active
+DN240154,009654,KLN027,2024-12-26,Internal,2024-12-29,Received,Klinik Saragih,Klinik,Jakarta Timur,"Jalan K.H. Wahid Hasyim No. 1, Lhokseumawe, Nusa Tenggara Barat 63992",NET 30,Active
+DN240155,009655,KLN027,2024-12-26,Internal,2025-01-02,Received,Klinik Saragih,Klinik,Jakarta Timur,"Jalan K.H. Wahid Hasyim No. 1, Lhokseumawe, Nusa Tenggara Barat 63992",NET 30,Active
+DN240156,009656,RSP019,2024-04-24,Third-Party Courier,2024-05-29,Late,RSUD Mulyani,RS Pemerintah,Tangerang,"Gg. R.E Martadinata No. 45, Payakumbuh, PB 01126",NET 45,Active
+DN240157,009657,RSP019,2024-04-25,Third-Party Courier,2024-04-27,Received,RSUD Mulyani,RS Pemerintah,Tangerang,"Gg. R.E Martadinata No. 45, Payakumbuh, PB 01126",NET 45,Active
+DN240158,009658,RSP017,2024-07-18,Internal,2024-07-20,Received,RSUD Prasetya,RS Pemerintah,Jakarta Barat,"Jalan Bangka Raya No. 3, Sawahlunto, NB 00153",NET 45,Active
+DN240159,009659,KLN028,2024-02-19,Internal,2024-02-25,Received,Klinik Hutagalung,Klinik,Jakarta Pusat,"Jalan Cihampelas No. 73, Prabumulih, SN 12252",NET 30,Active
+DN240160,009660,KLN028,2024-02-16,Internal,2024-02-18,Received,Klinik Hutagalung,Klinik,Jakarta Pusat,"Jalan Cihampelas No. 73, Prabumulih, SN 12252",NET 30,Active
+DN240161,009661,KLN041,2024-04-27,Internal,2024-05-02,Received,Klinik Suryatmi,Klinik,Jakarta Timur,"Gang Tubagus Ismail No. 80, Pariaman, MU 03775",NET 30,Active
+DN240162,009662,KLN016,2024-09-13,Internal,2024-09-17,Received,Klinik Wasita,Klinik,Jakarta Selatan,"Gang Sukajadi No. 69, Palopo, Nusa Tenggara Barat 36878",NET 30,Active
+DN240163,009663,KLN016,2024-09-12,Internal,2024-09-18,Received,Klinik Wasita,Klinik,Jakarta Selatan,"Gang Sukajadi No. 69, Palopo, Nusa Tenggara Barat 36878",NET 30,Active
+DN240164,009664,RSP019,2024-06-19,Internal,2024-06-21,Received,RSUD Mulyani,RS Pemerintah,Tangerang,"Gg. R.E Martadinata No. 45, Payakumbuh, PB 01126",NET 45,Active
+DN240165,009665,RSP035,2024-12-26,Third-Party Courier,2025-01-02,Received,RSUD Budiman,RS Pemerintah,Jakarta Utara,"Gang Suryakencana No. 9, Bontang, Sulawesi Tenggara 67456",NET 45,Active
+DN240166,009666,RSP035,2024-12-28,Internal,2024-12-30,Received,RSUD Budiman,RS Pemerintah,Jakarta Utara,"Gang Suryakencana No. 9, Bontang, Sulawesi Tenggara 67456",NET 45,Active
+DN240167,009667,KLN015,2024-01-28,Third-Party Courier,,Pending,Klinik Adriansyah,Klinik,Bekasi,"Gg. Cempaka No. 2, Banda Aceh, PB 47514",NET 30,Active
+DN240168,009668,KLN028,2024-01-14,Third-Party Courier,2024-02-24,Late,Klinik Hutagalung,Klinik,Jakarta Pusat,"Jalan Cihampelas No. 73, Prabumulih, SN 12252",NET 30,Active
+DN240169,009669,KLN028,2024-01-15,Internal,2024-01-25,Received,Klinik Hutagalung,Klinik,Jakarta Pusat,"Jalan Cihampelas No. 73, Prabumulih, SN 12252",NET 30,Active
+DN240170,009670,RSS047,2024-10-22,Internal,2024-10-25,Received,RS Yolanda,RS Swasta,Depok,"Jl. Setiabudhi No. 85, Surakarta, Maluku Utara 60761",NET 30,Active
+DN240171,009671,RSP017,2024-09-02,Internal,2024-09-04,Received,RSUD Prasetya,RS Pemerintah,Jakarta Barat,"Jalan Bangka Raya No. 3, Sawahlunto, NB 00153",NET 45,Active
+DN240172,009672,RSP017,2024-09-02,Internal,2024-09-07,Received,RSUD Prasetya,RS Pemerintah,Jakarta Barat,"Jalan Bangka Raya No. 3, Sawahlunto, NB 00153",NET 45,Active
+DN240173,009673,RSS054,2024-10-15,Third-Party Courier,2024-10-19,Received,RS Maryadi,RS Swasta,Depok,"Jl. Ahmad Yani No. 313, Bengkulu, KB 01055",NET 30,Active
+DN240174,009674,KLN061,2024-03-05,Third-Party Courier,,Pending,Klinik Purwanti,Klinik,Tangerang,"Jl. Cihampelas No. 089, Kota Administrasi Jakarta Pusat, RI 44982",NET 30,Active
+DN240175,009675,KLN061,2024-03-04,Third-Party Courier,2024-03-14,Received,Klinik Purwanti,Klinik,Tangerang,"Jl. Cihampelas No. 089, Kota Administrasi Jakarta Pusat, RI 44982",NET 30,Active
+DN240176,009676,RSS074,2024-08-04,Third-Party Courier,2024-09-13,Late,RS Prastuti,RS Swasta,Jakarta Selatan,"Gang Kiaracondong No. 5, Blitar, Bengkulu 86563",NET 30,Active
+DN240177,009677,KLN057,2024-05-18,Third-Party Courier,,Pending,Klinik Prakasa,Klinik,Jakarta Pusat,"Gg. Moch. Ramdan No. 30, Malang, MU 91208",NET 30,Active
+DN240178,009678,RSP050,2024-06-06,Third-Party Courier,2024-06-15,Received,RSUD Mulyani,RS Pemerintah,Jakarta Pusat,"Jalan Pacuan Kuda No. 8, Padang Sidempuan, KS 08991",NET 45,Active
+DN240179,009679,RSP050,2024-06-07,Internal,2024-06-11,Received,RSUD Mulyani,RS Pemerintah,Jakarta Pusat,"Jalan Pacuan Kuda No. 8, Padang Sidempuan, KS 08991",NET 45,Active
+DN240180,009680,RSP019,2024-09-30,Third-Party Courier,2024-10-05,Received,RSUD Mulyani,RS Pemerintah,Tangerang,"Gg. R.E Martadinata No. 45, Payakumbuh, PB 01126",NET 45,Active
+DN240181,009681,RSP019,2024-09-28,Internal,2024-10-04,Received,RSUD Mulyani,RS Pemerintah,Tangerang,"Gg. R.E Martadinata No. 45, Payakumbuh, PB 01126",NET 45,Active
+DN240182,009682,KLN005,2024-12-21,Third-Party Courier,2024-12-23,Received,Klinik Kuswandari,Klinik,Bogor,"Jl. Jend. Sudirman No. 49, Tanjungpinang, KR 36878",NET 30,Active
+DN240183,009683,KLN005,2024-12-21,Third-Party Courier,2024-12-29,Received,Klinik Kuswandari,Klinik,Bogor,"Jl. Jend. Sudirman No. 49, Tanjungpinang, KR 36878",NET 30,Active
+DN240184,009684,RSP003,2024-07-01,Internal,2024-08-04,Late,RSUD Marbun,RS Pemerintah,Bekasi,"Jl. Pasir Koja No. 7, Kota Administrasi Jakarta Selatan, Sulawesi Utara 97492",NET 45,Active
+DN240185,009685,RSP003,2024-07-01,Third-Party Courier,2024-08-09,Late,RSUD Marbun,RS Pemerintah,Bekasi,"Jl. Pasir Koja No. 7, Kota Administrasi Jakarta Selatan, Sulawesi Utara 97492",NET 45,Active
+DN240186,009686,KLN055,2024-12-06,Third-Party Courier,2025-01-01,Late,Klinik Fujiati,Klinik,Bekasi,"Gg. KH Amin Jasuta No. 19, Palembang, NB 00845",NET 30,Active
+DN240187,009687,RSS011,2024-06-28,Third-Party Courier,2024-07-05,Received,RS Halim,RS Swasta,Jakarta Timur,"Jalan S. Parman No. 40, Binjai, DI Yogyakarta 18640",NET 30,Active
+DN240188,009688,RSS058,2024-12-05,Internal,2024-12-23,Late,RS Astuti,RS Swasta,Jakarta Barat,"Gang PHH. Mustofa No. 40, Palembang, Sumatera Selatan 46313",NET 30,Active
+DN240189,009689,RSS058,2024-12-04,Internal,2024-12-08,Received,RS Astuti,RS Swasta,Jakarta Barat,"Gang PHH. Mustofa No. 40, Palembang, Sumatera Selatan 46313",NET 30,Active
+DN240190,009690,KLN046,2024-04-14,Third-Party Courier,2024-04-18,Received,Klinik Hariyah,Klinik,Jakarta Selatan,"Gg. Lembong No. 152, Kupang, Sumatera Utara 85684",NET 30,Active
+DN240191,009691,RSP041,2024-09-10,Internal,2024-09-15,Received,RSUD Prakasa,RS Pemerintah,Jakarta Barat,"Jalan Gardujati No. 06, Cimahi, AC 32340",NET 45,Active
+DN240192,009692,RSP041,2024-09-12,Internal,2024-09-14,Received,RSUD Prakasa,RS Pemerintah,Jakarta Barat,"Jalan Gardujati No. 06, Cimahi, AC 32340",NET 45,Active
+DN240193,009693,RSS007,2024-06-03,Internal,,Pending,RS Hardiansyah,RS Swasta,Jakarta Barat,"Jalan Medokan Ayu No. 5, Bukittinggi, Kalimantan Utara 85097",NET 30,Active
+DN240194,009694,RSS057,2024-09-18,Third-Party Courier,2024-09-28,Received,RS Wijaya,RS Swasta,Tangerang,"Jl. Ir. H. Djuanda No. 5, Kota Administrasi Jakarta Barat, JB 57378",NET 30,Active
+DN240195,009695,RSS057,2024-09-19,Third-Party Courier,2024-10-29,Late,RS Wijaya,RS Swasta,Tangerang,"Jl. Ir. H. Djuanda No. 5, Kota Administrasi Jakarta Barat, JB 57378",NET 30,Active
+DN240196,009696,RSS075,2024-02-27,Third-Party Courier,2024-03-06,Received,RS Nashiruddin,RS Swasta,Jakarta Barat,"Gg. Cempaka No. 127, Madiun, Jawa Tengah 36354",NET 30,Active
+DN240197,009697,RSP008,2024-06-05,Internal,2024-06-11,Received,RSUD Hakim,RS Pemerintah,Jakarta Barat,"Gang K.H. Wahid Hasyim No. 8, Banda Aceh, Jawa Timur 33834",NET 45,Active
+DN240198,009698,RSP008,2024-06-02,Internal,2024-06-04,Received,RSUD Hakim,RS Pemerintah,Jakarta Barat,"Gang K.H. Wahid Hasyim No. 8, Banda Aceh, Jawa Timur 33834",NET 45,Active
+DN240199,009699,RSP049,2024-01-08,Internal,2024-01-17,Received,RSUD Gunarto,RS Pemerintah,Jakarta Selatan,"Gg. M.T Haryono No. 2, Bogor, Kalimantan Timur 11787",NET 45,Active
+DN240200,009700,RSS044,2024-05-22,Internal,2024-05-24,Received,RS Permata,RS Swasta,Jakarta Selatan,"Jalan Peta No. 772, Kota Administrasi Jakarta Pusat, AC 05451",NET 30,Active
+DN240201,009701,KLN062,2024-12-18,Internal,2024-12-28,Received,Klinik Napitupulu,Klinik,Jakarta Pusat,"Jalan Jend. Sudirman No. 67, Kota Administrasi Jakarta Utara, BB 33751",NET 30,Active
+DN240202,009702,KLN058,2024-11-13,Internal,2024-11-21,Received,Klinik Safitri,Klinik,Tangerang,"Jl. Lembong No. 2, Pariaman, NT 25067",NET 30,Active
+DN240203,009703,KLN058,2024-11-11,Third-Party Courier,,Pending,Klinik Safitri,Klinik,Tangerang,"Jl. Lembong No. 2, Pariaman, NT 25067",NET 30,Active
+DN240204,009704,RSS046,2024-09-15,Third-Party Courier,2024-10-28,Late,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240205,009705,RSS046,2024-09-14,Internal,2024-09-19,Received,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240206,009706,RSP027,2024-01-05,Internal,2024-01-13,Received,RSUD Pangestu,RS Pemerintah,Jakarta Timur,"Gang Jayawijaya No. 28, Tebingtinggi, Maluku 87793",NET 45,Active
+DN240207,009707,RSP027,2024-01-04,Internal,2024-01-07,Received,RSUD Pangestu,RS Pemerintah,Jakarta Timur,"Gang Jayawijaya No. 28, Tebingtinggi, Maluku 87793",NET 45,Active
+DN240208,009708,KLN009,2024-08-19,Internal,2024-08-26,Received,Klinik Situmorang,Klinik,Bekasi,"Gang Peta No. 05, Kota Administrasi Jakarta Selatan, SN 17214",NET 30,Active
+DN240209,009709,KLN051,2024-09-20,Internal,2024-09-30,Received,Klinik Wijaya,Klinik,Jakarta Barat,"Jl. Pasteur No. 60, Pasuruan, BT 17866",NET 30,Active
+DN240210,009710,RSS049,2024-11-24,Internal,2024-12-04,Received,RS Januar,RS Swasta,Jakarta Timur,"Gg. Dr. Djunjunan No. 992, Dumai, YO 12053",NET 30,Active
+DN240211,009711,RSS049,2024-11-21,Internal,,Pending,RS Januar,RS Swasta,Jakarta Timur,"Gg. Dr. Djunjunan No. 992, Dumai, YO 12053",NET 30,Active
+DN240212,009712,RSS016,2024-01-30,Third-Party Courier,2024-02-09,Received,RS Natsir,RS Swasta,Tangerang,"Gg. W.R. Supratman No. 2, Surabaya, RI 30777",NET 30,Active
+DN240213,009713,RSS016,2024-02-01,Internal,2024-02-09,Received,RS Natsir,RS Swasta,Tangerang,"Gg. W.R. Supratman No. 2, Surabaya, RI 30777",NET 30,Active
+DN240214,009714,KLN055,2024-07-21,Third-Party Courier,2024-07-26,Received,Klinik Fujiati,Klinik,Bekasi,"Gg. KH Amin Jasuta No. 19, Palembang, NB 00845",NET 30,Active
+DN240215,009715,RSS053,2024-06-03,Third-Party Courier,,Pending,RS Mahendra,RS Swasta,Jakarta Barat,"Gg. Peta No. 6, Kota Administrasi Jakarta Selatan, Kalimantan Barat 09600",NET 30,Active
+DN240216,009716,RSS053,2024-06-03,Internal,2024-07-06,Late,RS Mahendra,RS Swasta,Jakarta Barat,"Gg. Peta No. 6, Kota Administrasi Jakarta Selatan, Kalimantan Barat 09600",NET 30,Active
+DN240217,009717,RSP009,2024-09-11,Third-Party Courier,,Pending,RSUD Hutagalung,RS Pemerintah,Tangerang,"Gg. Sukajadi No. 47, Padang, Kepulauan Riau 64722",NET 45,Active
+DN240218,009718,RSS060,2024-04-27,Internal,2024-05-02,Received,RS Simbolon,RS Swasta,Jakarta Utara,"Gang Dipenogoro No. 01, Solok, NT 59454",NET 30,Active
+DN240219,009719,KLN023,2024-01-23,Internal,2024-01-30,Received,Klinik Wijayanti,Klinik,Jakarta Selatan,"Jalan Ronggowarsito No. 7, Sawahlunto, SN 92602",NET 30,Active
+DN240220,009720,RSS029,2024-09-24,Third-Party Courier,2024-10-02,Received,RS Utama,RS Swasta,Bekasi,"Gg. Ciumbuleuit No. 52, Kendari, DKI Jakarta 34569",NET 30,Active
+DN240221,009721,RSS067,2024-11-30,Internal,2024-12-06,Received,RS Simbolon,RS Swasta,Tangerang,"Gg. Siliwangi No. 920, Lubuklinggau, Nusa Tenggara Timur 55686",NET 30,Active
+DN240222,009722,KLN028,2024-07-30,Internal,,Pending,Klinik Hutagalung,Klinik,Jakarta Pusat,"Jalan Cihampelas No. 73, Prabumulih, SN 12252",NET 30,Active
+DN240223,009723,KLN068,2024-09-18,Internal,2024-09-24,Received,Klinik Safitri,Klinik,Jakarta Utara,"Gg. Pasteur No. 77, Denpasar, Sumatera Selatan 83826",NET 30,Active
+DN240224,009724,KLN068,2024-09-17,Internal,2024-09-20,Received,Klinik Safitri,Klinik,Jakarta Utara,"Gg. Pasteur No. 77, Denpasar, Sumatera Selatan 83826",NET 30,Active
+DN240225,009725,RSP015,2024-01-25,Third-Party Courier,2024-01-28,Received,RSUD Prakasa,RS Pemerintah,Tangerang,"Jl. Ciumbuleuit No. 82, Tomohon, SU 79733",NET 45,Active
+DN240226,009726,KLN057,2024-04-03,Internal,2024-04-10,Received,Klinik Prakasa,Klinik,Jakarta Pusat,"Gg. Moch. Ramdan No. 30, Malang, MU 91208",NET 30,Active
+DN240227,009727,RSS068,2024-07-04,Third-Party Courier,2024-07-11,Received,RS Natsir,RS Swasta,Depok,"Jalan Raya Ujungberung No. 545, Singkawang, NT 12169",NET 30,Active
+DN240228,009728,RSP003,2024-06-12,Third-Party Courier,2024-06-15,Received,RSUD Marbun,RS Pemerintah,Bekasi,"Jl. Pasir Koja No. 7, Kota Administrasi Jakarta Selatan, Sulawesi Utara 97492",NET 45,Active
+DN240229,009729,RSP003,2024-06-11,Third-Party Courier,2024-06-14,Received,RSUD Marbun,RS Pemerintah,Bekasi,"Jl. Pasir Koja No. 7, Kota Administrasi Jakarta Selatan, Sulawesi Utara 97492",NET 45,Active
+DN240230,009730,RSS056,2024-02-13,Third-Party Courier,2024-02-17,Received,RS Manullang,RS Swasta,Bekasi,"Gg. Otto Iskandardinata No. 548, Ambon, Kalimantan Timur 55480",NET 30,Active
+DN240231,009731,RSS039,2024-07-09,Third-Party Courier,2024-07-13,Received,RS Uyainah,RS Swasta,Bekasi,"Jalan Wonoayu No. 5, Probolinggo, Sulawesi Selatan 53015",NET 30,Active
+DN240232,009732,RSS039,2024-07-10,Internal,2024-07-15,Received,RS Uyainah,RS Swasta,Bekasi,"Jalan Wonoayu No. 5, Probolinggo, Sulawesi Selatan 53015",NET 30,Active
+DN240233,009733,KLN052,2024-01-24,Internal,2024-02-01,Received,Klinik Sihotang,Klinik,Jakarta Barat,"Gang Kapten Muslihat No. 199, Ternate, ST 41261",NET 30,Active
+DN240234,009734,KLN052,2024-01-26,Third-Party Courier,2024-02-03,Received,Klinik Sihotang,Klinik,Jakarta Barat,"Gang Kapten Muslihat No. 199, Ternate, ST 41261",NET 30,Active
+DN240235,009735,RSS048,2024-07-03,Internal,2024-07-08,Received,RS Sitorus,RS Swasta,Jakarta Barat,"Jalan Pasirkoja No. 42, Kendari, Banten 21343",NET 30,Active
+DN240236,009736,RSS037,2024-01-24,Internal,2024-01-26,Received,RS Lailasari,RS Swasta,Jakarta Barat,"Gg. Kebonjati No. 5, Tasikmalaya, Kalimantan Selatan 99877",NET 30,Active
+DN240237,009737,KLN071,2024-12-06,Third-Party Courier,2024-12-10,Received,Klinik Rahimah,Klinik,Tangerang,"Gang Medokan Ayu No. 4, Palu, KU 20673",NET 30,Active
+DN240238,009738,KLN033,2024-12-20,Internal,2024-12-22,Received,Klinik Hutapea,Klinik,Jakarta Barat,"Gg. Tebet Barat Dalam No. 86, Pekalongan, AC 89184",NET 30,Active
+DN240239,009739,KLN038,2024-10-04,Internal,2024-10-11,Received,Klinik Hutasoit,Klinik,Jakarta Timur,"Gang Sukabumi No. 25, Bau-Bau, BA 94114",NET 30,Active
+DN240240,009740,KLN005,2024-01-27,Third-Party Courier,2024-02-15,Late,Klinik Kuswandari,Klinik,Bogor,"Jl. Jend. Sudirman No. 49, Tanjungpinang, KR 36878",NET 30,Active
+DN240241,009741,RSP004,2024-05-27,Third-Party Courier,,Pending,RSUD Handayani,RS Pemerintah,Depok,"Gg. W.R. Supratman No. 24, Singkawang, JK 70185",NET 45,Active
+DN240242,009742,KLN072,2024-08-10,Internal,2024-08-20,Received,Klinik Nashiruddin,Klinik,Jakarta Selatan,"Jalan Dipatiukur No. 1, Kota Administrasi Jakarta Timur, Sulawesi Utara 43637",NET 30,Active
+DN240243,009743,KLN046,2024-09-09,Internal,2024-09-13,Received,Klinik Hariyah,Klinik,Jakarta Selatan,"Gg. Lembong No. 152, Kupang, Sumatera Utara 85684",NET 30,Active
+DN240244,009744,KLN059,2024-07-21,Internal,2024-08-22,Late,Klinik Wahyudin,Klinik,Jakarta Timur,"Gang Siliwangi No. 97, Pekalongan, DKI Jakarta 67319",NET 30,Active
+DN240245,009745,KLN059,2024-07-21,Internal,2024-07-26,Received,Klinik Wahyudin,Klinik,Jakarta Timur,"Gang Siliwangi No. 97, Pekalongan, DKI Jakarta 67319",NET 30,Active
+DN240246,009746,RSS013,2024-12-05,Third-Party Courier,,Pending,RS Sinaga,RS Swasta,Jakarta Barat,"Jalan Cihampelas No. 82, Singkawang, KS 95594",NET 30,Active
+DN240247,009747,RSS013,2024-12-04,Internal,2024-12-07,Received,RS Sinaga,RS Swasta,Jakarta Barat,"Jalan Cihampelas No. 82, Singkawang, KS 95594",NET 30,Active
+DN240248,009748,RSS010,2024-04-02,Internal,2024-04-04,Received,RS Ardianto,RS Swasta,Jakarta Barat,"Gang M.H Thamrin No. 5, Sukabumi, SR 33778",NET 30,Active
+DN240249,009749,RSS018,2024-09-08,Third-Party Courier,2024-09-18,Received,RS Ardianto,RS Swasta,Depok,"Gg. Jakarta No. 7, Kota Administrasi Jakarta Pusat, SB 99970",NET 30,Active
+DN240250,009750,RSS018,2024-09-05,Internal,2024-09-11,Received,RS Ardianto,RS Swasta,Depok,"Gg. Jakarta No. 7, Kota Administrasi Jakarta Pusat, SB 99970",NET 30,Active
+DN240251,009751,RSS082,2024-04-20,Third-Party Courier,2024-05-27,Late,RS Prasetya,RS Swasta,Jakarta Utara,"Gang Joyoboyo No. 8, Bandar Lampung, Sumatera Barat 39409",NET 30,Active
+DN240252,009752,RSS082,2024-04-19,Internal,2024-04-29,Received,RS Prasetya,RS Swasta,Jakarta Utara,"Gang Joyoboyo No. 8, Bandar Lampung, Sumatera Barat 39409",NET 30,Active
+DN240253,009753,KLN018,2024-05-25,Internal,2024-05-28,Received,Klinik Farida,Klinik,Jakarta Barat,"Jalan Ciumbuleuit No. 865, Samarinda, Jawa Barat 35513",NET 30,Active
+DN240254,009754,KLN018,2024-05-25,Internal,2024-06-29,Late,Klinik Farida,Klinik,Jakarta Barat,"Jalan Ciumbuleuit No. 865, Samarinda, Jawa Barat 35513",NET 30,Active
+DN240255,009755,KLN052,2024-07-07,Internal,2024-07-17,Received,Klinik Sihotang,Klinik,Jakarta Barat,"Gang Kapten Muslihat No. 199, Ternate, ST 41261",NET 30,Active
+DN240256,009756,RSP045,2024-08-14,Third-Party Courier,,Pending,RSUD Waluyo,RS Pemerintah,Jakarta Timur,"Jl. M.T Haryono No. 62, Blitar, JA 27798",NET 45,Active
+DN240257,009757,RSP045,2024-08-11,Third-Party Courier,,Pending,RSUD Waluyo,RS Pemerintah,Jakarta Timur,"Jl. M.T Haryono No. 62, Blitar, JA 27798",NET 45,Active
+DN240258,009758,RSS072,2024-06-23,Third-Party Courier,2024-06-29,Received,RS Rahimah,RS Swasta,Tangerang,"Gg. Rajawali Timur No. 72, Tomohon, KT 70880",NET 30,Active
+DN240259,009759,RSS072,2024-06-23,Third-Party Courier,2024-07-01,Received,RS Rahimah,RS Swasta,Tangerang,"Gg. Rajawali Timur No. 72, Tomohon, KT 70880",NET 30,Active
+DN240260,009760,RSP039,2024-02-10,Third-Party Courier,2024-02-14,Received,RSUD Mandasari,RS Pemerintah,Bogor,"Gang Jend. A. Yani No. 20, Serang, Aceh 89847",NET 45,Active
+DN240261,009761,RSP039,2024-02-09,Third-Party Courier,2024-02-17,Received,RSUD Mandasari,RS Pemerintah,Bogor,"Gang Jend. A. Yani No. 20, Serang, Aceh 89847",NET 45,Active
+DN240262,009762,RSS045,2024-02-25,Internal,2024-02-29,Received,RS Waluyo,RS Swasta,Depok,"Jl. Moch. Toha No. 4, Sorong, YO 08961",NET 30,Active
+DN240263,009763,RSS045,2024-02-26,Third-Party Courier,2024-03-07,Received,RS Waluyo,RS Swasta,Depok,"Jl. Moch. Toha No. 4, Sorong, YO 08961",NET 30,Active
+DN240264,009764,RSS048,2024-05-22,Third-Party Courier,2024-05-29,Received,RS Sitorus,RS Swasta,Jakarta Barat,"Jalan Pasirkoja No. 42, Kendari, Banten 21343",NET 30,Active
+DN240265,009765,RSP053,2024-08-02,Internal,2024-08-08,Received,RSUD Simbolon,RS Pemerintah,Jakarta Utara,"Jalan Indragiri No. 826, Kupang, BA 42657",NET 45,Active
+DN240266,009766,RSP053,2024-08-03,Third-Party Courier,2024-08-08,Received,RSUD Simbolon,RS Pemerintah,Jakarta Utara,"Jalan Indragiri No. 826, Kupang, BA 42657",NET 45,Active
+DN240267,009767,RSP008,2024-03-26,Internal,2024-04-04,Received,RSUD Hakim,RS Pemerintah,Jakarta Barat,"Gang K.H. Wahid Hasyim No. 8, Banda Aceh, Jawa Timur 33834",NET 45,Active
+DN240268,009768,RSP008,2024-03-27,Internal,2024-04-11,Late,RSUD Hakim,RS Pemerintah,Jakarta Barat,"Gang K.H. Wahid Hasyim No. 8, Banda Aceh, Jawa Timur 33834",NET 45,Active
+DN240269,009769,KLN030,2024-04-07,Third-Party Courier,2024-04-09,Received,Klinik Laksita,Klinik,Jakarta Selatan,"Gang Suryakencana No. 17, Prabumulih, JT 35347",NET 30,Active
+DN240270,009770,KLN030,2024-04-08,Internal,2024-04-13,Received,Klinik Laksita,Klinik,Jakarta Selatan,"Gang Suryakencana No. 17, Prabumulih, JT 35347",NET 30,Active
+DN240271,009771,KLN021,2025-01-04,Internal,2025-01-25,Late,Klinik Sinaga,Klinik,Jakarta Barat,"Gang Peta No. 7, Surakarta, Sumatera Utara 88637",NET 30,Active
+DN240272,009772,KLN021,2025-01-02,Third-Party Courier,2025-01-05,Received,Klinik Sinaga,Klinik,Jakarta Barat,"Gang Peta No. 7, Surakarta, Sumatera Utara 88637",NET 30,Active
+DN240273,009773,KLN059,2024-05-04,Third-Party Courier,2024-05-08,Received,Klinik Wahyudin,Klinik,Jakarta Timur,"Gang Siliwangi No. 97, Pekalongan, DKI Jakarta 67319",NET 30,Active
+DN240274,009774,RSS024,2024-07-11,Third-Party Courier,2024-07-16,Received,RS Tampubolon,RS Swasta,Jakarta Pusat,"Jl. Monginsidi No. 04, Bekasi, Sulawesi Barat 05515",NET 30,Active
+DN240275,009775,RSS024,2024-07-10,Internal,2024-07-16,Received,RS Tampubolon,RS Swasta,Jakarta Pusat,"Jl. Monginsidi No. 04, Bekasi, Sulawesi Barat 05515",NET 30,Active
+DN240276,009776,RSS080,2024-10-08,Third-Party Courier,2024-10-18,Received,RS Puspita,RS Swasta,Bekasi,"Jl. Kutisari Selatan No. 946, Bukittinggi, SB 78470",NET 30,Active
+DN240277,009777,RSS051,2024-07-18,Internal,,Pending,RS Yuliarti,RS Swasta,Jakarta Barat,"Gg. Sadang Serang No. 53, Banjarmasin, DI Yogyakarta 54419",NET 30,Active
+DN240278,009778,RSS046,2024-12-06,Internal,2024-12-08,Received,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240279,009779,RSS046,2024-12-05,Internal,2024-12-24,Late,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240280,009780,RSS018,2024-08-28,Third-Party Courier,2024-09-07,Received,RS Ardianto,RS Swasta,Depok,"Gg. Jakarta No. 7, Kota Administrasi Jakarta Pusat, SB 99970",NET 30,Active
+DN240281,009781,RSS018,2024-09-01,Third-Party Courier,,Pending,RS Ardianto,RS Swasta,Depok,"Gg. Jakarta No. 7, Kota Administrasi Jakarta Pusat, SB 99970",NET 30,Active
+DN240282,009782,RSP021,2024-11-27,Third-Party Courier,2024-12-04,Received,RSUD Purwanti,RS Pemerintah,Jakarta Barat,"Gg. Ahmad Dahlan No. 6, Tebingtinggi, BB 04736",NET 45,Active
+DN240283,009783,RSP021,2024-11-26,Internal,2024-12-06,Received,RSUD Purwanti,RS Pemerintah,Jakarta Barat,"Gg. Ahmad Dahlan No. 6, Tebingtinggi, BB 04736",NET 45,Active
+DN240284,009784,RSS058,2024-05-12,Third-Party Courier,,Pending,RS Astuti,RS Swasta,Jakarta Barat,"Gang PHH. Mustofa No. 40, Palembang, Sumatera Selatan 46313",NET 30,Active
+DN240285,009785,RSS056,2024-12-23,Internal,2024-12-28,Received,RS Manullang,RS Swasta,Bekasi,"Gg. Otto Iskandardinata No. 548, Ambon, Kalimantan Timur 55480",NET 30,Active
+DN240286,009786,RSP039,2024-02-12,Third-Party Courier,2024-03-18,Late,RSUD Mandasari,RS Pemerintah,Bogor,"Gang Jend. A. Yani No. 20, Serang, Aceh 89847",NET 45,Active
+DN240287,009787,RSS083,2024-03-06,Third-Party Courier,2024-03-15,Received,RS Zulkarnain,RS Swasta,Depok,"Gang Suryakencana No. 42, Kota Administrasi Jakarta Pusat, MU 68123",NET 30,Active
+DN240288,009788,RSS071,2024-11-02,Internal,2024-11-06,Received,RS Rahayu,RS Swasta,Jakarta Timur,"Gang Pasteur No. 4, Manado, Kalimantan Selatan 23096",NET 30,Active
+DN240289,009789,RSP026,2024-03-13,Internal,2024-03-21,Received,RSUD Purwanti,RS Pemerintah,Bogor,"Jl. Rawamangun No. 87, Kota Administrasi Jakarta Pusat, Papua Barat 40960",NET 45,Active
+DN240290,009790,RSS050,2024-07-09,Third-Party Courier,2024-07-12,Received,RS Kusmawati,RS Swasta,Bogor,"Jalan Ahmad Yani No. 8, Sukabumi, Sulawesi Selatan 16774",NET 30,Active
+DN240291,009791,RSS050,2024-07-08,Internal,2024-07-11,Received,RS Kusmawati,RS Swasta,Bogor,"Jalan Ahmad Yani No. 8, Sukabumi, Sulawesi Selatan 16774",NET 30,Active
+DN240292,009792,RSS040,2024-06-10,Internal,2024-06-20,Received,RS Permata,RS Swasta,Bekasi,"Jl. Dipatiukur No. 549, Kota Administrasi Jakarta Selatan, NB 24286",NET 30,Active
+DN240293,009793,RSS018,2024-01-25,Internal,2024-02-02,Received,RS Ardianto,RS Swasta,Depok,"Gg. Jakarta No. 7, Kota Administrasi Jakarta Pusat, SB 99970",NET 30,Active
+DN240294,009794,RSS018,2024-01-25,Third-Party Courier,2024-01-29,Received,RS Ardianto,RS Swasta,Depok,"Gg. Jakarta No. 7, Kota Administrasi Jakarta Pusat, SB 99970",NET 30,Active
+DN240295,009795,RSS033,2024-12-20,Internal,,Pending,RS Wijayanti,RS Swasta,Jakarta Utara,"Jalan Jend. Sudirman No. 16, Kotamobagu, Papua Barat 11606",NET 30,Active
+DN240296,009796,RSS033,2024-12-20,Internal,2025-01-24,Late,RS Wijayanti,RS Swasta,Jakarta Utara,"Jalan Jend. Sudirman No. 16, Kotamobagu, Papua Barat 11606",NET 30,Active
+DN240297,009797,RSS046,2024-08-21,Third-Party Courier,2024-08-31,Received,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240298,009798,RSS046,2024-08-20,Internal,2024-08-28,Received,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240299,009799,KLN014,2024-11-13,Internal,2024-11-15,Received,Klinik Sitompul,Klinik,Jakarta Utara,"Gang H.J Maemunah No. 03, Kotamobagu, KS 13013",NET 30,Active
+DN240300,009800,KLN014,2024-11-12,Internal,2024-11-17,Received,Klinik Sitompul,Klinik,Jakarta Utara,"Gang H.J Maemunah No. 03, Kotamobagu, KS 13013",NET 30,Active
+DN240301,009801,RSS011,2024-04-19,Internal,2024-04-21,Received,RS Halim,RS Swasta,Jakarta Timur,"Jalan S. Parman No. 40, Binjai, DI Yogyakarta 18640",NET 30,Active
+DN240302,009802,RSS011,2024-04-17,Internal,2024-04-19,Received,RS Halim,RS Swasta,Jakarta Timur,"Jalan S. Parman No. 40, Binjai, DI Yogyakarta 18640",NET 30,Active
+DN240303,009803,RSS053,2024-10-15,Internal,2024-11-07,Late,RS Mahendra,RS Swasta,Jakarta Barat,"Gg. Peta No. 6, Kota Administrasi Jakarta Selatan, Kalimantan Barat 09600",NET 30,Active
+DN240304,009804,KLN052,2024-08-28,Internal,2024-09-01,Received,Klinik Sihotang,Klinik,Jakarta Barat,"Gang Kapten Muslihat No. 199, Ternate, ST 41261",NET 30,Active
+DN240305,009805,KLN023,2024-03-07,Internal,2024-03-11,Received,Klinik Wijayanti,Klinik,Jakarta Selatan,"Jalan Ronggowarsito No. 7, Sawahlunto, SN 92602",NET 30,Active
+DN240306,009806,KLN023,2024-03-06,Internal,2024-04-07,Late,Klinik Wijayanti,Klinik,Jakarta Selatan,"Jalan Ronggowarsito No. 7, Sawahlunto, SN 92602",NET 30,Active
+DN240307,009807,RSP024,2024-11-19,Internal,2024-11-28,Received,RSUD Yuniar,RS Pemerintah,Bekasi,"Jl. Wonoayu No. 5, Kota Administrasi Jakarta Selatan, Nusa Tenggara Barat 20154",NET 45,Active
+DN240308,009808,RSP024,2024-11-18,Third-Party Courier,2024-11-28,Received,RSUD Yuniar,RS Pemerintah,Bekasi,"Jl. Wonoayu No. 5, Kota Administrasi Jakarta Selatan, Nusa Tenggara Barat 20154",NET 45,Active
+DN240309,009809,RSS058,2024-04-19,Internal,2024-05-13,Late,RS Astuti,RS Swasta,Jakarta Barat,"Gang PHH. Mustofa No. 40, Palembang, Sumatera Selatan 46313",NET 30,Active
+DN240310,009810,RSS058,2024-04-21,Internal,2024-04-28,Received,RS Astuti,RS Swasta,Jakarta Barat,"Gang PHH. Mustofa No. 40, Palembang, Sumatera Selatan 46313",NET 30,Active
+DN240311,009811,RSS014,2024-01-22,Internal,2024-01-27,Received,RS Dabukke,RS Swasta,Bogor,"Jl. Lembong No. 7, Pematangsiantar, Kalimantan Selatan 71602",NET 30,Active
+DN240312,009812,KLN023,2024-12-27,Third-Party Courier,2025-01-28,Late,Klinik Wijayanti,Klinik,Jakarta Selatan,"Jalan Ronggowarsito No. 7, Sawahlunto, SN 92602",NET 30,Active
+DN240313,009813,KLN038,2024-08-09,Third-Party Courier,2024-08-15,Received,Klinik Hutasoit,Klinik,Jakarta Timur,"Gang Sukabumi No. 25, Bau-Bau, BA 94114",NET 30,Active
+DN240314,009814,KLN071,2024-04-11,Internal,2024-04-13,Received,Klinik Rahimah,Klinik,Tangerang,"Gang Medokan Ayu No. 4, Palu, KU 20673",NET 30,Active
+DN240315,009815,KLN071,2024-04-10,Third-Party Courier,2024-04-17,Received,Klinik Rahimah,Klinik,Tangerang,"Gang Medokan Ayu No. 4, Palu, KU 20673",NET 30,Active
+DN240316,009816,RSS015,2024-12-14,Third-Party Courier,2024-12-16,Received,RS Nababan,RS Swasta,Jakarta Pusat,"Jalan Jakarta No. 6, Surabaya, JT 50243",NET 30,Active
+DN240317,009817,KLN073,2024-09-25,Internal,2024-10-05,Received,Klinik Maryati,Klinik,Jakarta Barat,"Jl. M.H Thamrin No. 7, Kota Administrasi Jakarta Barat, ST 47314",NET 30,Active
+DN240318,009818,KLN025,2024-03-29,Third-Party Courier,2024-04-04,Received,Klinik Wibisono,Klinik,Jakarta Pusat,"Jalan M.H Thamrin No. 84, Payakumbuh, MA 81856",NET 30,Active
+DN240319,009819,RSS069,2024-04-23,Third-Party Courier,2024-05-26,Late,RS Samosir,RS Swasta,Depok,"Gg. Abdul Muis No. 4, Parepare, Jawa Timur 95654",NET 30,Active
+DN240320,009820,RSS069,2024-04-22,Internal,,Pending,RS Samosir,RS Swasta,Depok,"Gg. Abdul Muis No. 4, Parepare, Jawa Timur 95654",NET 30,Active
+DN240321,009821,KLN065,2024-07-18,Internal,2024-07-27,Received,Klinik Safitri,Klinik,Jakarta Selatan,"Jl. Yos Sudarso No. 2, Pekanbaru, KR 36958",NET 30,Active
+DN240322,009822,KLN065,2024-07-20,Third-Party Courier,2024-07-23,Received,Klinik Safitri,Klinik,Jakarta Selatan,"Jl. Yos Sudarso No. 2, Pekanbaru, KR 36958",NET 30,Active
+DN240323,009823,RSP011,2024-04-19,Third-Party Courier,,Pending,RSUD Simanjuntak,RS Pemerintah,Jakarta Selatan,"Jl. Jend. Sudirman No. 34, Dumai, SN 45373",NET 45,Active
+DN240324,009824,RSP011,2024-04-19,Internal,2024-04-28,Received,RSUD Simanjuntak,RS Pemerintah,Jakarta Selatan,"Jl. Jend. Sudirman No. 34, Dumai, SN 45373",NET 45,Active
+DN240325,009825,RSS056,2024-11-13,Third-Party Courier,2024-12-26,Late,RS Manullang,RS Swasta,Bekasi,"Gg. Otto Iskandardinata No. 548, Ambon, Kalimantan Timur 55480",NET 30,Active
+DN240326,009826,RSS056,2024-11-14,Third-Party Courier,,Pending,RS Manullang,RS Swasta,Bekasi,"Gg. Otto Iskandardinata No. 548, Ambon, Kalimantan Timur 55480",NET 30,Active
+DN240327,009827,RSS041,2024-09-03,Internal,2024-09-08,Received,RS Wibisono,RS Swasta,Jakarta Barat,"Jl. Jakarta No. 062, Surakarta, Bengkulu 58958",NET 30,Active
+DN240328,009828,RSS041,2024-09-05,Internal,2024-09-13,Received,RS Wibisono,RS Swasta,Jakarta Barat,"Jl. Jakarta No. 062, Surakarta, Bengkulu 58958",NET 30,Active
+DN240329,009829,RSP052,2024-10-22,Internal,2024-10-31,Received,RSUD Wahyuni,RS Pemerintah,Jakarta Timur,"Gg. Gedebage Selatan No. 12, Malang, KU 48302",NET 45,Active
+DN240330,009830,RSS018,2024-04-05,Third-Party Courier,,Pending,RS Ardianto,RS Swasta,Depok,"Gg. Jakarta No. 7, Kota Administrasi Jakarta Pusat, SB 99970",NET 30,Active
+DN240331,009831,RSS024,2024-03-14,Internal,2024-03-20,Received,RS Tampubolon,RS Swasta,Jakarta Pusat,"Jl. Monginsidi No. 04, Bekasi, Sulawesi Barat 05515",NET 30,Active
+DN240332,009832,RSP029,2024-10-15,Internal,2024-10-22,Received,RSUD Habibi,RS Pemerintah,Jakarta Barat,"Jalan M.H Thamrin No. 631, Jayapura, Kepulauan Riau 70362",NET 45,Active
+DN240333,009833,RSP029,2024-10-15,Internal,2024-10-24,Received,RSUD Habibi,RS Pemerintah,Jakarta Barat,"Jalan M.H Thamrin No. 631, Jayapura, Kepulauan Riau 70362",NET 45,Active
+DN240334,009834,RSS045,2024-12-06,Third-Party Courier,2024-12-15,Received,RS Waluyo,RS Swasta,Depok,"Jl. Moch. Toha No. 4, Sorong, YO 08961",NET 30,Active
+DN240335,009835,RSP015,2024-07-17,Third-Party Courier,,Pending,RSUD Prakasa,RS Pemerintah,Tangerang,"Jl. Ciumbuleuit No. 82, Tomohon, SU 79733",NET 45,Active
+DN240336,009836,RSP015,2024-07-18,Third-Party Courier,2024-07-23,Received,RSUD Prakasa,RS Pemerintah,Tangerang,"Jl. Ciumbuleuit No. 82, Tomohon, SU 79733",NET 45,Active
+DN240337,009837,RSP027,2024-08-31,Internal,2024-09-09,Received,RSUD Pangestu,RS Pemerintah,Jakarta Timur,"Gang Jayawijaya No. 28, Tebingtinggi, Maluku 87793",NET 45,Active
+DN240338,009838,RSP041,2024-10-25,Internal,,Pending,RSUD Prakasa,RS Pemerintah,Jakarta Barat,"Jalan Gardujati No. 06, Cimahi, AC 32340",NET 45,Active
+DN240339,009839,RSS045,2024-06-01,Third-Party Courier,2024-07-01,Late,RS Waluyo,RS Swasta,Depok,"Jl. Moch. Toha No. 4, Sorong, YO 08961",NET 30,Active
+DN240340,009840,RSS045,2024-06-02,Third-Party Courier,2024-06-25,Late,RS Waluyo,RS Swasta,Depok,"Jl. Moch. Toha No. 4, Sorong, YO 08961",NET 30,Active
+DN240341,009841,KLN016,2024-09-13,Internal,2024-09-22,Received,Klinik Wasita,Klinik,Jakarta Selatan,"Gang Sukajadi No. 69, Palopo, Nusa Tenggara Barat 36878",NET 30,Active
+DN240342,009842,KLN007,2024-06-07,Third-Party Courier,,Pending,Klinik Permadi,Klinik,Depok,"Jl. Pasteur No. 1, Bandar Lampung, NT 00784",NET 30,Active
+DN240343,009843,RSS027,2024-10-04,Internal,2024-10-08,Received,RS Maryati,RS Swasta,Jakarta Selatan,"Gg. Cempaka No. 9, Kupang, NB 37061",NET 30,Active
+DN240344,009844,RSS027,2024-10-01,Internal,2024-10-08,Received,RS Maryati,RS Swasta,Jakarta Selatan,"Gg. Cempaka No. 9, Kupang, NB 37061",NET 30,Active
+DN240345,009845,KLN068,2024-11-14,Internal,2024-12-15,Late,Klinik Safitri,Klinik,Jakarta Utara,"Gg. Pasteur No. 77, Denpasar, Sumatera Selatan 83826",NET 30,Active
+DN240346,009846,KLN068,2024-11-15,Internal,,Pending,Klinik Safitri,Klinik,Jakarta Utara,"Gg. Pasteur No. 77, Denpasar, Sumatera Selatan 83826",NET 30,Active
+DN240347,009847,RSS018,2024-07-21,Third-Party Courier,2024-07-24,Received,RS Ardianto,RS Swasta,Depok,"Gg. Jakarta No. 7, Kota Administrasi Jakarta Pusat, SB 99970",NET 30,Active
+DN240348,009848,RSS042,2024-08-15,Third-Party Courier,2024-08-22,Received,RS Melani,RS Swasta,Bekasi,"Jalan Rawamangun No. 63, Kota Administrasi Jakarta Pusat, Maluku 89452",NET 30,Active
+DN240349,009849,RSS042,2024-08-17,Third-Party Courier,2024-09-04,Late,RS Melani,RS Swasta,Bekasi,"Jalan Rawamangun No. 63, Kota Administrasi Jakarta Pusat, Maluku 89452",NET 30,Active
+DN240350,009850,RSS063,2024-10-06,Third-Party Courier,2024-10-08,Received,RS Nasyidah,RS Swasta,Depok,"Jl. Ir. H. Djuanda No. 23, Surabaya, SR 97365",NET 30,Active
+DN240351,009851,RSS063,2024-10-05,Third-Party Courier,2024-10-08,Received,RS Nasyidah,RS Swasta,Depok,"Jl. Ir. H. Djuanda No. 23, Surabaya, SR 97365",NET 30,Active
+DN240352,009852,KLN007,2024-11-22,Internal,2024-12-01,Received,Klinik Permadi,Klinik,Depok,"Jl. Pasteur No. 1, Bandar Lampung, NT 00784",NET 30,Active
+DN240353,009853,RSP029,2024-01-13,Internal,2024-01-15,Received,RSUD Habibi,RS Pemerintah,Jakarta Barat,"Jalan M.H Thamrin No. 631, Jayapura, Kepulauan Riau 70362",NET 45,Active
+DN240354,009854,RSP029,2024-01-10,Third-Party Courier,2024-01-30,Late,RSUD Habibi,RS Pemerintah,Jakarta Barat,"Jalan M.H Thamrin No. 631, Jayapura, Kepulauan Riau 70362",NET 45,Active
+DN240355,009855,RSS067,2024-08-23,Third-Party Courier,2024-08-30,Received,RS Simbolon,RS Swasta,Tangerang,"Gg. Siliwangi No. 920, Lubuklinggau, Nusa Tenggara Timur 55686",NET 30,Active
+DN240356,009856,RSS067,2024-08-24,Third-Party Courier,2024-08-29,Received,RS Simbolon,RS Swasta,Tangerang,"Gg. Siliwangi No. 920, Lubuklinggau, Nusa Tenggara Timur 55686",NET 30,Active
+DN240357,009857,KLN050,2024-10-26,Internal,2024-11-04,Received,Klinik Firgantoro,Klinik,Jakarta Utara,"Jalan Ahmad Yani No. 92, Subulussalam, ST 49431",NET 30,Active
+DN240358,009858,KLN050,2024-10-28,Internal,2024-10-31,Received,Klinik Firgantoro,Klinik,Jakarta Utara,"Jalan Ahmad Yani No. 92, Subulussalam, ST 49431",NET 30,Active
+DN240359,009859,RSS040,2024-11-21,Third-Party Courier,2024-11-27,Received,RS Permata,RS Swasta,Bekasi,"Jl. Dipatiukur No. 549, Kota Administrasi Jakarta Selatan, NB 24286",NET 30,Active
+DN240360,009860,RSS040,2024-11-18,Third-Party Courier,,Pending,RS Permata,RS Swasta,Bekasi,"Jl. Dipatiukur No. 549, Kota Administrasi Jakarta Selatan, NB 24286",NET 30,Active
+DN240361,009861,KLN012,2024-11-27,Third-Party Courier,2024-12-04,Received,Klinik Prabowo,Klinik,Bogor,"Jl. Cikutra Barat No. 311, Jambi, JI 00095",NET 30,Active
+DN240362,009862,KLN012,2024-11-27,Third-Party Courier,2024-12-06,Received,Klinik Prabowo,Klinik,Bogor,"Jl. Cikutra Barat No. 311, Jambi, JI 00095",NET 30,Active
+DN240363,009863,RSP038,2024-10-29,Third-Party Courier,,Pending,RSUD Riyanti,RS Pemerintah,Depok,"Gg. Otto Iskandardinata No. 74, Singkawang, NT 82483",NET 45,Active
+DN240364,009864,RSP038,2024-10-28,Internal,2024-11-01,Received,RSUD Riyanti,RS Pemerintah,Depok,"Gg. Otto Iskandardinata No. 74, Singkawang, NT 82483",NET 45,Active
+DN240365,009865,RSP033,2024-11-26,Third-Party Courier,2024-12-19,Late,RSUD Mandala,RS Pemerintah,Tangerang,"Gg. Gardujati No. 23, Kota Administrasi Jakarta Selatan, Sulawesi Barat 72803",NET 45,Active
+DN240366,009866,RSS031,2024-10-24,Third-Party Courier,2024-10-27,Received,RS Pranowo,RS Swasta,Jakarta Selatan,"Jalan Moch. Ramdan No. 214, Tanjungbalai, KU 44727",NET 30,Active
+DN240367,009867,KLN067,2024-08-23,Internal,2024-08-31,Received,Klinik Damanik,Klinik,Jakarta Barat,"Jl. Sentot Alibasa No. 1, Banda Aceh, Bengkulu 51703",NET 30,Active
+DN240368,009868,KLN067,2024-08-23,Internal,2024-09-02,Received,Klinik Damanik,Klinik,Jakarta Barat,"Jl. Sentot Alibasa No. 1, Banda Aceh, Bengkulu 51703",NET 30,Active
+DN240369,009869,KLN013,2024-10-22,Third-Party Courier,2024-10-24,Received,Klinik Sihotang,Klinik,Bekasi,"Gang Kapten Muslihat No. 87, Ambon, SR 74346",NET 30,Active
+DN240370,009870,RSP052,2024-07-10,Internal,,Pending,RSUD Wahyuni,RS Pemerintah,Jakarta Timur,"Gg. Gedebage Selatan No. 12, Malang, KU 48302",NET 45,Active
+DN240371,009871,RSP052,2024-07-10,Internal,2024-07-16,Received,RSUD Wahyuni,RS Pemerintah,Jakarta Timur,"Gg. Gedebage Selatan No. 12, Malang, KU 48302",NET 45,Active
+DN240372,009872,KLN012,2024-08-20,Third-Party Courier,2024-08-25,Received,Klinik Prabowo,Klinik,Bogor,"Jl. Cikutra Barat No. 311, Jambi, JI 00095",NET 30,Active
+DN240373,009873,KLN012,2024-08-24,Third-Party Courier,,Pending,Klinik Prabowo,Klinik,Bogor,"Jl. Cikutra Barat No. 311, Jambi, JI 00095",NET 30,Active
+DN240374,009874,RSP023,2024-06-28,Third-Party Courier,2024-07-05,Received,RSUD Uyainah,RS Pemerintah,Bogor,"Jalan Bangka Raya No. 70, Bau-Bau, JI 74778",NET 45,Active
+DN240375,009875,RSP005,2024-09-08,Third-Party Courier,2024-09-12,Received,RSUD Pertiwi,RS Pemerintah,Depok,"Jl. Jend. Sudirman No. 40, Cimahi, KB 37680",NET 45,Active
+DN240376,009876,KLN017,2025-01-04,Third-Party Courier,2025-01-11,Received,Klinik Astuti,Klinik,Bekasi,"Gang Tubagus Ismail No. 7, Mataram, Maluku Utara 58420",NET 30,Active
+DN240377,009877,KLN017,2024-12-31,Third-Party Courier,2025-01-09,Received,Klinik Astuti,Klinik,Bekasi,"Gang Tubagus Ismail No. 7, Mataram, Maluku Utara 58420",NET 30,Active
+DN240378,009878,KLN026,2024-03-19,Third-Party Courier,2024-04-30,Late,Klinik Hardiansyah,Klinik,Tangerang,"Gg. Jend. A. Yani No. 3, Surakarta, KB 61820",NET 30,Active
+DN240379,009879,KLN003,2024-06-26,Third-Party Courier,2024-07-27,Late,Klinik Wasita,Klinik,Bekasi,"Jalan Abdul Muis No. 1, Sawahlunto, NB 33992",NET 30,Active
+DN240380,009880,KLN003,2024-06-23,Third-Party Courier,2024-07-02,Received,Klinik Wasita,Klinik,Bekasi,"Jalan Abdul Muis No. 1, Sawahlunto, NB 33992",NET 30,Active
+DN240381,009881,RSS044,2024-06-14,Internal,2024-06-23,Received,RS Permata,RS Swasta,Jakarta Selatan,"Jalan Peta No. 772, Kota Administrasi Jakarta Pusat, AC 05451",NET 30,Active
+DN240382,009882,RSP036,2024-10-16,Third-Party Courier,2024-10-23,Received,RSUD Wulandari,RS Pemerintah,Depok,"Jl. S. Parman No. 3, Tanjungpinang, KR 86766",NET 45,Active
+DN240383,009883,RSP036,2024-10-16,Third-Party Courier,2024-10-20,Received,RSUD Wulandari,RS Pemerintah,Depok,"Jl. S. Parman No. 3, Tanjungpinang, KR 86766",NET 45,Active
+DN240384,009884,RSS045,2024-07-16,Internal,2024-07-25,Received,RS Waluyo,RS Swasta,Depok,"Jl. Moch. Toha No. 4, Sorong, YO 08961",NET 30,Active
+DN240385,009885,KLN054,2024-03-05,Third-Party Courier,2024-03-14,Received,Klinik Yulianti,Klinik,Bekasi,"Gang Cihampelas No. 7, Banjar, KR 41340",NET 30,Active
+DN240386,009886,KLN031,2024-10-21,Internal,2024-10-27,Received,Klinik Wahyuni,Klinik,Bekasi,"Gg. Ir. H. Djuanda No. 273, Tasikmalaya, Nusa Tenggara Barat 06907",NET 30,Active
+DN240387,009887,KLN013,2024-07-06,Third-Party Courier,2024-08-08,Late,Klinik Sihotang,Klinik,Bekasi,"Gang Kapten Muslihat No. 87, Ambon, SR 74346",NET 30,Active
+DN240388,009888,KLN037,2024-05-20,Internal,2024-05-30,Received,Klinik Ramadan,Klinik,Jakarta Utara,"Jalan Cikutra Barat No. 69, Batu, BT 78774",NET 30,Active
+DN240389,009889,RSS009,2024-11-11,Third-Party Courier,2024-12-16,Late,RS Utama,RS Swasta,Jakarta Timur,"Jalan Rawamangun No. 6, Pekalongan, GO 10533",NET 30,Active
+DN240390,009890,RSS028,2024-04-01,Internal,2024-04-04,Received,RS Firgantoro,RS Swasta,Jakarta Selatan,"Jl. Cihampelas No. 4, Sungai Penuh, SU 58347",NET 30,Active
+DN240391,009891,RSS028,2024-03-30,Internal,2024-04-01,Received,RS Firgantoro,RS Swasta,Jakarta Selatan,"Jl. Cihampelas No. 4, Sungai Penuh, SU 58347",NET 30,Active
+DN240392,009892,RSP041,2024-01-11,Internal,2024-01-14,Received,RSUD Prakasa,RS Pemerintah,Jakarta Barat,"Jalan Gardujati No. 06, Cimahi, AC 32340",NET 45,Active
+DN240393,009893,RSP002,2024-02-24,Third-Party Courier,2024-03-02,Received,RSUD Maheswara,RS Pemerintah,Depok,"Jl. Pelajar Pejuang No. 48, Bandung, DKI Jakarta 56117",NET 45,Active
+DN240394,009894,RSP008,2024-07-15,Internal,2024-07-21,Received,RSUD Hakim,RS Pemerintah,Jakarta Barat,"Gang K.H. Wahid Hasyim No. 8, Banda Aceh, Jawa Timur 33834",NET 45,Active
+DN240395,009895,RSP008,2024-07-16,Internal,2024-07-21,Received,RSUD Hakim,RS Pemerintah,Jakarta Barat,"Gang K.H. Wahid Hasyim No. 8, Banda Aceh, Jawa Timur 33834",NET 45,Active
+DN240396,009896,KLN055,2024-02-09,Third-Party Courier,2024-02-12,Received,Klinik Fujiati,Klinik,Bekasi,"Gg. KH Amin Jasuta No. 19, Palembang, NB 00845",NET 30,Active
+DN240397,009897,RSP004,2024-04-01,Third-Party Courier,2024-04-09,Received,RSUD Handayani,RS Pemerintah,Depok,"Gg. W.R. Supratman No. 24, Singkawang, JK 70185",NET 45,Active
+DN240398,009898,RSP004,2024-03-29,Internal,2024-04-02,Received,RSUD Handayani,RS Pemerintah,Depok,"Gg. W.R. Supratman No. 24, Singkawang, JK 70185",NET 45,Active
+DN240399,009899,KLN022,2024-04-06,Third-Party Courier,2024-04-16,Received,Klinik Pratama,Klinik,Depok,"Gang Jend. Sudirman No. 9, Bau-Bau, SB 13344",NET 30,Active
+DN240400,009900,RSP005,2024-06-26,Internal,2024-07-02,Received,RSUD Pertiwi,RS Pemerintah,Depok,"Jl. Jend. Sudirman No. 40, Cimahi, KB 37680",NET 45,Active
+DN240401,009901,KLN042,2024-12-30,Internal,2025-01-01,Received,Klinik Puspita,Klinik,Jakarta Timur,"Gang K.H. Wahid Hasyim No. 8, Bukittinggi, Bengkulu 40693",NET 30,Active
+DN240402,009902,KLN059,2024-07-23,Internal,,Pending,Klinik Wahyudin,Klinik,Jakarta Timur,"Gang Siliwangi No. 97, Pekalongan, DKI Jakarta 67319",NET 30,Active
+DN240403,009903,RSP053,2024-05-10,Internal,,Pending,RSUD Simbolon,RS Pemerintah,Jakarta Utara,"Jalan Indragiri No. 826, Kupang, BA 42657",NET 45,Active
+DN240404,009904,RSP011,2024-06-14,Internal,2024-06-23,Received,RSUD Simanjuntak,RS Pemerintah,Jakarta Selatan,"Jl. Jend. Sudirman No. 34, Dumai, SN 45373",NET 45,Active
+DN240405,009905,RSS039,2024-11-24,Third-Party Courier,2024-12-02,Received,RS Uyainah,RS Swasta,Bekasi,"Jalan Wonoayu No. 5, Probolinggo, Sulawesi Selatan 53015",NET 30,Active
+DN240406,009906,RSS065,2024-04-21,Internal,,Pending,RS Wibowo,RS Swasta,Depok,"Jalan Sukabumi No. 45, Purwokerto, SU 53187",NET 30,Active
+DN240407,009907,RSP046,2024-12-29,Third-Party Courier,2025-01-04,Received,RSUD Kusmawati,RS Pemerintah,Depok,"Jl. Jakarta No. 898, Prabumulih, GO 95803",NET 45,Active
+DN240408,009908,RSP030,2024-08-12,Internal,2024-08-17,Received,RSUD Wijayanti,RS Pemerintah,Bekasi,"Gg. Jamika No. 4, Manado, Nusa Tenggara Timur 29464",NET 45,Active
+DN240409,009909,RSP030,2024-08-12,Internal,2024-08-14,Received,RSUD Wijayanti,RS Pemerintah,Bekasi,"Gg. Jamika No. 4, Manado, Nusa Tenggara Timur 29464",NET 45,Active
+DN240410,009910,RSS040,2024-05-14,Third-Party Courier,2024-06-23,Late,RS Permata,RS Swasta,Bekasi,"Jl. Dipatiukur No. 549, Kota Administrasi Jakarta Selatan, NB 24286",NET 30,Active
+DN240411,009911,RSS063,2024-07-06,Third-Party Courier,2024-08-05,Late,RS Nasyidah,RS Swasta,Depok,"Jl. Ir. H. Djuanda No. 23, Surabaya, SR 97365",NET 30,Active
+DN240412,009912,RSS034,2024-09-14,Internal,2024-09-22,Received,RS Namaga,RS Swasta,Depok,"Gg. Suniaraja No. 5, Bima, ST 29799",NET 30,Active
+DN240413,009913,RSS034,2024-09-15,Third-Party Courier,2024-09-23,Received,RS Namaga,RS Swasta,Depok,"Gg. Suniaraja No. 5, Bima, ST 29799",NET 30,Active
+DN240414,009914,RSS039,2024-09-04,Internal,2024-10-11,Late,RS Uyainah,RS Swasta,Bekasi,"Jalan Wonoayu No. 5, Probolinggo, Sulawesi Selatan 53015",NET 30,Active
+DN240415,009915,RSS039,2024-09-04,Third-Party Courier,2024-10-07,Late,RS Uyainah,RS Swasta,Bekasi,"Jalan Wonoayu No. 5, Probolinggo, Sulawesi Selatan 53015",NET 30,Active
+DN240416,009916,RSP027,2024-02-18,Internal,2024-02-25,Received,RSUD Pangestu,RS Pemerintah,Jakarta Timur,"Gang Jayawijaya No. 28, Tebingtinggi, Maluku 87793",NET 45,Active
+DN240417,009917,RSP027,2024-02-21,Internal,,Pending,RSUD Pangestu,RS Pemerintah,Jakarta Timur,"Gang Jayawijaya No. 28, Tebingtinggi, Maluku 87793",NET 45,Active
+DN240418,009918,RSS036,2024-04-16,Third-Party Courier,2024-05-12,Late,RS Lestari,RS Swasta,Jakarta Pusat,"Jalan Rajawali Barat No. 8, Pekalongan, Jawa Timur 97170",NET 30,Active
+DN240419,009919,RSS036,2024-04-15,Internal,2024-05-13,Late,RS Lestari,RS Swasta,Jakarta Pusat,"Jalan Rajawali Barat No. 8, Pekalongan, Jawa Timur 97170",NET 30,Active
+DN240420,009920,KLN055,2024-02-18,Third-Party Courier,2024-04-01,Late,Klinik Fujiati,Klinik,Bekasi,"Gg. KH Amin Jasuta No. 19, Palembang, NB 00845",NET 30,Active
+DN240421,009921,KLN055,2024-02-19,Internal,2024-02-23,Received,Klinik Fujiati,Klinik,Bekasi,"Gg. KH Amin Jasuta No. 19, Palembang, NB 00845",NET 30,Active
+DN240422,009922,RSS069,2024-05-18,Third-Party Courier,2024-05-26,Received,RS Samosir,RS Swasta,Depok,"Gg. Abdul Muis No. 4, Parepare, Jawa Timur 95654",NET 30,Active
+DN240423,009923,RSS074,2025-01-01,Internal,2025-01-03,Received,RS Prastuti,RS Swasta,Jakarta Selatan,"Gang Kiaracondong No. 5, Blitar, Bengkulu 86563",NET 30,Active
+DN240424,009924,RSS046,2024-05-12,Internal,2024-05-22,Received,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240425,009925,RSS066,2024-08-12,Third-Party Courier,2024-08-21,Received,RS Prasasta,RS Swasta,Bekasi,"Gg. Setiabudhi No. 8, Solok, DI Yogyakarta 75320",NET 30,Active
+DN240426,009926,RSS066,2024-08-10,Internal,2024-08-19,Received,RS Prasasta,RS Swasta,Bekasi,"Gg. Setiabudhi No. 8, Solok, DI Yogyakarta 75320",NET 30,Active
+DN240427,009927,RSS049,2024-09-13,Third-Party Courier,2024-09-15,Received,RS Januar,RS Swasta,Jakarta Timur,"Gg. Dr. Djunjunan No. 992, Dumai, YO 12053",NET 30,Active
+DN240428,009928,RSP004,2024-09-30,Third-Party Courier,,Pending,RSUD Handayani,RS Pemerintah,Depok,"Gg. W.R. Supratman No. 24, Singkawang, JK 70185",NET 45,Active
+DN240429,009929,RSP004,2024-09-30,Third-Party Courier,2024-10-06,Received,RSUD Handayani,RS Pemerintah,Depok,"Gg. W.R. Supratman No. 24, Singkawang, JK 70185",NET 45,Active
+DN240430,009930,KLN055,2024-11-03,Third-Party Courier,2024-11-05,Received,Klinik Fujiati,Klinik,Bekasi,"Gg. KH Amin Jasuta No. 19, Palembang, NB 00845",NET 30,Active
+DN240431,009931,KLN055,2024-11-04,Internal,2024-12-13,Late,Klinik Fujiati,Klinik,Bekasi,"Gg. KH Amin Jasuta No. 19, Palembang, NB 00845",NET 30,Active
+DN240432,009932,RSP001,2024-07-29,Internal,2024-08-03,Received,RSUD Zulaika,RS Pemerintah,Jakarta Barat,"Jl. KH Amin Jasuta No. 173, Cirebon, JA 74749",NET 45,Active
+DN240433,009933,RSS059,2024-09-10,Third-Party Courier,2024-09-14,Received,RS Wijayanti,RS Swasta,Bekasi,"Gg. M.H Thamrin No. 811, Salatiga, Aceh 22048",NET 30,Active
+DN240434,009934,RSS067,2024-08-30,Third-Party Courier,2024-10-05,Late,RS Simbolon,RS Swasta,Tangerang,"Gg. Siliwangi No. 920, Lubuklinggau, Nusa Tenggara Timur 55686",NET 30,Active
+DN240435,009935,RSS067,2024-08-30,Internal,2024-09-05,Received,RS Simbolon,RS Swasta,Tangerang,"Gg. Siliwangi No. 920, Lubuklinggau, Nusa Tenggara Timur 55686",NET 30,Active
+DN240436,009936,RSP018,2024-06-12,Internal,2024-06-16,Received,RSUD Latupono,RS Pemerintah,Bekasi,"Gang Pasteur No. 04, Magelang, JI 35556",NET 45,Active
+DN240437,009937,RSS026,2024-12-04,Internal,2024-12-06,Received,RS Winarno,RS Swasta,Jakarta Utara,"Jl. Sukajadi No. 509, Sungai Penuh, Gorontalo 65520",NET 30,Active
+DN240438,009938,RSS083,2024-05-05,Internal,2024-05-10,Received,RS Zulkarnain,RS Swasta,Depok,"Gang Suryakencana No. 42, Kota Administrasi Jakarta Pusat, MU 68123",NET 30,Active
+DN240439,009939,KLN057,2024-04-16,Internal,2024-04-26,Received,Klinik Prakasa,Klinik,Jakarta Pusat,"Gg. Moch. Ramdan No. 30, Malang, MU 91208",NET 30,Active
+DN240440,009940,RSP026,2024-10-31,Third-Party Courier,2024-12-06,Late,RSUD Purwanti,RS Pemerintah,Bogor,"Jl. Rawamangun No. 87, Kota Administrasi Jakarta Pusat, Papua Barat 40960",NET 45,Active
+DN240441,009941,RSP009,2024-08-22,Third-Party Courier,,Pending,RSUD Hutagalung,RS Pemerintah,Tangerang,"Gg. Sukajadi No. 47, Padang, Kepulauan Riau 64722",NET 45,Active
+DN240442,009942,RSS060,2024-06-04,Internal,2024-06-13,Received,RS Simbolon,RS Swasta,Jakarta Utara,"Gang Dipenogoro No. 01, Solok, NT 59454",NET 30,Active
+DN240443,009943,KLN034,2024-06-07,Internal,2024-06-12,Received,Klinik Wibowo,Klinik,Bogor,"Jl. Merdeka No. 005, Banjar, YO 83711",NET 30,Active
+DN240444,009944,KLN034,2024-06-06,Third-Party Courier,2024-06-26,Late,Klinik Wibowo,Klinik,Bogor,"Jl. Merdeka No. 005, Banjar, YO 83711",NET 30,Active
+DN240445,009945,KLN044,2024-12-28,Third-Party Courier,2025-01-03,Received,Klinik Thamrin,Klinik,Tangerang,"Gang Astana Anyar No. 56, Tidore Kepulauan, BB 25416",NET 30,Active
+DN240446,009946,RSP046,2024-12-29,Internal,2025-01-05,Received,RSUD Kusmawati,RS Pemerintah,Depok,"Jl. Jakarta No. 898, Prabumulih, GO 95803",NET 45,Active
+DN240447,009947,RSP038,2024-05-29,Third-Party Courier,2024-05-31,Received,RSUD Riyanti,RS Pemerintah,Depok,"Gg. Otto Iskandardinata No. 74, Singkawang, NT 82483",NET 45,Active
+DN240448,009948,RSP038,2024-05-28,Internal,2024-06-01,Received,RSUD Riyanti,RS Pemerintah,Depok,"Gg. Otto Iskandardinata No. 74, Singkawang, NT 82483",NET 45,Active
+DN240449,009949,RSS075,2024-08-14,Internal,2024-08-24,Received,RS Nashiruddin,RS Swasta,Jakarta Barat,"Gg. Cempaka No. 127, Madiun, Jawa Tengah 36354",NET 30,Active
+DN240450,009950,RSS075,2024-08-13,Third-Party Courier,2024-08-17,Received,RS Nashiruddin,RS Swasta,Jakarta Barat,"Gg. Cempaka No. 127, Madiun, Jawa Tengah 36354",NET 30,Active
+DN240451,009951,RSP022,2024-11-16,Internal,,Pending,RSUD Kurniawan,RS Pemerintah,Jakarta Barat,"Gang Waringin No. 94, Sorong, Jawa Barat 68901",NET 45,Active
+DN240452,009952,RSP045,2024-10-11,Third-Party Courier,2024-10-21,Received,RSUD Waluyo,RS Pemerintah,Jakarta Timur,"Jl. M.T Haryono No. 62, Blitar, JA 27798",NET 45,Active
+DN240453,009953,RSS026,2024-07-04,Internal,2024-07-09,Received,RS Winarno,RS Swasta,Jakarta Utara,"Jl. Sukajadi No. 509, Sungai Penuh, Gorontalo 65520",NET 30,Active
+DN240454,009954,RSS026,2024-07-04,Internal,2024-07-07,Received,RS Winarno,RS Swasta,Jakarta Utara,"Jl. Sukajadi No. 509, Sungai Penuh, Gorontalo 65520",NET 30,Active
+DN240455,009955,RSS050,2024-06-18,Third-Party Courier,2024-06-28,Received,RS Kusmawati,RS Swasta,Bogor,"Jalan Ahmad Yani No. 8, Sukabumi, Sulawesi Selatan 16774",NET 30,Active
+DN240456,009956,RSS045,2024-09-26,Third-Party Courier,,Pending,RS Waluyo,RS Swasta,Depok,"Jl. Moch. Toha No. 4, Sorong, YO 08961",NET 30,Active
+DN240457,009957,KLN020,2024-04-19,Internal,2024-04-25,Received,Klinik Widiastuti,Klinik,Jakarta Pusat,"Jl. Wonoayu No. 1, Kota Administrasi Jakarta Pusat, Papua 29498",NET 30,Active
+DN240458,009958,RSS006,2024-07-13,Third-Party Courier,,Pending,RS Manullang,RS Swasta,Depok,"Jl. Tubagus Ismail No. 8, Tangerang, BA 25275",NET 30,Active
+DN240459,009959,RSS006,2024-07-13,Third-Party Courier,2024-08-20,Late,RS Manullang,RS Swasta,Depok,"Jl. Tubagus Ismail No. 8, Tangerang, BA 25275",NET 30,Active
+DN240460,009960,RSS061,2024-09-03,Third-Party Courier,2024-09-11,Received,RS Ardianto,RS Swasta,Bogor,"Jl. Ir. H. Djuanda No. 466, Bandung, SG 80941",NET 30,Active
+DN240461,009961,RSS061,2024-09-04,Internal,2024-09-06,Received,RS Ardianto,RS Swasta,Bogor,"Jl. Ir. H. Djuanda No. 466, Bandung, SG 80941",NET 30,Active
+DN240462,009962,RSP040,2024-10-24,Internal,2024-10-26,Received,RSUD Tarihoran,RS Pemerintah,Bekasi,"Gang Peta No. 055, Palangkaraya, Riau 65418",NET 45,Active
+DN240463,009963,RSS042,2024-03-06,Third-Party Courier,2024-03-08,Received,RS Melani,RS Swasta,Bekasi,"Jalan Rawamangun No. 63, Kota Administrasi Jakarta Pusat, Maluku 89452",NET 30,Active
+DN240464,009964,RSP008,2024-06-25,Third-Party Courier,2024-07-03,Received,RSUD Hakim,RS Pemerintah,Jakarta Barat,"Gang K.H. Wahid Hasyim No. 8, Banda Aceh, Jawa Timur 33834",NET 45,Active
+DN240465,009965,RSP008,2024-06-28,Internal,2024-07-05,Received,RSUD Hakim,RS Pemerintah,Jakarta Barat,"Gang K.H. Wahid Hasyim No. 8, Banda Aceh, Jawa Timur 33834",NET 45,Active
+DN240466,009966,RSS037,2024-03-14,Internal,2024-03-24,Received,RS Lailasari,RS Swasta,Jakarta Barat,"Gg. Kebonjati No. 5, Tasikmalaya, Kalimantan Selatan 99877",NET 30,Active
+DN240467,009967,KLN049,2024-07-31,Internal,2024-08-10,Received,Klinik Palastri,Klinik,Jakarta Timur,"Gg. Merdeka No. 623, Bandar Lampung, KR 13741",NET 30,Active
+DN240468,009968,RSS026,2024-04-17,Internal,2024-04-25,Received,RS Winarno,RS Swasta,Jakarta Utara,"Jl. Sukajadi No. 509, Sungai Penuh, Gorontalo 65520",NET 30,Active
+DN240469,009969,RSS026,2024-04-16,Internal,2024-04-20,Received,RS Winarno,RS Swasta,Jakarta Utara,"Jl. Sukajadi No. 509, Sungai Penuh, Gorontalo 65520",NET 30,Active
+DN240470,009970,KLN015,2024-06-15,Internal,2024-07-29,Late,Klinik Adriansyah,Klinik,Bekasi,"Gg. Cempaka No. 2, Banda Aceh, PB 47514",NET 30,Active
+DN240471,009971,KLN008,2024-12-25,Third-Party Courier,2024-12-30,Received,Klinik Permadi,Klinik,Jakarta Timur,"Gg. Sentot Alibasa No. 00, Ambon, KU 23366",NET 30,Active
+DN240472,009972,RSP011,2024-01-15,Internal,2024-01-20,Received,RSUD Simanjuntak,RS Pemerintah,Jakarta Selatan,"Jl. Jend. Sudirman No. 34, Dumai, SN 45373",NET 45,Active
+DN240473,009973,RSP033,2024-11-25,Third-Party Courier,2024-12-26,Late,RSUD Mandala,RS Pemerintah,Tangerang,"Gg. Gardujati No. 23, Kota Administrasi Jakarta Selatan, Sulawesi Barat 72803",NET 45,Active
+DN240474,009974,RSP033,2024-11-25,Third-Party Courier,2024-12-05,Received,RSUD Mandala,RS Pemerintah,Tangerang,"Gg. Gardujati No. 23, Kota Administrasi Jakarta Selatan, Sulawesi Barat 72803",NET 45,Active
+DN240475,009975,KLN060,2024-08-23,Third-Party Courier,,Pending,Klinik Yuliarti,Klinik,Depok,"Gg. HOS. Cokroaminoto No. 918, Medan, Sulawesi Tenggara 55061",NET 30,Active
+DN240476,009976,KLN013,2024-04-27,Internal,2024-04-30,Received,Klinik Sihotang,Klinik,Bekasi,"Gang Kapten Muslihat No. 87, Ambon, SR 74346",NET 30,Active
+DN240477,009977,KLN013,2024-04-26,Third-Party Courier,2024-05-05,Received,Klinik Sihotang,Klinik,Bekasi,"Gang Kapten Muslihat No. 87, Ambon, SR 74346",NET 30,Active
+DN240478,009978,KLN040,2024-05-03,Third-Party Courier,2024-05-06,Received,Klinik Habibi,Klinik,Bekasi,"Jl. M.T Haryono No. 441, Sibolga, KT 66652",NET 30,Active
+DN240479,009979,KLN067,2024-03-09,Internal,2024-03-11,Received,Klinik Damanik,Klinik,Jakarta Barat,"Jl. Sentot Alibasa No. 1, Banda Aceh, Bengkulu 51703",NET 30,Active
+DN240480,009980,RSP029,2024-11-14,Third-Party Courier,,Pending,RSUD Habibi,RS Pemerintah,Jakarta Barat,"Jalan M.H Thamrin No. 631, Jayapura, Kepulauan Riau 70362",NET 45,Active
+DN240481,009981,RSP029,2024-11-16,Third-Party Courier,,Pending,RSUD Habibi,RS Pemerintah,Jakarta Barat,"Jalan M.H Thamrin No. 631, Jayapura, Kepulauan Riau 70362",NET 45,Active
+DN240482,009982,RSS036,2024-06-12,Internal,,Pending,RS Lestari,RS Swasta,Jakarta Pusat,"Jalan Rajawali Barat No. 8, Pekalongan, Jawa Timur 97170",NET 30,Active
+DN240483,009983,KLN026,2024-09-19,Third-Party Courier,2024-09-26,Received,Klinik Hardiansyah,Klinik,Tangerang,"Gg. Jend. A. Yani No. 3, Surakarta, KB 61820",NET 30,Active
+DN240484,009984,KLN001,2024-11-12,Internal,2024-11-19,Received,Klinik Laksita,Klinik,Jakarta Timur,"Gang Surapati No. 0, Payakumbuh, Bali 83302",NET 30,Active
+DN240485,009985,KLN011,2024-07-12,Third-Party Courier,2024-08-18,Late,Klinik Agustina,Klinik,Bekasi,"Jl. Joyoboyo No. 1, Padangpanjang, Sumatera Selatan 43471",NET 30,Active
+DN240486,009986,RSS010,2024-01-24,Third-Party Courier,,Pending,RS Ardianto,RS Swasta,Jakarta Barat,"Gang M.H Thamrin No. 5, Sukabumi, SR 33778",NET 30,Active
+DN240487,009987,RSS010,2024-01-27,Internal,2024-02-03,Received,RS Ardianto,RS Swasta,Jakarta Barat,"Gang M.H Thamrin No. 5, Sukabumi, SR 33778",NET 30,Active
+DN240488,009988,KLN046,2024-12-09,Internal,,Pending,Klinik Hariyah,Klinik,Jakarta Selatan,"Gg. Lembong No. 152, Kupang, Sumatera Utara 85684",NET 30,Active
+DN240489,009989,KLN044,2024-11-13,Third-Party Courier,2024-11-23,Received,Klinik Thamrin,Klinik,Tangerang,"Gang Astana Anyar No. 56, Tidore Kepulauan, BB 25416",NET 30,Active
+DN240490,009990,KLN044,2024-11-15,Third-Party Courier,2024-12-30,Late,Klinik Thamrin,Klinik,Tangerang,"Gang Astana Anyar No. 56, Tidore Kepulauan, BB 25416",NET 30,Active
+DN240491,009991,RSS044,2024-09-01,Internal,,Pending,RS Permata,RS Swasta,Jakarta Selatan,"Jalan Peta No. 772, Kota Administrasi Jakarta Pusat, AC 05451",NET 30,Active
+DN240492,009992,RSS057,2024-08-17,Third-Party Courier,,Pending,RS Wijaya,RS Swasta,Tangerang,"Jl. Ir. H. Djuanda No. 5, Kota Administrasi Jakarta Barat, JB 57378",NET 30,Active
+DN240493,009993,RSS057,2024-08-18,Internal,2024-08-28,Received,RS Wijaya,RS Swasta,Tangerang,"Jl. Ir. H. Djuanda No. 5, Kota Administrasi Jakarta Barat, JB 57378",NET 30,Active
+DN240494,009994,RSS013,2024-04-16,Third-Party Courier,2024-05-25,Late,RS Sinaga,RS Swasta,Jakarta Barat,"Jalan Cihampelas No. 82, Singkawang, KS 95594",NET 30,Active
+DN240495,009995,RSS013,2024-04-16,Third-Party Courier,2024-05-25,Late,RS Sinaga,RS Swasta,Jakarta Barat,"Jalan Cihampelas No. 82, Singkawang, KS 95594",NET 30,Active
+DN240496,009996,RSS052,2024-04-28,Internal,2024-05-06,Received,RS Mansur,RS Swasta,Jakarta Selatan,"Jalan Jamika No. 8, Salatiga, KR 58806",NET 30,Active
+DN240497,009997,KLN043,2024-04-20,Third-Party Courier,2024-04-26,Received,Klinik Suwarno,Klinik,Jakarta Barat,"Jl. Stasiun Wonokromo No. 6, Banda Aceh, KS 32906",NET 30,Active
+DN240498,009998,KLN066,2024-06-19,Third-Party Courier,2024-06-27,Received,Klinik Wijayanti,Klinik,Depok,"Jalan Siliwangi No. 279, Purwokerto, KT 53579",NET 30,Active
+DN240499,009999,KLN066,2024-06-17,Third-Party Courier,2024-06-21,Received,Klinik Wijayanti,Klinik,Depok,"Jalan Siliwangi No. 279, Purwokerto, KT 53579",NET 30,Active
+DN240500,010000,RSS023,2024-02-24,Internal,2024-03-04,Received,RS Samosir,RS Swasta,Bekasi,"Jalan Rajiman No. 364, Tangerang, BB 97362",NET 30,Active
+DN240501,010001,RSS039,2024-02-01,Third-Party Courier,2024-02-23,Late,RS Uyainah,RS Swasta,Bekasi,"Jalan Wonoayu No. 5, Probolinggo, Sulawesi Selatan 53015",NET 30,Active
+DN240502,010002,RSS032,2024-04-18,Internal,2024-04-25,Received,RS Firgantoro,RS Swasta,Jakarta Pusat,"Gg. Siliwangi No. 8, Balikpapan, SS 27162",NET 30,Active
+DN240503,010003,RSP039,2024-10-23,Internal,2024-10-31,Received,RSUD Mandasari,RS Pemerintah,Bogor,"Gang Jend. A. Yani No. 20, Serang, Aceh 89847",NET 45,Active
+DN240504,010004,KLN017,2024-12-25,Third-Party Courier,2025-01-01,Received,Klinik Astuti,Klinik,Bekasi,"Gang Tubagus Ismail No. 7, Mataram, Maluku Utara 58420",NET 30,Active
+DN240505,010005,KLN017,2024-12-26,Internal,2025-01-04,Received,Klinik Astuti,Klinik,Bekasi,"Gang Tubagus Ismail No. 7, Mataram, Maluku Utara 58420",NET 30,Active
+DN240506,010006,KLN029,2024-07-15,Internal,2024-07-24,Received,Klinik Wastuti,Klinik,Bekasi,"Gg. Rajawali Barat No. 83, Pagaralam, BT 67918",NET 30,Active
+DN240507,010007,RSS007,2024-03-14,Internal,2024-03-20,Received,RS Hardiansyah,RS Swasta,Jakarta Barat,"Jalan Medokan Ayu No. 5, Bukittinggi, Kalimantan Utara 85097",NET 30,Active
+DN240508,010008,KLN023,2024-03-23,Internal,2024-03-25,Received,Klinik Wijayanti,Klinik,Jakarta Selatan,"Jalan Ronggowarsito No. 7, Sawahlunto, SN 92602",NET 30,Active
+DN240509,010009,KLN023,2024-03-21,Internal,2024-03-23,Received,Klinik Wijayanti,Klinik,Jakarta Selatan,"Jalan Ronggowarsito No. 7, Sawahlunto, SN 92602",NET 30,Active
+DN240510,010010,RSS003,2024-06-26,Internal,2024-07-06,Received,RS Dongoran,RS Swasta,Bekasi,"Jl. Jend. Sudirman No. 6, Dumai, Sumatera Barat 48478",NET 30,Active
+DN240511,010011,KLN065,2024-08-12,Third-Party Courier,2024-08-19,Received,Klinik Safitri,Klinik,Jakarta Selatan,"Jl. Yos Sudarso No. 2, Pekanbaru, KR 36958",NET 30,Active
+DN240512,010012,KLN065,2024-08-09,Third-Party Courier,,Pending,Klinik Safitri,Klinik,Jakarta Selatan,"Jl. Yos Sudarso No. 2, Pekanbaru, KR 36958",NET 30,Active
+DN240513,010013,KLN015,2024-10-06,Third-Party Courier,2024-10-15,Received,Klinik Adriansyah,Klinik,Bekasi,"Gg. Cempaka No. 2, Banda Aceh, PB 47514",NET 30,Active
+DN240514,010014,KLN015,2024-10-04,Third-Party Courier,2024-10-06,Received,Klinik Adriansyah,Klinik,Bekasi,"Gg. Cempaka No. 2, Banda Aceh, PB 47514",NET 30,Active
+DN240515,010015,KLN033,2024-05-01,Internal,2024-05-06,Received,Klinik Hutapea,Klinik,Jakarta Barat,"Gg. Tebet Barat Dalam No. 86, Pekalongan, AC 89184",NET 30,Active
+DN240516,010016,KLN031,2024-11-28,Internal,2024-11-30,Received,Klinik Wahyuni,Klinik,Bekasi,"Gg. Ir. H. Djuanda No. 273, Tasikmalaya, Nusa Tenggara Barat 06907",NET 30,Active
+DN240517,010017,KLN031,2024-11-28,Third-Party Courier,2024-11-30,Received,Klinik Wahyuni,Klinik,Bekasi,"Gg. Ir. H. Djuanda No. 273, Tasikmalaya, Nusa Tenggara Barat 06907",NET 30,Active
+DN240518,010018,RSS082,2024-02-06,Internal,2024-02-10,Received,RS Prasetya,RS Swasta,Jakarta Utara,"Gang Joyoboyo No. 8, Bandar Lampung, Sumatera Barat 39409",NET 30,Active
+DN240519,010019,RSS082,2024-02-07,Internal,2024-03-04,Late,RS Prasetya,RS Swasta,Jakarta Utara,"Gang Joyoboyo No. 8, Bandar Lampung, Sumatera Barat 39409",NET 30,Active
+DN240520,010020,RSS041,2024-05-21,Third-Party Courier,2024-06-23,Late,RS Wibisono,RS Swasta,Jakarta Barat,"Jl. Jakarta No. 062, Surakarta, Bengkulu 58958",NET 30,Active
+DN240521,010021,RSS041,2024-05-23,Internal,2024-06-02,Received,RS Wibisono,RS Swasta,Jakarta Barat,"Jl. Jakarta No. 062, Surakarta, Bengkulu 58958",NET 30,Active
+DN240522,010022,KLN036,2024-11-08,Third-Party Courier,2024-12-15,Late,Klinik Mulyani,Klinik,Jakarta Selatan,"Jalan Rungkut Industri No. 18, Lubuklinggau, KR 15845",NET 30,Active
+DN240523,010023,KLN036,2024-11-08,Third-Party Courier,,Pending,Klinik Mulyani,Klinik,Jakarta Selatan,"Jalan Rungkut Industri No. 18, Lubuklinggau, KR 15845",NET 30,Active
+DN240524,010024,KLN056,2024-07-01,Third-Party Courier,,Pending,Klinik Budiyanto,Klinik,Tangerang,"Jl. BKR No. 33, Bima, JB 75322",NET 30,Active
+DN240525,010025,RSP013,2024-12-08,Third-Party Courier,2024-12-16,Received,RSUD Pradipta,RS Pemerintah,Jakarta Pusat,"Gg. Asia Afrika No. 6, Bitung, Sulawesi Tengah 38473",NET 45,Active
+DN240526,010026,RSP013,2024-12-09,Internal,2024-12-12,Received,RSUD Pradipta,RS Pemerintah,Jakarta Pusat,"Gg. Asia Afrika No. 6, Bitung, Sulawesi Tengah 38473",NET 45,Active
+DN240527,010027,RSP027,2024-03-30,Internal,2024-04-02,Received,RSUD Pangestu,RS Pemerintah,Jakarta Timur,"Gang Jayawijaya No. 28, Tebingtinggi, Maluku 87793",NET 45,Active
+DN240528,010028,RSP027,2024-03-29,Third-Party Courier,2024-04-06,Received,RSUD Pangestu,RS Pemerintah,Jakarta Timur,"Gang Jayawijaya No. 28, Tebingtinggi, Maluku 87793",NET 45,Active
+DN240529,010029,RSP053,2024-02-12,Internal,2024-02-14,Received,RSUD Simbolon,RS Pemerintah,Jakarta Utara,"Jalan Indragiri No. 826, Kupang, BA 42657",NET 45,Active
+DN240530,010030,RSP053,2024-02-14,Internal,2024-02-21,Received,RSUD Simbolon,RS Pemerintah,Jakarta Utara,"Jalan Indragiri No. 826, Kupang, BA 42657",NET 45,Active
+DN240531,010031,KLN022,2024-06-13,Internal,2024-06-18,Received,Klinik Pratama,Klinik,Depok,"Gang Jend. Sudirman No. 9, Bau-Bau, SB 13344",NET 30,Active
+DN240532,010032,KLN044,2024-07-08,Third-Party Courier,2024-07-11,Received,Klinik Thamrin,Klinik,Tangerang,"Gang Astana Anyar No. 56, Tidore Kepulauan, BB 25416",NET 30,Active
+DN240533,010033,RSS037,2024-07-01,Third-Party Courier,2024-07-11,Received,RS Lailasari,RS Swasta,Jakarta Barat,"Gg. Kebonjati No. 5, Tasikmalaya, Kalimantan Selatan 99877",NET 30,Active
+DN240534,010034,RSS017,2024-10-05,Internal,2024-10-14,Received,RS Yolanda,RS Swasta,Bogor,"Gg. Medokan Ayu No. 656, Yogyakarta, Lampung 08134",NET 30,Active
+DN240535,010035,RSS017,2024-10-08,Third-Party Courier,2024-11-12,Late,RS Yolanda,RS Swasta,Bogor,"Gg. Medokan Ayu No. 656, Yogyakarta, Lampung 08134",NET 30,Active
+DN240536,010036,RSS011,2024-04-25,Internal,2024-04-30,Received,RS Halim,RS Swasta,Jakarta Timur,"Jalan S. Parman No. 40, Binjai, DI Yogyakarta 18640",NET 30,Active
+DN240537,010037,KLN014,2024-10-24,Third-Party Courier,2024-11-02,Received,Klinik Sitompul,Klinik,Jakarta Utara,"Gang H.J Maemunah No. 03, Kotamobagu, KS 13013",NET 30,Active
+DN240538,010038,KLN014,2024-10-25,Internal,2024-11-04,Received,Klinik Sitompul,Klinik,Jakarta Utara,"Gang H.J Maemunah No. 03, Kotamobagu, KS 13013",NET 30,Active
+DN240539,010039,KLN036,2024-12-23,Internal,2025-01-16,Late,Klinik Mulyani,Klinik,Jakarta Selatan,"Jalan Rungkut Industri No. 18, Lubuklinggau, KR 15845",NET 30,Active
+DN240540,010040,KLN036,2024-12-20,Third-Party Courier,2024-12-30,Received,Klinik Mulyani,Klinik,Jakarta Selatan,"Jalan Rungkut Industri No. 18, Lubuklinggau, KR 15845",NET 30,Active
+DN240541,010041,KLN001,2024-05-26,Third-Party Courier,2024-07-08,Late,Klinik Laksita,Klinik,Jakarta Timur,"Gang Surapati No. 0, Payakumbuh, Bali 83302",NET 30,Active
+DN240542,010042,RSS050,2024-12-03,Third-Party Courier,2024-12-27,Late,RS Kusmawati,RS Swasta,Bogor,"Jalan Ahmad Yani No. 8, Sukabumi, Sulawesi Selatan 16774",NET 30,Active
+DN240543,010043,RSP013,2024-02-02,Internal,2024-02-06,Received,RSUD Pradipta,RS Pemerintah,Jakarta Pusat,"Gg. Asia Afrika No. 6, Bitung, Sulawesi Tengah 38473",NET 45,Active
+DN240544,010044,RSP013,2024-02-03,Internal,2024-02-12,Received,RSUD Pradipta,RS Pemerintah,Jakarta Pusat,"Gg. Asia Afrika No. 6, Bitung, Sulawesi Tengah 38473",NET 45,Active
+DN240545,010045,RSS046,2024-07-10,Internal,2024-07-18,Received,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240546,010046,RSS046,2024-07-09,Internal,2024-07-19,Received,RS Widiastuti,RS Swasta,Jakarta Utara,"Gang Kutai No. 31, Tarakan, Kalimantan Utara 15527",NET 30,Active
+DN240547,010047,KLN068,2024-04-09,Internal,2024-04-12,Received,Klinik Safitri,Klinik,Jakarta Utara,"Gg. Pasteur No. 77, Denpasar, Sumatera Selatan 83826",NET 30,Active
+DN240548,010048,RSS039,2024-04-18,Third-Party Courier,,Pending,RS Uyainah,RS Swasta,Bekasi,"Jalan Wonoayu No. 5, Probolinggo, Sulawesi Selatan 53015",NET 30,Active
+DN240549,010049,RSS047,2024-05-15,Third-Party Courier,2024-05-25,Received,RS Yolanda,RS Swasta,Depok,"Jl. Setiabudhi No. 85, Surakarta, Maluku Utara 60761",NET 30,Active
+DN240550,010050,RSS047,2024-05-14,Third-Party Courier,2024-05-17,Received,RS Yolanda,RS Swasta,Depok,"Jl. Setiabudhi No. 85, Surakarta, Maluku Utara 60761",NET 30,Active
+DN240551,010051,RSS020,2024-12-08,Third-Party Courier,2024-12-12,Received,RS Mardhiyah,RS Swasta,Bekasi,"Jalan Astana Anyar No. 6, Bandung, BE 93629",NET 30,Active
+DN240552,010052,RSS020,2024-12-07,Third-Party Courier,,Pending,RS Mardhiyah,RS Swasta,Bekasi,"Jalan Astana Anyar No. 6, Bandung, BE 93629",NET 30,Active
+DN240553,010053,RSS052,2024-05-21,Internal,2024-06-19,Late,RS Mansur,RS Swasta,Jakarta Selatan,"Jalan Jamika No. 8, Salatiga, KR 58806",NET 30,Active
+DN240554,010054,KLN003,2024-02-12,Internal,,Pending,Klinik Wasita,Klinik,Bekasi,"Jalan Abdul Muis No. 1, Sawahlunto, NB 33992",NET 30,Active
+DN240555,010055,KLN003,2024-02-10,Third-Party Courier,2024-03-26,Late,Klinik Wasita,Klinik,Bekasi,"Jalan Abdul Muis No. 1, Sawahlunto, NB 33992",NET 30,Active
+DN240556,010056,RSP025,2024-02-22,Internal,2024-02-28,Received,RSUD Yuliarti,RS Pemerintah,Jakarta Utara,"Gg. Peta No. 4, Yogyakarta, Kalimantan Barat 13864",NET 45,Active
+DN240557,010057,RSP025,2024-02-19,Internal,2024-02-28,Received,RSUD Yuliarti,RS Pemerintah,Jakarta Utara,"Gg. Peta No. 4, Yogyakarta, Kalimantan Barat 13864",NET 45,Active
+DN240558,010058,RSP026,2024-04-07,Internal,2024-04-10,Received,RSUD Purwanti,RS Pemerintah,Bogor,"Jl. Rawamangun No. 87, Kota Administrasi Jakarta Pusat, Papua Barat 40960",NET 45,Active
+DN240559,010059,RSS019,2024-03-28,Internal,2024-03-30,Received,RS Hidayat,RS Swasta,Jakarta Barat,"Jl. Rungkut Industri No. 2, Tegal, KU 22051",NET 30,Active
+DN240560,010060,RSS019,2024-03-30,Internal,2024-04-15,Late,RS Hidayat,RS Swasta,Jakarta Barat,"Jl. Rungkut Industri No. 2, Tegal, KU 22051",NET 30,Active
+DN240561,010061,RSS081,2024-11-08,Third-Party Courier,2024-11-29,Late,RS Kuswandari,RS Swasta,Bekasi,"Jalan Ciumbuleuit No. 16, Banjarbaru, JT 91797",NET 30,Active
+DN240562,010062,RSS020,2024-06-02,Third-Party Courier,,Pending,RS Mardhiyah,RS Swasta,Bekasi,"Jalan Astana Anyar No. 6, Bandung, BE 93629",NET 30,Active
+DN240563,010063,RSP012,2024-01-05,Third-Party Courier,2024-02-14,Late,RSUD Pertiwi,RS Pemerintah,Bekasi,"Jalan Cikutra Timur No. 50, Tanjungpinang, Sulawesi Tengah 09457",NET 45,Active
+DN240564,010064,KLN030,2024-03-08,Internal,2024-03-16,Received,Klinik Laksita,Klinik,Jakarta Selatan,"Gang Suryakencana No. 17, Prabumulih, JT 35347",NET 30,Active
+DN240565,010065,KLN030,2024-03-06,Internal,2024-03-13,Received,Klinik Laksita,Klinik,Jakarta Selatan,"Gang Suryakencana No. 17, Prabumulih, JT 35347",NET 30,Active
+DN240566,010066,RSP005,2024-01-21,Third-Party Courier,2024-01-24,Received,RSUD Pertiwi,RS Pemerintah,Depok,"Jl. Jend. Sudirman No. 40, Cimahi, KB 37680",NET 45,Active
+DN240567,010067,RSS008,2024-02-27,Internal,2024-03-02,Received,RS Dabukke,RS Swasta,Jakarta Selatan,"Gg. Dr. Djunjunan No. 5, Kediri, LA 93848",NET 30,Active
+DN240568,010068,RSS008,2024-02-28,Internal,2024-03-04,Received,RS Dabukke,RS Swasta,Jakarta Selatan,"Gg. Dr. Djunjunan No. 5, Kediri, LA 93848",NET 30,Active
+DN240569,010069,KLN008,2024-09-03,Internal,2024-09-11,Received,Klinik Permadi,Klinik,Jakarta Timur,"Gg. Sentot Alibasa No. 00, Ambon, KU 23366",NET 30,Active
+DN240570,010070,RSP031,2024-07-31,Third-Party Courier,2024-08-02,Received,RSUD Pradana,RS Pemerintah,Bogor,"Jalan Kutai No. 899, Magelang, Lampung 47109",NET 45,Active
+DN240571,010071,RSP031,2024-07-28,Internal,2024-07-31,Received,RSUD Pradana,RS Pemerintah,Bogor,"Jalan Kutai No. 899, Magelang, Lampung 47109",NET 45,Active
+DN240572,010072,RSS073,2024-08-11,Internal,2024-08-19,Received,RS Suartini,RS Swasta,Depok,"Jl. Siliwangi No. 000, Bandar Lampung, MA 06915",NET 30,Active
+DN240573,010073,RSS073,2024-08-09,Internal,2024-09-04,Late,RS Suartini,RS Swasta,Depok,"Jl. Siliwangi No. 000, Bandar Lampung, MA 06915",NET 30,Active
+DN240574,010074,KLN072,2024-04-11,Internal,2024-04-21,Received,Klinik Nashiruddin,Klinik,Jakarta Selatan,"Jalan Dipatiukur No. 1, Kota Administrasi Jakarta Timur, Sulawesi Utara 43637",NET 30,Active
+DN240575,010075,RSP014,2025-01-02,Internal,2025-01-28,Late,RSUD Pradana,RS Pemerintah,Jakarta Barat,"Gg. Laswi No. 502, Kota Administrasi Jakarta Selatan, KI 82623",NET 45,Active
+DN240576,010076,RSP029,2024-07-25,Internal,2024-08-04,Received,RSUD Habibi,RS Pemerintah,Jakarta Barat,"Jalan M.H Thamrin No. 631, Jayapura, Kepulauan Riau 70362",NET 45,Active
+DN240577,010077,RSS002,2024-08-23,Third-Party Courier,2024-08-25,Received,RS Wasita,RS Swasta,Jakarta Utara,"Gg. Surapati No. 10, Surakarta, Maluku Utara 15272",NET 30,Active
+DN240578,010078,RSP017,2024-11-29,Third-Party Courier,2024-12-03,Received,RSUD Prasetya,RS Pemerintah,Jakarta Barat,"Jalan Bangka Raya No. 3, Sawahlunto, NB 00153",NET 45,Active
+DN240579,010079,RSP047,2024-01-11,Third-Party Courier,2024-01-20,Received,RSUD Yolanda,RS Pemerintah,Depok,"Jl. Astana Anyar No. 4, Batu, Papua Barat 60290",NET 45,Active
+DN240580,010080,RSP047,2024-01-07,Third-Party Courier,2024-01-11,Received,RSUD Yolanda,RS Pemerintah,Depok,"Jl. Astana Anyar No. 4, Batu, Papua Barat 60290",NET 45,Active
+DN240581,010081,RSS053,2024-03-27,Internal,2024-03-29,Received,RS Mahendra,RS Swasta,Jakarta Barat,"Gg. Peta No. 6, Kota Administrasi Jakarta Selatan, Kalimantan Barat 09600",NET 30,Active
+DN240582,010082,RSS053,2024-02-28,Third-Party Courier,,Pending,RS Mahendra,RS Swasta,Jakarta Barat,"Gg. Peta No. 6, Kota Administrasi Jakarta Selatan, Kalimantan Barat 09600",NET 30,Active
+DN240583,010083,RSP036,2024-02-26,Internal,2024-03-03,Received,RSUD Wulandari,RS Pemerintah,Depok,"Jl. S. Parman No. 3, Tanjungpinang, KR 86766",NET 45,Active
+DN240584,010084,KLN043,2024-11-19,Internal,2024-11-24,Received,Klinik Suwarno,Klinik,Jakarta Barat,"Jl. Stasiun Wonokromo No. 6, Banda Aceh, KS 32906",NET 30,Active
+DN240585,010085,KLN043,2024-11-20,Internal,2024-12-22,Late,Klinik Suwarno,Klinik,Jakarta Barat,"Jl. Stasiun Wonokromo No. 6, Banda Aceh, KS 32906",NET 30,Active
+DN240586,010086,RSP007,2024-07-06,Internal,2024-07-12,Received,RSUD Wulandari,RS Pemerintah,Bogor,"Jl. Raya Ujungberung No. 6, Magelang, Sulawesi Barat 84513",NET 45,Active
+DN240587,010087,KLN024,2024-11-18,Internal,2024-11-27,Received,Klinik Hasanah,Klinik,Jakarta Barat,"Gang Gardujati No. 183, Samarinda, Maluku 76533",NET 30,Active
+DN240588,010088,KLN024,2024-11-17,Third-Party Courier,2024-11-25,Received,Klinik Hasanah,Klinik,Jakarta Barat,"Gang Gardujati No. 183, Samarinda, Maluku 76533",NET 30,Active
+DN240589,010089,RSS063,2024-07-02,Third-Party Courier,2024-07-10,Received,RS Nasyidah,RS Swasta,Depok,"Jl. Ir. H. Djuanda No. 23, Surabaya, SR 97365",NET 30,Active
+DN240590,010090,RSS031,2024-01-12,Third-Party Courier,2024-02-10,Late,RS Pranowo,RS Swasta,Jakarta Selatan,"Jalan Moch. Ramdan No. 214, Tanjungbalai, KU 44727",NET 30,Active
+DN240591,010091,RSS044,2024-04-20,Third-Party Courier,2024-05-05,Late,RS Permata,RS Swasta,Jakarta Selatan,"Jalan Peta No. 772, Kota Administrasi Jakarta Pusat, AC 05451",NET 30,Active
+DN240592,010092,RSS044,2024-04-20,Third-Party Courier,2024-04-24,Received,RS Permata,RS Swasta,Jakarta Selatan,"Jalan Peta No. 772, Kota Administrasi Jakarta Pusat, AC 05451",NET 30,Active
+DN240593,010093,RSS012,2024-08-30,Third-Party Courier,2024-09-29,Late,RS Haryanto,RS Swasta,Tangerang,"Gg. Raya Ujungberung No. 7, Bontang, Gorontalo 21353",NET 30,Active
+DN240594,010094,RSS021,2024-10-24,Third-Party Courier,2024-10-27,Received,RS Wijaya,RS Swasta,Tangerang,"Gang PHH. Mustofa No. 96, Sukabumi, Jawa Timur 86586",NET 30,Active
+DN240595,010095,RSS021,2024-10-23,Internal,2024-10-31,Received,RS Wijaya,RS Swasta,Tangerang,"Gang PHH. Mustofa No. 96, Sukabumi, Jawa Timur 86586",NET 30,Active
+DN240596,010096,RSP049,2024-04-12,Internal,2024-05-08,Late,RSUD Gunarto,RS Pemerintah,Jakarta Selatan,"Gg. M.T Haryono No. 2, Bogor, Kalimantan Timur 11787",NET 45,Active
+DN240597,010097,RSP049,2024-04-13,Internal,2024-04-20,Received,RSUD Gunarto,RS Pemerintah,Jakarta Selatan,"Gg. M.T Haryono No. 2, Bogor, Kalimantan Timur 11787",NET 45,Active
+DN240598,010098,RSP029,2024-07-04,Internal,2024-07-13,Received,RSUD Habibi,RS Pemerintah,Jakarta Barat,"Jalan M.H Thamrin No. 631, Jayapura, Kepulauan Riau 70362",NET 45,Active
+DN240599,010099,KLN001,2024-10-30,Internal,2024-11-09,Received,Klinik Laksita,Klinik,Jakarta Timur,"Gang Surapati No. 0, Payakumbuh, Bali 83302",NET 30,Active
+DN240600,010100,KLN001,2024-10-31,Third-Party Courier,2024-11-08,Received,Klinik Laksita,Klinik,Jakarta Timur,"Gang Surapati No. 0, Payakumbuh, Bali 83302",NET 30,Active
+DN240601,010101,KLN039,2024-05-04,Internal,2024-05-11,Received,Klinik Halimah,Klinik,Bekasi,"Gang Cikapayang No. 85, Tangerang Selatan, Maluku 00119",NET 30,Active
+DN240602,010102,RSS057,2024-07-02,Internal,2024-07-09,Received,RS Wijaya,RS Swasta,Tangerang,"Jl. Ir. H. Djuanda No. 5, Kota Administrasi Jakarta Barat, JB 57378",NET 30,Active
+DN240603,010103,RSS057,2024-07-03,Internal,2024-07-20,Late,RS Wijaya,RS Swasta,Tangerang,"Jl. Ir. H. Djuanda No. 5, Kota Administrasi Jakarta Barat, JB 57378",NET 30,Active
+DN240604,010104,RSP034,2024-05-07,Internal,2024-05-16,Received,RSUD Tarihoran,RS Pemerintah,Jakarta Barat,"Jl. Rumah Sakit No. 895, Probolinggo, Nusa Tenggara Timur 61113",NET 45,Active
+DN240605,010105,RSS034,2024-11-26,Third-Party Courier,2024-12-02,Received,RS Namaga,RS Swasta,Depok,"Gg. Suniaraja No. 5, Bima, ST 29799",NET 30,Active
+DN240606,010106,KLN034,2024-08-22,Third-Party Courier,2024-10-02,Late,Klinik Wibowo,Klinik,Bogor,"Jl. Merdeka No. 005, Banjar, YO 83711",NET 30,Active
+DN240607,010107,RSP014,2024-05-21,Internal,2024-05-25,Received,RSUD Pradana,RS Pemerintah,Jakarta Barat,"Gg. Laswi No. 502, Kota Administrasi Jakarta Selatan, KI 82623",NET 45,Active
+DN240608,010108,RSS030,2024-02-02,Third-Party Courier,2024-02-28,Late,RS Yulianti,RS Swasta,Bekasi,"Gang Merdeka No. 737, Parepare, Bengkulu 13524",NET 30,Active
+DN240609,010109,RSS010,2024-02-12,Internal,2024-02-20,Received,RS Ardianto,RS Swasta,Jakarta Barat,"Gang M.H Thamrin No. 5, Sukabumi, SR 33778",NET 30,Active
+DN240610,010110,RSS017,2024-05-17,Third-Party Courier,2024-05-22,Received,RS Yolanda,RS Swasta,Bogor,"Gg. Medokan Ayu No. 656, Yogyakarta, Lampung 08134",NET 30,Active
+DN240611,010111,RSS057,2024-12-17,Third-Party Courier,2024-12-24,Received,RS Wijaya,RS Swasta,Tangerang,"Jl. Ir. H. Djuanda No. 5, Kota Administrasi Jakarta Barat, JB 57378",NET 30,Active
+DN240612,010112,RSS008,2024-03-04,Internal,2024-03-24,Late,RS Dabukke,RS Swasta,Jakarta Selatan,"Gg. Dr. Djunjunan No. 5, Kediri, LA 93848",NET 30,Active
+DN240613,010113,RSP052,2024-02-18,Internal,2024-02-28,Received,RSUD Wahyuni,RS Pemerintah,Jakarta Timur,"Gg. Gedebage Selatan No. 12, Malang, KU 48302",NET 45,Active
+DN240614,010114,RSP052,2024-02-17,Internal,2024-02-25,Received,RSUD Wahyuni,RS Pemerintah,Jakarta Timur,"Gg. Gedebage Selatan No. 12, Malang, KU 48302",NET 45,Active
+DN240615,010115,RSS061,2024-01-07,Third-Party Courier,2024-01-14,Received,RS Ardianto,RS Swasta,Bogor,"Jl. Ir. H. Djuanda No. 466, Bandung, SG 80941",NET 30,Active
+DN240616,010116,KLN041,2024-03-31,Internal,2024-04-04,Received,Klinik Suryatmi,Klinik,Jakarta Timur,"Gang Tubagus Ismail No. 80, Pariaman, MU 03775",NET 30,Active
+DN240617,010117,RSS001,2024-08-15,Internal,2024-08-19,Received,RS Suryono,RS Swasta,Tangerang,"Gang Dipatiukur No. 1, Tebingtinggi, Kepulauan Riau 46986",NET 30,Active
+DN240618,010118,RSS001,2024-08-16,Third-Party Courier,2024-08-21,Received,RS Suryono,RS Swasta,Tangerang,"Gang Dipatiukur No. 1, Tebingtinggi, Kepulauan Riau 46986",NET 30,Active
+DN240619,010119,RSS030,2024-12-03,Third-Party Courier,,Pending,RS Yulianti,RS Swasta,Bekasi,"Gang Merdeka No. 737, Parepare, Bengkulu 13524",NET 30,Active
+DN240620,010120,RSS030,2024-12-03,Third-Party Courier,2024-12-12,Received,RS Yulianti,RS Swasta,Bekasi,"Gang Merdeka No. 737, Parepare, Bengkulu 13524",NET 30,Active
+DN240621,010121,RSP029,2024-11-19,Internal,2024-11-25,Received,RSUD Habibi,RS Pemerintah,Jakarta Barat,"Jalan M.H Thamrin No. 631, Jayapura, Kepulauan Riau 70362",NET 45,Active
+DN240622,010122,RSP029,2024-11-19,Third-Party Courier,2024-11-26,Received,RSUD Habibi,RS Pemerintah,Jakarta Barat,"Jalan M.H Thamrin No. 631, Jayapura, Kepulauan Riau 70362",NET 45,Active
+DN240623,010123,RSS017,2024-12-22,Third-Party Courier,2025-01-22,Late,RS Yolanda,RS Swasta,Bogor,"Gg. Medokan Ayu No. 656, Yogyakarta, Lampung 08134",NET 30,Active
+DN240624,010124,RSS017,2024-12-22,Third-Party Courier,2024-12-31,Received,RS Yolanda,RS Swasta,Bogor,"Gg. Medokan Ayu No. 656, Yogyakarta, Lampung 08134",NET 30,Active
+DN240625,010125,KLN026,2024-08-06,Third-Party Courier,2024-08-14,Received,Klinik Hardiansyah,Klinik,Tangerang,"Gg. Jend. A. Yani No. 3, Surakarta, KB 61820",NET 30,Active
+DN240626,010126,KLN019,2024-06-02,Internal,2024-06-09,Received,Klinik Padmasari,Klinik,Tangerang,"Gg. Astana Anyar No. 33, Bontang, Kalimantan Barat 07263",NET 30,Active
+DN240627,010127,KLN014,2024-04-22,Internal,2024-04-30,Received,Klinik Sitompul,Klinik,Jakarta Utara,"Gang H.J Maemunah No. 03, Kotamobagu, KS 13013",NET 30,Active
+DN240628,010128,KLN057,2024-12-17,Internal,,Pending,Klinik Prakasa,Klinik,Jakarta Pusat,"Gg. Moch. Ramdan No. 30, Malang, MU 91208",NET 30,Active
+DN240629,010129,KLN057,2024-12-17,Internal,2025-01-02,Late,Klinik Prakasa,Klinik,Jakarta Pusat,"Gg. Moch. Ramdan No. 30, Malang, MU 91208",NET 30,Active
+DN240630,010130,RSS048,2024-10-03,Internal,2024-10-05,Received,RS Sitorus,RS Swasta,Jakarta Barat,"Jalan Pasirkoja No. 42, Kendari, Banten 21343",NET 30,Active
+DN240631,010131,RSS048,2024-10-02,Third-Party Courier,2024-10-22,Late,RS Sitorus,RS Swasta,Jakarta Barat,"Jalan Pasirkoja No. 42, Kendari, Banten 21343",NET 30,Active
+DN240632,010132,KLN030,2024-01-18,Third-Party Courier,2024-02-04,Late,Klinik Laksita,Klinik,Jakarta Selatan,"Gang Suryakencana No. 17, Prabumulih, JT 35347",NET 30,Active
+DN240633,010133,KLN030,2024-01-18,Internal,2024-01-26,Received,Klinik Laksita,Klinik,Jakarta Selatan,"Gang Suryakencana No. 17, Prabumulih, JT 35347",NET 30,Active
+DN240634,010134,KLN052,2024-06-15,Third-Party Courier,2024-07-21,Late,Klinik Sihotang,Klinik,Jakarta Barat,"Gang Kapten Muslihat No. 199, Ternate, ST 41261",NET 30,Active
+DN240635,010135,KLN059,2024-10-13,Internal,2024-10-23,Received,Klinik Wahyudin,Klinik,Jakarta Timur,"Gang Siliwangi No. 97, Pekalongan, DKI Jakarta 67319",NET 30,Active
+DN240636,010136,RSP024,2024-09-23,Third-Party Courier,2024-10-19,Late,RSUD Yuniar,RS Pemerintah,Bekasi,"Jl. Wonoayu No. 5, Kota Administrasi Jakarta Selatan, Nusa Tenggara Barat 20154",NET 45,Active
+DN240637,010137,RSS010,2024-02-06,Internal,2024-02-13,Received,RS Ardianto,RS Swasta,Jakarta Barat,"Gang M.H Thamrin No. 5, Sukabumi, SR 33778",NET 30,Active
+DN240638,010138,KLN068,2024-05-18,Internal,,Pending,Klinik Safitri,Klinik,Jakarta Utara,"Gg. Pasteur No. 77, Denpasar, Sumatera Selatan 83826",NET 30,Active
+DN240639,010139,RSS058,2024-11-30,Third-Party Courier,2024-12-02,Received,RS Astuti,RS Swasta,Jakarta Barat,"Gang PHH. Mustofa No. 40, Palembang, Sumatera Selatan 46313",NET 30,Active
+DN240640,010140,KLN068,2024-05-23,Internal,,Pending,Klinik Safitri,Klinik,Jakarta Utara,"Gg. Pasteur No. 77, Denpasar, Sumatera Selatan 83826",NET 30,Active
+DN240641,010141,RSP036,2024-09-18,Third-Party Courier,2024-09-22,Received,RSUD Wulandari,RS Pemerintah,Depok,"Jl. S. Parman No. 3, Tanjungpinang, KR 86766",NET 45,Active
+DN240642,010142,RSS004,2024-05-19,Internal,2024-05-24,Received,RS Waskita,RS Swasta,Jakarta Barat,"Gg. Sentot Alibasa No. 540, Tebingtinggi, RI 20974",NET 30,Active
+DN240643,010143,RSS004,2024-05-20,Internal,2024-05-27,Received,RS Waskita,RS Swasta,Jakarta Barat,"Gg. Sentot Alibasa No. 540, Tebingtinggi, RI 20974",NET 30,Active
+DN240644,010144,RSS033,2024-06-30,Internal,2024-07-08,Received,RS Wijayanti,RS Swasta,Jakarta Utara,"Jalan Jend. Sudirman No. 16, Kotamobagu, Papua Barat 11606",NET 30,Active
+DN240645,010145,RSP037,2024-07-08,Internal,2024-08-13,Late,RSUD Pradana,RS Pemerintah,Depok,"Jalan Joyoboyo No. 4, Sukabumi, JT 49296",NET 45,Active
+DN240646,010146,RSS008,2024-06-23,Third-Party Courier,2024-07-25,Late,RS Dabukke,RS Swasta,Jakarta Selatan,"Gg. Dr. Djunjunan No. 5, Kediri, LA 93848",NET 30,Active
+DN240647,010147,RSS042,2024-03-01,Internal,,Pending,RS Melani,RS Swasta,Bekasi,"Jalan Rawamangun No. 63, Kota Administrasi Jakarta Pusat, Maluku 89452",NET 30,Active
+DN240648,010148,RSS063,2024-05-29,Internal,2024-06-24,Late,RS Nasyidah,RS Swasta,Depok,"Jl. Ir. H. Djuanda No. 23, Surabaya, SR 97365",NET 30,Active
+DN240649,010149,RSS063,2024-05-27,Third-Party Courier,2024-06-04,Received,RS Nasyidah,RS Swasta,Depok,"Jl. Ir. H. Djuanda No. 23, Surabaya, SR 97365",NET 30,Active
+DN240650,010150,RSP046,2024-08-05,Third-Party Courier,2024-08-09,Received,RSUD Kusmawati,RS Pemerintah,Depok,"Jl. Jakarta No. 898, Prabumulih, GO 95803",NET 45,Active
+DN240651,010151,RSS082,2024-08-04,Internal,2024-08-12,Received,RS Prasetya,RS Swasta,Jakarta Utara,"Gang Joyoboyo No. 8, Bandar Lampung, Sumatera Barat 39409",NET 30,Active
+DN240652,010152,RSS082,2024-08-03,Third-Party Courier,2024-08-07,Received,RS Prasetya,RS Swasta,Jakarta Utara,"Gang Joyoboyo No. 8, Bandar Lampung, Sumatera Barat 39409",NET 30,Active
+DN240653,010153,RSP040,2024-11-14,Third-Party Courier,2024-11-21,Received,RSUD Tarihoran,RS Pemerintah,Bekasi,"Gang Peta No. 055, Palangkaraya, Riau 65418",NET 45,Active
+DN240654,010154,RSS058,2024-06-22,Internal,2024-06-24,Received,RS Astuti,RS Swasta,Jakarta Barat,"Gang PHH. Mustofa No. 40, Palembang, Sumatera Selatan 46313",NET 30,Active
+DN240655,010155,RSS058,2024-06-19,Internal,,Pending,RS Astuti,RS Swasta,Jakarta Barat,"Gang PHH. Mustofa No. 40, Palembang, Sumatera Selatan 46313",NET 30,Active
+DN240656,010156,RSS039,2024-07-29,Internal,2024-08-03,Received,RS Uyainah,RS Swasta,Bekasi,"Jalan Wonoayu No. 5, Probolinggo, Sulawesi Selatan 53015",NET 30,Active
+DN240657,010157,RSS082,2024-03-31,Internal,2024-04-03,Received,RS Prasetya,RS Swasta,Jakarta Utara,"Gang Joyoboyo No. 8, Bandar Lampung, Sumatera Barat 39409",NET 30,Active
+DN240658,010158,KLN073,2024-10-16,Internal,2024-10-26,Received,Klinik Maryati,Klinik,Jakarta Barat,"Jl. M.H Thamrin No. 7, Kota Administrasi Jakarta Barat, ST 47314",NET 30,Active
+DN240659,010159,KLN073,2024-10-18,Third-Party Courier,,Pending,Klinik Maryati,Klinik,Jakarta Barat,"Jl. M.H Thamrin No. 7, Kota Administrasi Jakarta Barat, ST 47314",NET 30,Active
+DN240660,010160,RSS047,2024-12-07,Third-Party Courier,2024-12-11,Received,RS Yolanda,RS Swasta,Depok,"Jl. Setiabudhi No. 85, Surakarta, Maluku Utara 60761",NET 30,Active
+DN240661,010161,RSS078,2024-12-27,Internal,2025-01-01,Received,RS Permata,RS Swasta,Bogor,"Jl. HOS. Cokroaminoto No. 235, Sawahlunto, KR 10375",NET 30,Active
+DN240662,010162,RSS016,2024-02-27,Internal,2024-03-02,Received,RS Natsir,RS Swasta,Tangerang,"Gg. W.R. Supratman No. 2, Surabaya, RI 30777",NET 30,Active
+DN240663,010163,KLN048,2024-11-23,Internal,,Pending,Klinik Yulianti,Klinik,Jakarta Barat,"Jl. Sentot Alibasa No. 30, Bitung, KS 23572",NET 30,Active
+DN240664,010164,KLN021,2024-12-10,Internal,2024-12-17,Received,Klinik Sinaga,Klinik,Jakarta Barat,"Gang Peta No. 7, Surakarta, Sumatera Utara 88637",NET 30,Active
+DN240665,010165,KLN021,2024-12-11,Internal,2024-12-14,Received,Klinik Sinaga,Klinik,Jakarta Barat,"Gang Peta No. 7, Surakarta, Sumatera Utara 88637",NET 30,Active
+DN240666,010166,RSS043,2024-10-20,Third-Party Courier,2024-10-30,Received,RS Wacana,RS Swasta,Bogor,"Gang Rajawali Barat No. 1, Pekalongan, NB 17459",NET 30,Active
+DN240667,010167,RSS043,2024-10-21,Third-Party Courier,2024-11-20,Late,RS Wacana,RS Swasta,Bogor,"Gang Rajawali Barat No. 1, Pekalongan, NB 17459",NET 30,Active
+DN240668,010168,KLN003,2024-12-03,Third-Party Courier,2025-01-08,Late,Klinik Wasita,Klinik,Bekasi,"Jalan Abdul Muis No. 1, Sawahlunto, NB 33992",NET 30,Active
+DN240669,010169,KLN003,2024-12-02,Third-Party Courier,2024-12-04,Received,Klinik Wasita,Klinik,Bekasi,"Jalan Abdul Muis No. 1, Sawahlunto, NB 33992",NET 30,Active
+DN240670,010170,RSS045,2024-02-24,Third-Party Courier,2024-03-10,Late,RS Waluyo,RS Swasta,Depok,"Jl. Moch. Toha No. 4, Sorong, YO 08961",NET 30,Active
+DN240671,010171,KLN056,2024-08-10,Internal,,Pending,Klinik Budiyanto,Klinik,Tangerang,"Jl. BKR No. 33, Bima, JB 75322",NET 30,Active
+DN240672,010172,RSP041,2024-01-08,Internal,2024-01-11,Received,RSUD Prakasa,RS Pemerintah,Jakarta Barat,"Jalan Gardujati No. 06, Cimahi, AC 32340",NET 45,Active
+DN240673,010173,RSP004,2024-12-07,Internal,2024-12-15,Received,RSUD Handayani,RS Pemerintah,Depok,"Gg. W.R. Supratman No. 24, Singkawang, JK 70185",NET 45,Active
+DN240674,010174,RSP004,2024-12-05,Third-Party Courier,2024-12-11,Received,RSUD Handayani,RS Pemerintah,Depok,"Gg. W.R. Supratman No. 24, Singkawang, JK 70185",NET 45,Active
+DN240675,010175,KLN065,2024-10-12,Internal,2024-10-29,Late,Klinik Safitri,Klinik,Jakarta Selatan,"Jl. Yos Sudarso No. 2, Pekanbaru, KR 36958",NET 30,Active
+DN240676,010176,KLN065,2024-10-13,Internal,2024-10-21,Received,Klinik Safitri,Klinik,Jakarta Selatan,"Jl. Yos Sudarso No. 2, Pekanbaru, KR 36958",NET 30,Active
+DN240677,010177,RSP017,2024-04-07,Third-Party Courier,2024-05-04,Late,RSUD Prasetya,RS Pemerintah,Jakarta Barat,"Jalan Bangka Raya No. 3, Sawahlunto, NB 00153",NET 45,Active
+DN240678,010178,RSP013,2024-01-20,Internal,2024-01-26,Received,RSUD Pradipta,RS Pemerintah,Jakarta Pusat,"Gg. Asia Afrika No. 6, Bitung, Sulawesi Tengah 38473",NET 45,Active
+DN240679,010179,RSS050,2024-03-28,Internal,2024-03-30,Received,RS Kusmawati,RS Swasta,Bogor,"Jalan Ahmad Yani No. 8, Sukabumi, Sulawesi Selatan 16774",NET 30,Active
+DN240680,010180,RSS019,2024-11-12,Third-Party Courier,2024-11-22,Received,RS Hidayat,RS Swasta,Jakarta Barat,"Jl. Rungkut Industri No. 2, Tegal, KU 22051",NET 30,Active
+DN240681,010181,RSS019,2024-11-15,Internal,2024-11-20,Received,RS Hidayat,RS Swasta,Jakarta Barat,"Jl. Rungkut Industri No. 2, Tegal, KU 22051",NET 30,Active
+DN240682,010182,KLN033,2024-11-20,Internal,,Pending,Klinik Hutapea,Klinik,Jakarta Barat,"Gg. Tebet Barat Dalam No. 86, Pekalongan, AC 89184",NET 30,Active
+DN240683,010183,KLN033,2024-11-23,Internal,2024-11-29,Received,Klinik Hutapea,Klinik,Jakarta Barat,"Gg. Tebet Barat Dalam No. 86, Pekalongan, AC 89184",NET 30,Active
