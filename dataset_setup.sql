@@ -114,17 +114,15 @@ CREATE TABLE public.return_data (
 );
 
 /*
-\copy dn_data FROM 'C:\Users\FITRAH\OneDrive - Virtual Education Academy\Portfolio\MedikaUtama\Dataset\dn_data.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
-\copy invoice_data FROM 'C:\Users\FITRAH\OneDrive - Virtual Education Academy\Portfolio\MedikaUtama\Dataset\invoice_data.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
-\copy invoice_detail FROM 'C:\Users\FITRAH\OneDrive - Virtual Education Academy\Portfolio\MedikaUtama\Dataset\invoice_detail.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
-\copy master_customer FROM 'C:\Users\FITRAH\OneDrive - Virtual Education Academy\Portfolio\MedikaUtama\Dataset\master_customer.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
-\copy master_sales_rep FROM 'C:\Users\FITRAH\OneDrive - Virtual Education Academy\Portfolio\MedikaUtama\Dataset\master_sales_rep.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
-\copy master_sku FROM 'C:\Users\FITRAH\OneDrive - Virtual Education Academy\Portfolio\MedikaUtama\Dataset\master_sku.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
-\copy return_data FROM 'C:\Users\FITRAH\OneDrive - Virtual Education Academy\Portfolio\MedikaUtama\Dataset\retur_data.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
-\copy so_data FROM 'C:\Users\FITRAH\OneDrive - Virtual Education Academy\Portfolio\MedikaUtama\Dataset\so_data.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
-\copy so_detail FROM 'C:\Users\FITRAH\OneDrive - Virtual Education Academy\Portfolio\MedikaUtama\Dataset\so_detail.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
-
-C:\Users\FITRAH\OneDrive - Virtual Education Academy\Portfolio\MedikaUtama\Dataset
+\copy dn_data FROM 'Dataset/dn_data.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy invoice_data FROM 'Dataset/invoice_data.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy invoice_detail FROM 'Dataset/invoice_detail.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy master_customer FROM 'Dataset/master_customer.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy master_sales_rep FROM 'Dataset/master_sales_rep.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy master_sku FROM 'Dataset/master_sku.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy return_data FROM 'Dataset/retur_data.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy so_data FROM 'Dataset/so_data.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy so_detail FROM 'Dataset/so_detail.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 */
 
 DROP Table IF EXISTS public.master_customer;
