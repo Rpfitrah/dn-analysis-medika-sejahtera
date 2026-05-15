@@ -26,7 +26,7 @@ nama-repository/
 ├── dataset_setup.sql  
 ├── ERD.dbdiagram  
 ├── df_clean.csv  
-└── [README.md](http://readme.md/)
+└── [README.md](https://github.com/Rpfitrah/dn-analysis-medika-sejahtera/blob/main/README.md)
 
 ## Summary
 After analyzing approximately 680 DN transactions at PT Medika Sejahtera throughout 2024, it was found that nearly 1 in 3 DNs were problematic — either returned late or not returned at all. This occurs because healthcare institutions delay returning the DN after receiving their orders, making it difficult for the company to issue invoices and plan finances accurately.
