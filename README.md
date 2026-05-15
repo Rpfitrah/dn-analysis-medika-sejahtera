@@ -47,9 +47,9 @@ First, the company should establish a maximum DN return deadline — for example
 
 ## How to Run
 1. Clone this repository  
-    git git clone https://github.com/Rpfitrah/dn-analysis-medika-sejahtera
+    git clone https://github.com/Rpfitrah/dn-analysis-medika-sejahtera
 
-2. Set up the database by running `dataset_setup.sql` in PostgreSQL  
+2. Install the required Python libraries:  
     pip install pandas matplotlib seaborn sqlalchemy ipython-sql
 3. Set up the database in PostgreSQL:
    - Create a database named `medika_sejahtera` in pgAdmin
